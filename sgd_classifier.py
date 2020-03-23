@@ -5,8 +5,10 @@ import pandas as pd
 from shutil import copy2
 
 
-training_set = [os.path.join("path/training_set", f) for f in os.listdir("path/temporary_training_set")]
-test_set = [os.path.join("path/test_set", f) for f in os.listdir("path_test/abstract_lake")]
+#training set folder has all abstratcs from gs and random
+#polydioxaxe abstracts osnat will send, only use when validate
+training_set = [os.path.join("/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstract_lake/abstract_lake_training_set", f) for f in os.listdir("/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstract_lake/abstract_lake_training_set")]
+test_set = [os.path.join("/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstract_lake/abstract_lake_polydioxanone", f) for f in os.listdir("/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstract_lake/abstract_lake_polydioxanone")]
 
 #making labels 
 def make_labels(data):
@@ -20,14 +22,14 @@ def make_labels(data):
         train_labels[docID] = 0
         filepathTokens = fil.split('/')
         lastToken = filepathTokens[len(filepathTokens) - 1]
-        if lastToken.startswith("rand"):
+        if lastToken.endswith("rand.txt"):
             train_labels[docID] = 1
             count = count + 1
         docID = docID + 1
     return train_labels, file_list
 
-#make a dictionary from the training set:
-count_vect = CountVectorizer(input='filename', ngram_range=(1,2), max_df=0.9, min_df= 0.0, stop_words= 'english')
+##make a dictionary from the training set:
+count_vect = CountVectorizer(input='filename', ngram_range=(1,2), max_df=0.9, min_df= 0.0, stop_words= 'english') #decode_error='ignore' input='filename', encoding='cp850'
 X_train_counts = count_vect.fit_transform(training_set)
 
 
@@ -58,7 +60,7 @@ predicted = sgd_clf.predict(X_test_tfidf)
 #the results of the classification
 results = dict(zip(test_set, predicted))
 df_results = pd.DataFrame.from_dict(results, orient='index')
-df_results.to_csv("path/classification_results_SGD1.csv", sep='\t')
+df_results.to_csv("/Users/austinmckitrick/git/debbie/DEBBIE_DATA/classification_results_SGD1.csv", sep=' ')
 
 relevant_abstracts = []
 not_relevant_abstracts = []
@@ -70,14 +72,16 @@ for key, value in results.items():
         not_relevant_abstracts.append(key)
 
 print('number of relevant abstracts:', len(relevant_abstracts))
+
 print('number of non-relevant abstracts:', len(not_relevant_abstracts))
 
 
-for filename in os.listdir('path_of_test_set'):
-    file_to_copy = os.path.join('path_of_test_set', filename)
-    if str(file_to_copy) in relevant_abstracts:
-        copy2(file_to_copy, "path/relevant")
-    else:
-        copy2(file_to_copy, "path_not_relevant")
+
+# for filename in os.listdir('path_of_test_set'):
+#     file_to_copy = os.path.join('path_of_test_set', filename)
+#     if str(file_to_copy) in relevant_abstracts:
+#         copy2(file_to_copy, "path/relevant")
+#     else:
+#         copy2(file_to_copy, "path_not_relevant")
 
 
