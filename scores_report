@@ -1,0 +1,26 @@
+def run_classifier(model):
+    features_matrix, train_labels, training_file_list = extract_features(training_data)
+    test_feature_matrix, test_labels, test_file_list = extract_features(test_data)
+
+    model.fit(features_matrix, train_labels)
+    predicted_labels = model.predict(test_feature_matrix)
+
+    # check performance
+    from sklearn.metrics import accuracy_score
+    accuracy = accuracy_score(test_labels, predicted_labels)
+    performance.append(accuracy)
+
+    from sklearn.metrics import average_precision_score
+    precision = average_precision_score(test_labels, predicted_labels)
+    performance.append(precision)
+
+    from sklearn.metrics import recall_score
+    recall = recall_score(test_labels, predicted_labels)
+    performance.append(recall)
+
+    from sklearn.metrics import f1_score
+    f1 = f1_score(test_labels, predicted_labels, average="binary")
+    print("f1:", f1)
+    performance.append(f1)
+
+    df.loc[len(df)] = performance
