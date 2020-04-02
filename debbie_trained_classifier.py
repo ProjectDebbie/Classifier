@@ -4,8 +4,20 @@ import numpy as np
 import pandas as pd
 from shutil import copy2 
 import joblib
+import argparse
 
-test_set = [os.path.join("/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstract_lake/abstract_lake_polydioxanone/abstracts", f) for f in os.listdir("/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstract_lake/abstract_lake_polydioxanone/abstracts")]
+#########
+# -i "/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstract_lake/abstract_lake_polydioxanone/abstracts"
+# -o "/Users/austinmckitrick/git/debbie/Classifier/classifier_output"
+#########
+parser = argparse.ArgumentParser()
+parser.add_argument('-i', help= 'paste path to folder of pubmed abstracts')
+parser.add_argument('-o', help= 'paste path to folder of output folder')
+args = parser.parse_args()
+
+#read input files into classifier 
+test_set = [os.path.join(args.i, f) for f in os.listdir(args.i)]
+
 #making labels 
 def make_labels(data):
     files = data
@@ -27,11 +39,11 @@ def make_labels(data):
 #make labels for test set
 test_set_labels, test_file_list = make_labels(test_set)
 
-#load model
+#load trained model
 debbie_classifier = joblib.load('svm_model.pkl')
-# #load vectorizer
+#load trained vectorizer
 debbie_vectorizer = joblib.load('count_vect.pkl')
-#load transformer
+#load trained transformer
 debbie_transformer = joblib.load('transformer.pkl')
 
 test_count = debbie_vectorizer.transform(test_set)
@@ -58,9 +70,9 @@ print('number of relevant abstracts:', len(relevant_abstracts))
 print('number of non-relevant abstracts:', len(not_relevant_abstracts))
 
 #save relevant abstracts to folder
-for filename in os.listdir('/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstract_lake/abstract_lake_polydioxanone/abstracts'):
-    file_to_copy = os.path.join('/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstract_lake/abstract_lake_polydioxanone/abstracts', filename)
+for filename in os.listdir(args.i):
+    file_to_copy = os.path.join(args.i, filename)
     if str(file_to_copy) in relevant_abstracts:
-        copy2(file_to_copy, "/Users/austinmckitrick/git/debbie/Classifier/classifier_output")
+        copy2(file_to_copy, args.o)
 #     else:
 #         copy2(file_to_copy, "path_not_relevant")
