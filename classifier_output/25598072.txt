@@ -1,0 +1,4 @@
+2015 Apr
+25598072
+Prominent reinforcing effect of chitin nanocrystals on electrospun polydioxanone nanocomposite fiber mats.
+The ultra-strong nanocomposite fiber mats based on biodegradable polydioxanone (PDO) and chitin nanocrystals (ChiNCs) were successfully prepared by means of electrospinning. The ChiNCs are uniformly dispersed in the PDO matrix and mostly oriented along fiber long axis, resulting in a significant improvement in mechanical property. Moreover, the introduction of ChiNCs led to the increase of the glass-transition temperature (Tg) and thermal decomposition temperature (Td) of PDO elucidated by thermal analyses. In addition, the loading of ChiNCs caused very different In vitro degradation behavior compared to neat PDO fiber mat. Furthermore, in vitro cell culture results indicated that the addition of ChiNCs improved the cellular adhesion and proliferation. 

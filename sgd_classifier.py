@@ -3,6 +3,8 @@ from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 import numpy as np
 import pandas as pd
 from shutil import copy2 
+import joblib
+import json
 
 ##INPUT FILES HERE ##
 ##training set = abstract_lake_training_srt folder in classifier repository
@@ -75,5 +77,6 @@ for filename in os.listdir('/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstra
         copy2(file_to_copy, "/Users/austinmckitrick/git/debbie/Classifier/classifier_output")
 #     else:
 #         copy2(file_to_copy, "path_not_relevant")
-
-
+joblib.dump(sgd_clf, 'svm_model.pkl', compress=9)
+joblib.dump(count_vect, 'count_vect.pkl', compress=9)
+joblib.dump(tfidf_transformer, 'transformer.pkl', compress=9)
