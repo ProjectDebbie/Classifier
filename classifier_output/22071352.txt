@@ -1,4 +1,0 @@
-2013 Feb
-22071352
-Composite PLA scaffolds reinforced with PDO fibers for tissue engineering.
-Novel composite scaffolds were produced using long continuous bidirectional fibers embedded in an electrospun matrix, with the aim of using them in soft tissue engineering applications. The fibers are of polydioxanone and the matrix of polylactic acid. The novel manufacturing method consists of direct electrospinning performed on both sides of a collector that supports the already arranged fibers. The scaffolds were tested in vitro using 3T3 mouse fibroblasts as-obtained or functionalized with biotin or poly (dopamine). Functionalization did not significantly affect cells attachment, metabolic activity, or proliferation, but poly (dopamine) was proven to be effective in inducing hydrophilicity to the surface.
