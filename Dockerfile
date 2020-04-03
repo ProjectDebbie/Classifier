@@ -1,11 +1,16 @@
-FROM alpine:3.9
-WORKDIR /usr/local/share/debbie_classifier
+FROM python:3.7.5-slim
+ADD debbie_trained_classifier.py /
+ADD . /input
+ADD . /output
 
-ARG	DEBBIE_CLASSIFIER_VERSION=1.0
-COPY	docker-build.sh /usr/local/bin/docker-build.sh
-COPY	src src	
-COPY	pom.xml .
+RUN pip install sklearn
+RUN pip install numpy
+RUN pip install pandas 
+RUN pip install joblib
+RUN pip install argparse
 
-RUN chmod u=rwx,g=rwx,o=r /usr/local/share/debbie_classifier -R
+COPY	count_vect.pkl count_vect.pkl
+COPY	svm_model.pkl svm_model.pkl
+COPY	transformer.pkl transformer.pkl
 
-RUN	docker-build.sh ${DEBBIE_CLASSIFIER_VERSION}
+CMD [ "python", "./debbie_trained_classifier.py" ]
