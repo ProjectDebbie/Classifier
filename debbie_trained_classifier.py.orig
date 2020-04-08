@@ -13,12 +13,21 @@ import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', help= 'paste path to folder of pubmed abstracts')
 parser.add_argument('-o', help= 'paste path to folder of output folder')
-parser.add_argument('-w', help= 'paste path to workdir')
+parser.add_argument('-w', help= 'paste path to folder of output folder')
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7013e84dad45a409908d7434d0ac0172e8d79356
 args = parser.parse_args()
 
 #read input files into classifier 
 test_set = [os.path.join(args.i, f) for f in os.listdir(args.i)]
 
+<<<<<<< HEAD
+=======
+#set the work directory --> add a new parameter in order to assign to the variable, if not present just leave the value ""
+
+>>>>>>> 7013e84dad45a409908d7434d0ac0172e8d79356
 #work directory 
 if (args.w == None):
     work_dir=""
@@ -47,11 +56,19 @@ def make_labels(data):
 test_set_labels, test_file_list = make_labels(test_set)
 
 #load trained model
+<<<<<<< HEAD
 debbie_classifier = joblib.load(work_dir + 'svm_model.pkl')
 #load trained vectorizer
 debbie_vectorizer = joblib.load(work_dir + 'count_vect.pkl')
 #load trained transformer
 debbie_transformer = joblib.load(work_dir + 'transformer.pkl')
+=======
+debbie_classifier = joblib.load(work_dir+'svm_model.pkl')
+#load trained vectorizer
+debbie_vectorizer = joblib.load(work_dir+'count_vect.pkl')
+#load trained transformer
+debbie_transformer = joblib.load(work_dir+'transformer.pkl')
+>>>>>>> 7013e84dad45a409908d7434d0ac0172e8d79356
 
 test_count = debbie_vectorizer.transform(test_set)
 test_tfidf = debbie_transformer.transform(test_count)
