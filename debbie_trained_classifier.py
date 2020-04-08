@@ -13,10 +13,22 @@ import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', help= 'paste path to folder of pubmed abstracts')
 parser.add_argument('-o', help= 'paste path to folder of output folder')
+parser.add_argument('-w', help= 'work directory path')
+
 args = parser.parse_args()
 
 #read input files into classifier 
 test_set = [os.path.join(args.i, f) for f in os.listdir(args.i)]
+
+#set the work directory --> add a new parameter in order to assign to the variable, if not present just leave the value ""
+
+if(arg.w==None):
+ work_dir=""
+else:
+ work_dir=arg.w
+
+#work_dir="/usr/src/app/"
+
 
 #making labels 
 def make_labels(data):
@@ -40,11 +52,11 @@ def make_labels(data):
 test_set_labels, test_file_list = make_labels(test_set)
 
 #load trained model
-debbie_classifier = joblib.load('svm_model.pkl')
+debbie_classifier = joblib.load(work_dir+'svm_model.pkl')
 #load trained vectorizer
-debbie_vectorizer = joblib.load('count_vect.pkl')
+debbie_vectorizer = joblib.load(work_dir+'count_vect.pkl')
 #load trained transformer
-debbie_transformer = joblib.load('transformer.pkl')
+debbie_transformer = joblib.load(work_dir+'transformer.pkl')
 
 test_count = debbie_vectorizer.transform(test_set)
 test_tfidf = debbie_transformer.transform(test_count)
