@@ -1,0 +1,4 @@
+2011 Feb
+21374573
+Characterization of multiblock copolymers by chromatographic techniques.
+Multiblock copolymers (MBC) composed of blocks of poly(1,4-dioxanone) (PPDO) and poly(e-caprolactone) (PCL) were investigated in order to gain information on the extend of chemical heterogeneity of the samples. A gradient chromatographic method was established allowing separation of purely PPDO- from purely PCL-containing chains. Application of the gradient to MBC made of PPDO- and PCL-diols connected by trimethylhexamethylene diisocyanate (TMDI) resulted in two well separated peaks which were analyzed by means of FTIR, 1H-NMR and pyrolysis GC-MS. It was shown that the first peak was composed to a large extent of PPDO and only lower amounts of PCL were incorporated. Conversely, the second peak consisted predominantly of PCL with only a minor fraction of PPDO. Thus, the MBCs having PPDO and PCL segments show an unexpected broad chemical heterogeneity.

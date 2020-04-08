@@ -13,12 +13,19 @@ import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', help= 'paste path to folder of pubmed abstracts')
 parser.add_argument('-o', help= 'paste path to folder of output folder')
+parser.add_argument('-w', help= 'paste path to folder of output folder')
 args = parser.parse_args()
 
 #read input files into classifier 
 test_set = [os.path.join(args.i, f) for f in os.listdir(args.i)]
 
-#making labels 
+#work directory 
+if (args.w == None):
+    work_dir=""
+else:
+    work_dir= args.w + "/"
+
+# #making labels 
 def make_labels(data):
     files = data
     file_list = []
@@ -40,11 +47,11 @@ def make_labels(data):
 test_set_labels, test_file_list = make_labels(test_set)
 
 #load trained model
-debbie_classifier = joblib.load('svm_model.pkl')
+debbie_classifier = joblib.load(work_dir + 'svm_model.pkl')
 #load trained vectorizer
-debbie_vectorizer = joblib.load('count_vect.pkl')
+debbie_vectorizer = joblib.load(work_dir + 'count_vect.pkl')
 #load trained transformer
-debbie_transformer = joblib.load('transformer.pkl')
+debbie_transformer = joblib.load(work_dir + 'transformer.pkl')
 
 test_count = debbie_vectorizer.transform(test_set)
 test_tfidf = debbie_transformer.transform(test_count)
@@ -66,6 +73,7 @@ for key, value in results.items():
     elif value == 1.0:
         not_relevant_abstracts.append(key)
 
+print('total number of abstracts collected', (len(relevant_abstracts)+len(not_relevant_abstracts)))
 print('number of relevant abstracts:', len(relevant_abstracts))
 print('number of non-relevant abstracts:', len(not_relevant_abstracts))
 

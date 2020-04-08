@@ -1,0 +1,4 @@
+1990 Apr
+2161688
+Stress relaxation of organic suture materials.
+Sutures fabricated from synthetic polymeric materials exhibit the phenomenon of stress relaxation, that is, when held under tension at a fixed elongation, there is a gradual realignment of the microstructure to accommodate the developed tensile stress. This property has been characterized for three modern suture materials, polypropylene, polydioxanone and poly(glycolic acid). All three materials exhibited stress relaxation but to different degrees, with polypropylene exhibiting the greatest stress relaxation (to approximately 40% of the initial load). The initial rate of stress relaxation increased with the rate of loading but the residual stress level was found to be independent of elongation rate except at extremely low rates of loading.

@@ -1,0 +1,4 @@
+1985 Sep
+4023253
+Surgical ligation clip artifacts on CT scans.
+Surgical ligation clips of various materials were scanned in a water-filled phantom to determine what artifacts would be produced. Tantalum clips produced severe image degradation, while stainless steel clips produced less severe degradation. Minimal artifacts were observed with titanium clips. Clips molded from an absorbable polymeric material, polydioxanone, were visible on computed tomography (CT) scans and had the least effect on the CT image.

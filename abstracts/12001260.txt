@@ -1,0 +1,4 @@
+2002 Jul
+12001260
+Biomaterial implants induce the inflammation marker CRP at the site of implantation.
+Following implantation of biomaterial patches into the gastrointestinal tract, we analyzed the host's response towards the foreign material. Asymmetric patches of polydioxanone covered Vicryl or poly-3-hydroxybutyrate were sutured onto the rat stomach. Tissue samples were generated at distinct time intervals after surgery, and RNA profiles were compared by Differential Display. RT-PCR analysis of gene candidates that seemed differentially expressed showed that vitamin D binding protein mRNA was induced in stomach tissue after implantation of the biomaterial patches. In parallel, the amount of C-reactive protein mRNA was found to be increased transiently as well. Implants induce a tissue response that is specific for a given material.
