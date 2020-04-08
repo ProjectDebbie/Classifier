@@ -13,7 +13,7 @@ import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', help= 'paste path to folder of pubmed abstracts')
 parser.add_argument('-o', help= 'paste path to folder of output folder')
-parser.add_argument('-w', help= 'work directory path')
+parser.add_argument('-w', help= 'paste path to folder of output folder')
 
 args = parser.parse_args()
 
@@ -22,15 +22,13 @@ test_set = [os.path.join(args.i, f) for f in os.listdir(args.i)]
 
 #set the work directory --> add a new parameter in order to assign to the variable, if not present just leave the value ""
 
-if(arg.w==None):
- work_dir=""
+#work directory 
+if (args.w == None):
+    work_dir=""
 else:
- work_dir=arg.w
+    work_dir= args.w + "/"
 
-#work_dir="/usr/src/app/"
-
-
-#making labels 
+# #making labels 
 def make_labels(data):
     files = data
     file_list = []
@@ -78,6 +76,7 @@ for key, value in results.items():
     elif value == 1.0:
         not_relevant_abstracts.append(key)
 
+print('total number of abstracts collected', (len(relevant_abstracts)+len(not_relevant_abstracts)))
 print('number of relevant abstracts:', len(relevant_abstracts))
 print('number of non-relevant abstracts:', len(not_relevant_abstracts))
 
