@@ -1,4 +1,0 @@
-2015 Dec
-26596498
-Controlled Antibiotics Release System through Simple Blended Electrospun Fibers for Sustained Antibacterial Effects.
-Implantation of sustained antibacterial system after abdominal surgery could effectively prevent complicated intra-abdominal infection. In this study, a simple blended electrospun membrane made of poly(D,L-lactic-co-glycolide) (PLGA)/poly(dioxanone) (PDO)/Ciprofloxacin hydrochloride (CiH) could easily result in approximately linear drug release profile and sustained antibacterial activity against both Staphylococcus aureus (S. aureus) and Escherichia coli (E. coli). The addition of PDO changed the stack structure of PLGA, which in turn influenced the fiber swelling and created drug diffusion channels. It could be a good candidate for reducing postoperative infection or be associated with other implant to resist biofilm formation.

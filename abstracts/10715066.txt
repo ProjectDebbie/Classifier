@@ -1,4 +1,0 @@
-2000 Mar
-10715066
-Ligating clips for three-dimensional MR angiography at 1.5 T: in vitro evaluation.
-Artifact size on three-dimensional (3D) magnetic resonance (MR) angiograms and safety of various vascular clips (15 titanium and three absorbable polydioxanone clips) were assessed. All evaluated clips were completely safe. Biodegradable clips rendered no artifacts; titanium clips were associated with susceptibility effects. Artifact size was dependent on clip size, clip orientation, echo time, and degree of k-space coverage. In the presence of titanium vascular clips, fast 3D MR angiography should be performed with the shortest echo time and full k-space coverage.
