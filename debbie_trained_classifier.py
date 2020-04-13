@@ -19,6 +19,10 @@ args = parser.parse_args()
 #read input files into classifier 
 test_set = [os.path.join(args.i, f) for f in os.listdir(args.i)]
 
+#create output folder if not exist
+if not os.path.exists(args.o):
+    os.makedirs(args.o)
+
 #work directory 
 if (args.w == None):
     work_dir=""
