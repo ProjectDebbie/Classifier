@@ -1,40 +1,29 @@
-# gate_to_json
+# Classifier
 
-This component export debbie annotations in XML GATE format to JSON format.
+This component performs binary classification of abstracts to determine if they are relevant or not relevant to the field of biomaterials.   
 
 ## Description  of the project
 
-This component is only used inside the debbie pipeline because is tired up to that specific domain.
+Since the goal of DEBBIE is to annotate biomaterial-specific research, a classifier is implemented into the pipeline to identify relevant abstracts. This implementation of this SVM Classifier is trained on the [gold standard biomaterials collection](gold_standard_set) against a [background set](background_set). The components of the trained classifier are available for download as .pkl files. The classifer returns the relevant abstracts in a designated folder.    
+  
+Using manually a constructed test set made of the polydioxanone literature, the SVM Classifier achieved 0.9011 Precision, 0.9623 Recall, and 0.9307 F1-score compared to the manual curator. 
 
-## Build and Run the Docker 
-
-	# To build the docker, just go into the gate_to_json folder and execute
-	docker build -t gate_to_json .
-	#To run the docker, just set the input_folder and the output
-	mkdir ${PWD}/output_annotation; docker run --rm -u $UID -v ${PWD}/input_folder:/in:ro -v ${PWD}/output_annoation:/out:rw gate_to_json gate-to-json -i /in -o /out -a MY_SET_NAME	
 Parameters:
-<p>
--i input folder with the documents to annotated. The documents could be plain txt or xml gate documents.
-</p>
-<p>
--o output folder with the documents annotated in gate format.
-</p>
-<p>
--a annotation set output
-</p>
+
+-i input folder with plain text abstracts
+
+-o output folder with relevant biomaterials abstracts in plain text 
+
 
 ## Built With
 
+* [scikit-learn library] (https://scikit-learn.org)
 * [Docker](https://www.docker.com/) - Docker Containers
 * [Maven](https://maven.apache.org/) - Dependency Management
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/ProjectDebbie/gate_to_json/edit/master/nlp-standard-preprocessing/tags). 
-
 ## Authors
 
-* **Austin McKitrick** - **Javier Corvi** 
+* **Osnat Hakimi** - **Austin McKitrick** - **Javier Corvi** 
 
 
 ## License
