@@ -7,10 +7,6 @@ import joblib
 import argparse
 import glob
 
-#########
-# -i "/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstract_lake/abstract_lake_polydioxanone/abstracts"
-# -o "/Users/austinmckitrick/git/debbie/Classifier/classifier_output"
-#########
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', help= 'paste path to folder of pubmed abstracts')
 parser.add_argument('-o', help= 'paste path to folder of output folder')
@@ -32,7 +28,7 @@ if (args.w == None):
 else:
     work_dir= args.w + "/"
 
-# #making labels 
+#making labels 
 def make_labels(data):
     files = data
     file_list = []
@@ -89,5 +85,3 @@ for filename in os.listdir(args.i):
     file_to_copy = os.path.join(args.i, filename)
     if str(file_to_copy) in relevant_abstracts:
         copy2(file_to_copy, args.o)
-#     else:
-#         copy2(file_to_copy, "path_not_relevant")
