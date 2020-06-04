@@ -5,6 +5,7 @@ import pandas as pd
 from shutil import copy2 
 import joblib
 import argparse
+import glob
 
 #########
 # -i "/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstract_lake/abstract_lake_polydioxanone/abstracts"
@@ -17,7 +18,9 @@ parser.add_argument('-w', help= 'paste path to workdir')
 args = parser.parse_args()
 
 #read input files into classifier 
-test_set = [os.path.join(args.i, f) for f in os.listdir(args.i)]
+#test_set = [os.path.join(args.i, f) for f in os.listdir(args.i)]
+#read input files into classifier,  recursive and only txt files. 
+test_set = glob.glob(args.i + '/**/*.txt', recursive=True)
 
 #create output folder if not exist
 if not os.path.exists(args.o):
