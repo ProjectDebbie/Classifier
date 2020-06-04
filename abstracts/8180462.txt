@@ -1,4 +1,0 @@
-NA 
-8180462
-Surgical sutures: MR artifacts and sequence dependence.
-Artifact reduction is fundamental to the daily clinical application of magnetic resonance (MR) imaging. Imaging of the postoperative patient may be difficult because of surgically introduced materials that result in artifacts. The authors tested some commonly used types of surgical suture for MR susceptibility artifact with various imaging sequences. Ten different suture types were studied. Suture was immersed in vegetable oil in separate plastic test tubes. The sutures were also studied embedded in meat. All samples were studied with T1-weighted and T2-weighted spin-echo, STIR (short-inversion-time inversion-recovery), and two-dimensional and three-dimensional gradient-echo sequences. Silk suture produced the most artifact.
