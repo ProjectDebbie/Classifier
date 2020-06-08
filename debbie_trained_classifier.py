@@ -65,7 +65,7 @@ predicted = debbie_classifier.predict(test_tfidf)
 # the results of the classification
 results = dict(zip(test_set, predicted))
 # df_results = pd.DataFrame.from_dict(results, orient='index')
-# df_results.to_csv("/Users/austinmckitrick/git/debbie/DEBBIE_DATA/debbie_classifier_results.csv", sep=',')
+# df_results.to_csv("/Users/..../debbie_classifier_results.csv", sep=',')
 
 relevant_abstracts = []
 not_relevant_abstracts = []
