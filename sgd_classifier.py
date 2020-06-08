@@ -8,9 +8,9 @@ import json
 
 ##INPUT FILES HERE ##
 ##training set = abstract_lake_training_srt folder in classifier repository
-training_set = [os.path.join("/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstract_lake/abstract_lake_training_set", f) for f in os.listdir("/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstract_lake/abstract_lake_training_set")]
+training_set = [os.path.join("/Users/..../abstract_lake_training_set", f) for f in os.listdir("/Users/...../abstract_lake_training_set")]
 ##test_set = pubmed abstracts folder 
-test_set = [os.path.join("/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstract_lake/abstract_lake_polydioxanone/abstracts", f) for f in os.listdir("/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstract_lake/abstract_lake_polydioxanone/abstracts")]
+test_set = [os.path.join("/Users/..../abstracts", f) for f in os.listdir("/Users/..../abstracts")]
 #making labels 
 def make_labels(data):
     files = data
@@ -57,7 +57,7 @@ predicted = sgd_clf.predict(X_test_tfidf)
 #the results of the classification
 results = dict(zip(test_set, predicted))
 df_results = pd.DataFrame.from_dict(results, orient='index')
-df_results.to_csv("/Users/austinmckitrick/git/debbie/DEBBIE_DATA/classification_results_SGD1.csv", sep=' ')
+df_results.to_csv("/Users/..../classification_results_SGD1.csv", sep=' ')
 
 relevant_abstracts = []
 not_relevant_abstracts = []
@@ -71,10 +71,10 @@ for key, value in results.items():
 print('number of relevant abstracts:', len(relevant_abstracts))
 print('number of non-relevant abstracts:', len(not_relevant_abstracts))
 
-for filename in os.listdir('/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstract_lake/abstract_lake_polydioxanone/abstracts'):
-    file_to_copy = os.path.join('/Users/austinmckitrick/git/debbie/DEBBIE_DATA/abstract_lake/abstract_lake_polydioxanone/abstracts', filename)
+for filename in os.listdir('/Users/..../abstracts'):
+    file_to_copy = os.path.join('/Users/..../abstracts', filename)
     if str(file_to_copy) in relevant_abstracts:
-        copy2(file_to_copy, "/Users/austinmckitrick/git/debbie/Classifier/classifier_output")
+        copy2(file_to_copy, "/Users/..../classifier_output")
 #     else:
 #         copy2(file_to_copy, "path_not_relevant")
 joblib.dump(sgd_clf, 'svm_model.pkl', compress=9)
