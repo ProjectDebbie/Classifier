@@ -102,41 +102,6 @@ for f in folders:
         total_non_relevant =  total_non_relevant  + len(not_relevant_abstracts)
     else:
         print('Emtpy Folder')
-    #make labels for test set
-    test_set_labels, test_file_list = make_labels(test_set)
-    
-    test_count = debbie_vectorizer.transform(test_set)
-    test_tfidf = debbie_transformer.transform(test_count)
-
-    #fit the model
-    predicted = debbie_classifier.predict(test_tfidf)
-
-    # the results of the classification
-    results = dict(zip(test_set, predicted))
-    # df_results = pd.DataFrame.from_dict(results, orient='index')
-    # df_results.to_csv("/Users/austinmckitrick/git/debbie/DEBBIE_DATA/debbie_classifier_results.csv", sep=',')
-
-    relevant_abstracts = []
-    not_relevant_abstracts = []
-
-    for key, value in results.items():
-        if value == 0.0:
-            relevant_abstracts.append(key)
-        elif value == 1.0:
-            not_relevant_abstracts.append(key)
-            
-    #save relevant abstracts to folder
-    for filename in test_set:
-        if str(filename) in relevant_abstracts:
-            copy2(filename, args.o)        
-    
-    print('total number of abstracts collected in folder', (len(relevant_abstracts)+len(not_relevant_abstracts)))
-    print('number of relevant abstracts in folder:', len(relevant_abstracts))
-    print('number of non-relevant abstracts in folder:', len(not_relevant_abstracts))    
-    total =  total  + len(relevant_abstracts)+len(not_relevant_abstracts)  
-    total_relevant =  total_relevant  + len(relevant_abstracts)  
-    total_non_relevant =  total_non_relevant  + len(not_relevant_abstracts)
-
 print('+++++++++++++++++++++++++++++++++++++++++++++++++++++')
 print('total number of abstracts collected in folder', total)
 print('number of relevant abstracts in folder:', total_relevant)
