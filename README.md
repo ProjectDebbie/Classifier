@@ -17,7 +17,7 @@ Parameters:
 
 ## Built With
 
-* [scikit-learn library] (https://scikit-learn.org)
+* [scikit-learn library](https://scikit-learn.org)
 * [Docker](https://www.docker.com/) - Docker Containers
 * [Maven](https://maven.apache.org/) - Dependency Management
 
