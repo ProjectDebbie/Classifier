@@ -19,7 +19,6 @@ Parameters:
 
 * [scikit-learn library](https://scikit-learn.org)
 * [Docker](https://www.docker.com/) - Docker Containers
-* [Maven](https://maven.apache.org/) - Dependency Management
 
 ## Authors
 
