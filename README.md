@@ -14,6 +14,8 @@ Parameters:
 
 -o output folder with relevant biomaterials abstracts in plain text 
 
+## Actual Version: 1.0.1, 2020-06-22
+## [Changelog](https://github.com/ProjectDebbie/Classifier/blob/master/CHANGELOG)
 
 ## Built With
 
