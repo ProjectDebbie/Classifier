@@ -103,6 +103,6 @@ for f in folders:
     else:
         print('Emtpy Folder')
 print('+++++++++++++++++++++++++++++++++++++++++++++++++++++')
-print('total number of abstracts collected in folder', total)
-print('number of relevant abstracts in folder:', total_relevant)
-print('number of non-relevant abstracts in folder:', total_non_relevant)
+print('total number of abstracts collected:', total)
+print('number of relevant abstracts:', total_relevant)
+print('number of non-relevant abstracts:', total_non_relevant)
