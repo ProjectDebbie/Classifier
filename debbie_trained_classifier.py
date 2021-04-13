@@ -7,6 +7,7 @@ import joblib
 import argparse
 import glob
 
+#privide paths necessary for classification
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', help= 'paste path to folder of pubmed abstracts')
 parser.add_argument('-o', help= 'paste path to folder of output folder')
@@ -22,24 +23,6 @@ if (args.w == None):
     work_dir=""
 else:
     work_dir= args.w + "/"
-
-#making labels
-def make_labels(data):
-    files = data
-    file_list = []
-    train_labels = np.zeros(len(files))
-    count = 0
-    docID = 0
-    for fil in files:
-        file_list.append(fil)
-        train_labels[docID] = 0
-        filepathTokens = fil.split('/')
-        lastToken = filepathTokens[len(filepathTokens) - 1]
-        if lastToken.endswith("rand.txt"):
-            train_labels[docID] = 1
-            count = count + 1
-        docID = docID + 1
-    return train_labels, file_list
 
 #load trained model
 debbie_classifier = joblib.load(work_dir + 'svm_model.pkl')
@@ -57,6 +40,7 @@ folders = glob.glob(args.i + '/**/', recursive=True)
 #add root in folders
 folders.insert(0, args.i)
 
+#set counters 
 total=0
 total_relevant=0
 total_non_relevant=0
@@ -66,9 +50,7 @@ for f in folders:
     print ('folder:' + f)
     test_set = glob.glob(f + '/*.txt', recursive=True)
     if(len(test_set)>0):
-        #make labels for test set
-        test_set_labels, test_file_list = make_labels(test_set)
-
+        #extract features new abstracts
         test_count = debbie_vectorizer.transform(test_set)
         test_tfidf = debbie_transformer.transform(test_count)
 
@@ -77,16 +59,16 @@ for f in folders:
 
         # the results of the classification
         results = dict(zip(test_set, predicted))
-        # df_results = pd.DataFrame.from_dict(results, orient='index')
-        # df_results.to_csv("/Users/austinmckitrick/git/debbie/DEBBIE_DATA/debbie_classifier_results.csv", sep=',')
 
         relevant_abstracts = []
         not_relevant_abstracts = []
 
         for key, value in results.items():
-            if value == 0.0:
+            if value == 'clinical':
                 relevant_abstracts.append(key)
-            elif value == 1.0:
+            elif value == 'non-clinical':
+                relevant_abstracts.append(key)
+            else:
                 not_relevant_abstracts.append(key)
 
         #save relevant abstracts to folder
