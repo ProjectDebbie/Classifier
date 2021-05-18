@@ -40,7 +40,7 @@ folders = glob.glob(args.i + '/**/', recursive=True)
 #add root in folders
 folders.insert(0, args.i)
 
-#set counters 
+#set counters
 total=0
 total_relevant=0
 total_non_relevant=0
@@ -66,15 +66,25 @@ for f in folders:
         for key, value in results.items():
             if value == 'clinical':
                 relevant_abstracts.append(key)
+                with open (key, 'r+') as f:
+                    content = f.read()
+                    f.seek(0, 0)
+                    f.write('study type= clinical (classifier)' + '\n' + content)
+                    copy2(key, args.o)
             elif value == 'non-clinical':
                 relevant_abstracts.append(key)
+                with open (key, 'r+') as f:
+                    content = f.read()
+                    f.seek(0, 0)
+                    f.write('study type= non-clinical (classifier)' + '\n' + content)
+                    copy2(key, args.o)
             else:
                 not_relevant_abstracts.append(key)
 
         #save relevant abstracts to folder
-        for filename in test_set:
-            if str(filename) in relevant_abstracts:
-                copy2(filename, args.o)
+        # for filename in test_set:
+        #     if str(filename) in relevant_abstracts:
+        #         copy2(filename, args.o)
 
         print('total number of abstracts collected in folder', (len(relevant_abstracts)+len(not_relevant_abstracts)))
         print('number of relevant abstracts in folder:', len(relevant_abstracts))
