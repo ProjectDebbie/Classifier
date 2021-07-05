@@ -66,18 +66,21 @@ for f in folders:
         for key, value in results.items():
             if value == 'clinical':
                 relevant_abstracts.append(key)
-                with open (key, 'r+') as f:
+                filepathTokens = key.split('/')
+                lastToken = filepathTokens[len(filepathTokens) - 1]
+                copy2(key, args.o)
+                with open (key, 'r+') as f, open(os.path.join(args.o, lastToken), 'r+') as c:
                     content = f.read()
-                    f.seek(0, 0)
-                    f.write('study type= clinical (classifier)' + '\n' + content)
-                    copy2(key, args.o)
+                    c.write('study type= clinical (classifier)' + '\n' + content)
+
             elif value == 'non-clinical':
                 relevant_abstracts.append(key)
-                with open (key, 'r+') as f:
+                filepathTokens = key.split('/')
+                lastToken = filepathTokens[len(filepathTokens) - 1]
+                copy2(key, args.o)
+                with open (key, 'r+') as f, open(os.path.join(args.o, lastToken), 'r+') as c:
                     content = f.read()
-                    f.seek(0, 0)
-                    f.write('study type= non-clinical (classifier)' + '\n' + content)
-                    copy2(key, args.o)
+                    c.write('study type= non-clinical (classifier)' + '\n' + content)
             else:
                 not_relevant_abstracts.append(key)
 
