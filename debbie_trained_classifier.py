@@ -38,7 +38,7 @@ debbie_transformer = joblib.load(work_dir + 'transformer.pkl')
 #get subfolders that my contain txt files
 folders = glob.glob(args.i + '/**/', recursive=True)
 #add root in folders
-folders.insert(0, args.i)
+#folders.insert(0, args.i)
 
 #set counters
 total=0
@@ -69,18 +69,24 @@ for f in folders:
                 filepathTokens = key.split('/')
                 lastToken = filepathTokens[len(filepathTokens) - 1]
                 copy2(key, args.o)
-                with open (key, 'r+') as f, open(os.path.join(args.o, lastToken), 'r+') as c:
+                meta=key.replace('.txt','.meta')
+                metafile=lastToken.replace('.txt','.meta')
+                copy2(meta, args.o)
+                with open (meta, 'r+') as f, open(os.path.join(args.o, metafile), 'r+') as c:
                     content = f.read()
-                    c.write('study type= clinical (classifier)' + '\n' + content)
+                    c.write( content  +  'clinical' + '\n')
 
             elif value == 'non-clinical':
                 relevant_abstracts.append(key)
                 filepathTokens = key.split('/')
                 lastToken = filepathTokens[len(filepathTokens) - 1]
                 copy2(key, args.o)
-                with open (key, 'r+') as f, open(os.path.join(args.o, lastToken), 'r+') as c:
+                meta=key.replace('.txt','.meta')
+                metafile=lastToken.replace('.txt','.meta')
+                copy2(meta, args.o)
+                with open (meta, 'r+') as f, open(os.path.join(args.o, metafile), 'r+') as c:
                     content = f.read()
-                    c.write('study type= non-clinical (classifier)' + '\n' + content)
+                    c.write( content +  'non-clinical' + '\n')
             else:
                 not_relevant_abstracts.append(key)
 
