@@ -1,9 +1,10 @@
 FROM python:3.7.5-slim
 WORKDIR /usr/src/app
 
+RUN apt-get update && apt-get install -y procps && rm -rf /var/lib/apt/lists/*
 RUN pip install sklearn
 RUN pip install numpy
-RUN pip install pandas 
+RUN pip install pandas
 RUN pip install joblib
 RUN pip install argparse
 
