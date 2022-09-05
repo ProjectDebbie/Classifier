@@ -1,5 +1,11 @@
 # Change Log
 
+## Version 2.1.0, 2022-09-05
+Add requirements and constraints to dockerization
+
+## Version 1.1.0, 2022-02-03
+Add metadata file to process
+
 ## Version 1.0.2, 2021-04-13
 
 SVM Classifier now multiclass, trained on 3 sets. 
