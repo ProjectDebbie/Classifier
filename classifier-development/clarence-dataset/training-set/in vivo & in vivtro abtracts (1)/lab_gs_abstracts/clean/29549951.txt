@@ -1,0 +1,33 @@
+2018 Jun 1
+Preparation and biocompatibility of diphasic magnetic nanocomposite scaffold.
+P We describe the study of a new type of diphasic magnetic nanocomposite scaffold
+PLGA/Col I PLGA/n HA/Fe2O3  and its preparation using a novel low temperature
+deposition manufacturing  LDM  technology. In order to study the biocompatibility
+of this scaffold, we evaluated and explored its feasibility as a scaffold for
+tissue engineering. Diphasic magnetic nanocomposite scaffolds
+PLGA/Col I PLGA/n HA/Fe2O3  were prepared using LDM technology. The mechanical
+properties of the scaffold were tested using an electronic testing machine,
+electron microscopy was utilized to observe the ultrastructure, and a medium
+ethanol  immersion method was used to determine the porosity of the scaffold.
+The scaffold was co cultured with bone mesenchymal stem cells  BMSCs  and was
+induced to differentiate. The biocompatibility of the scaffold was then tested.
+The mechanical test results of the diphasic magnetic nanocomposite scaffold
+demonstrated good mechanical properties. Electron microscopy studies revealed two
+layers of pore sizes each with a uniform distribution, with the upper cartilage
+pore size observed to be small while the middle continuous phase was found to be
+in a good integration. Pore size and porosity test results demonstrated a
+cartilage layer pore size of 186mum, with a porosity measured to be 89.5%. The
+pore size and porosity of the bone layer were 394mum and 86.1%, respectively.
+These properties met the design requirements of double layer scaffolds.
+Co culture of the diphasic magnetic nanocomposite scaffold and bone mesenchymal
+stem cells  BMSCs  exhibited good proliferation of bone mesenchymal stem cells
+BMSCs , and the scaffold was found to be able to promote differentiation of the
+differentiation oriented cells. These results demonstrated a good
+biocompatibility of the diphasic magnetic nanocomposite scaffold. The diphasic
+magnetic nanocomposite scaffold  PLGA/Col I PLGA/n HA/Fe2O3  was found to have
+suitable mechanical properties as well as cell compatibility. The measured pore
+size and porosity met the requirements for cell adhesion and cell growth, which
+matched more closely to that of the physiological structure of normal articular
+cartilage and subchondral bones. We expect this to represent new technology for
+improved repair of cartilage and subchondral bone lesions caused by
+osteoarthritis or trauma.

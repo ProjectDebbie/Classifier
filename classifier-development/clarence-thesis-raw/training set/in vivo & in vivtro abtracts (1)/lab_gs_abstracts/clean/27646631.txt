@@ -1,0 +1,24 @@
+2016 Oct 10
+Poly  L lactic acid  porous scaffold supported alginate hydrogel with improved
+mechanical properties and biocompatibility.
+P PURPOSE: Polymer porous scaffolds and hydrogels have been separately employed and
+explored for a wide range of applications including cell encapsulation, drug
+delivery, and tissue engineering. METHODS: In this study, a three dimensional
+poly  L lactic acid   PLLA  scaffold with interconnected and homogeneously
+distributed pores was fabricated to support the alginate hydrogel  Alg . The gels
+were filled into the porous scaffold, which acted as an analogue of native
+extracellular matrix  ECM  for entrapment of cells within a support of predefined
+shape. The mechanical strength of the composite scaffold was characterized by
+compression testing. The chondrocyte behavior in the scaffold was determined by
+inverted microscopy, scanning electron microscopy  SEM  and MTT viability assay.
+The repair efficiency of such a composite scaffold was further investigated in
+dog spinal defects by histological evaluation after implantation for 4 weeks.
+RESULTS: Results showed that the composite scaffold possessed superior mechanical
+properties and hierarchical porous structure in comparison to pure Alg. Cell
+culture revealed that the cells presented a specific cartilage status in the
+composite scaffold in line with higher adherence and proliferation ratio. The
+histological analyses suggested that the composite scaffold substantially
+promotes its integration in the host tissue accompanied with a low inflammatory
+reaction and new tissue formation. CONCLUSIONS: The method thus provides a useful
+pathway for scaffold preparation that can simultaneously achieve suitable
+mechanical properties and good biocompatibility.

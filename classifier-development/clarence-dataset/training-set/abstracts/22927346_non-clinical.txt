@@ -1,0 +1,26 @@
+2013 Feb
+Different hyaluronic acid morphology modulates primary articular chondrocyte
+behavior in hyaluronic acid coated polycaprolactone scaffolds.
+P Scaffolds for cartilage tissue engineering should promote both adequate
+biomechanical environment and chondrogenic stimulation. Hyaluronic acid  HA  has
+been used in cartilage engineering for its chondrogenic and chondroprotective
+properties, nevertheless its mechanical properties are limited. Influence of HA
+microstructure in chondrocyte response has not been addressed yet. In this work,
+polycaprolactone  PCL  scaffolds were modified using HA following two coating
+strategies: coating in one step  PCL HA1s  yields a gel like phase within the
+scaffold, whereas a two step reaction  PCL HA2s  yields a thin HA layer coating
+internal surfaces of PCL structure. Chondrocytes were seeded in the scaffolds and
+cultured in dedifferentiating conditions up to 3 weeks and analyzed using a total
+DNA assay and sulfated glycosaminoglycan  sGAG  determination assay; cell
+morphology and extracellular matrix secretion were assessed by electron
+microscopy as well as immunofluorescent imaging  collagen I, collagen II,
+aggrecan, CD44 . Cells proliferate in all samples and no cytotoxicity is
+observed. PCL HA1s shows higher sGAG production per cell than PCL and PCL HA2s at
+all times. Presence of hyaluronic acid promotes qualitative expression of CD44
+surface markers and aggrecan  more visible in PCL HA1s than PCL HA2s , whereas in
+dedifferentiating conditions, expression of CD44 and aggrecan can hardly be
+detected in pure PCL scaffolds. Collagen type II seems more prominent in
+PCL HA2s; although PCL HA2s shows markers for COL II, aggrecan and CD44,
+quantitative ECM production is not improved with respect to PCL. It is thus
+likely that CD44 activation is not sufficient for explaining the better response
+in PCL HA1s.

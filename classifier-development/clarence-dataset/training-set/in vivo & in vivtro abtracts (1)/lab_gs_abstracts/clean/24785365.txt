@@ -1,0 +1,32 @@
+2014 Nov
+Infrapatellar fat pad derived stem cells maintain their chondrogenic capacity in
+disease and can be used to engineer cartilaginous grafts of clinically relevant
+dimensions.
+P A therapy for regenerating large cartilaginous lesions within the articular
+surface of osteoarthritic joints remains elusive. While tissue engineering
+strategies such as matrix assisted autologous chondrocyte implantation can be
+used in the repair of focal cartilage defects, extending such approaches to the
+treatment of osteoarthritis will require a number of scientific and technical
+challenges to be overcome. These include the identification of an abundant source
+of chondroprogenitor cells that maintain their chondrogenic capacity in disease,
+as well as the development of novel approaches to engineer scalable cartilaginous
+grafts that could be used to resurface large areas of damaged joints. In this
+study, it is first demonstrated that infrapatellar fat pad derived stem cells
+FPSCs  isolated from osteoarthritic  OA  donors possess a comparable
+chondrogenic capacity to FPSCs isolated from patients undergoing ligament
+reconstruction. In a further validation of their functionality, we also
+demonstrate that FPSCs from OA donors respond to the application of physiological
+levels of cyclic hydrostatic pressure by increasing aggrecan gene expression and
+the production of sulfated glycosaminoglycans. We next explored whether
+cartilaginous grafts could be engineered with diseased human FPSCs using a
+self assembly or scaffold free approach. After examining a range of culture
+conditions, it was found that continuous supplementation with both transforming
+growth factor beta3  TGF beta3  and bone morphogenic protein 6  BMP 6  promoted
+the development of tissues rich in proteoglycans and type II collagen. The final
+phase of the study sought to scale up this approach to engineer cartilaginous
+grafts of clinically relevant dimensions  >/=2 cm in diameter  by assembling
+FPSCs onto electrospun PLLA fiber membranes. Over 6 weeks in culture, it was
+possible to generate robust, flexible cartilage like grafts of scale, opening up
+the possibility that tissues engineered using FPSCs derived from OA patients
+could potentially be used to resurface large areas of joint surfaces damaged by
+trauma or disease.

@@ -1,0 +1,37 @@
+2015 Mar 12
+Enhancement of periodontal tissue regeneration by transplantation of
+osteoprotegerin engineered periodontal ligament stem cells.
+P INTRODUCTION: The objective of the present study was to evaluate the capacity of
+a tissue engineered complex of human osteoprotegerin  hOPG  transfected
+periodontal ligament stem cells  PDLSCs  seeding on beta tricalcium phosphate
+beta TCP  to regenerate alveolar bone defects in New Zealand rabbits. METHODS:
+PDLSCs were isolated from rabbit periodontal ligament tissues and expanded in
+vitro to enrich PDLSC numbers, and their proliferative activities and
+differentiation capability were evaluated under specific induction conditions.
+Lentiviral vector containing hOPG and enhanced green fluorescent protein  EGFP
+was constructed by using Gateway technology and transfected into rabbit PDLSCs.
+The expression of hOPG was determined with quantitative real time reverse
+transcription polymerase chain reaction and Western blot. The PDLSCs with or
+without engineered hOPG were seeded on beta TCP scaffolds prior to
+transplantation. Morphological characterization of cells and materials was done
+by scanning electron microscope. Twenty rabbits with alveolar bone defects were
+randomly allocated into four groups and transplanted with beta TCP,
+PDLSCs/beta TCP, and hOPG transfected PDLSCs/beta TCP or were left untreated as a
+control. Animals were sacrificed 12 weeks after operation for histological
+observation and histomorphometric analysis. RESULTS: PDLSCs expressed STRO 1 and
+vementin and favored osteogenesis and adipogenesis in conditioned media.
+Expressions of hOPG were significantly upregulated after transfection of the
+lentiviral vector into PDLSCs. PDLSCs attached and spread well on beta TCP, and
+there was no significant difference in growth of PDLSCs on beta TCP between the
+hOPG transfection group and the non transfection group. The histological
+observation and histomorphometric analysis showed that the hOPG transfected
+PDLSCs/beta TCP complex exhibited an earlier mineralization and more bone
+formation inside the scaffold than control, beta TCP, and PDLSCs/beta TCP
+complexes. Implantation of hOPG transfected PDLSCs contributed to new bone
+formation as determined by EGFP gene expression under circularly polarized light
+microscopy. CONCLUSIONS: The present study demonstrated the feasibility of
+beta TCP scaffolds for primary PDLSC culture and expression of hOPG gene in vitro
+and in vivo, and hOPG transfected PDLSCs could serve as a potential cell source
+for periodontal bone regeneration, which may shed light on the potential of
+systemic hOPG gene therapy in combination with PDLSC tissue engineering as a good
+candidate in periodontal tissue engineering for alveolar bone regeneration.

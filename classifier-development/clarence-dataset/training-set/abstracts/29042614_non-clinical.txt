@@ -1,0 +1,22 @@
+2017 Oct 17
+3D  Printed Poly epsilon caprolactone  Scaffold Integrated with Cell laden
+Chitosan Hydrogels for Bone Tissue Engineering.
+P Synthetic polymeric scaffolds are commonly used in bone tissue engineering  BTE
+due to their biocompatibility and adequate mechanical properties. However, their
+hydrophobicity and the lack of specific cell recognition sites confined their
+practical application. In this study, to improve the cell seeding efficiency and
+osteoinductivity, an injectable thermo sensitive chitosan hydrogel  CSG  was
+incorporated into a 3D printed poly epsilon caprolactone   PCL  scaffold to form
+a hybrid scaffold. To demonstrate the feasibility of this hybrid system for BTE
+application, rabbit bone marrow mesenchymal stem cells  BMMSCs  and bone
+morphogenetic protein 2  BMP 2  were encapsulated in CSG. Pure PCL scaffolds were
+used as controls. Cell proliferation and viability were investigated. Osteogenic
+gene expressions of BMMSCs in various scaffolds were determined with reverse
+transcription polymerase chain reaction  RT PCR . Growth factor releasing profile
+and mechanical tests were performed. CCK 8 assay confirmed greater cell retention
+and proliferation in chitosan and hybrid groups. Confocal microscopy showed even
+distribution of cells in the hybrid system. After 2 week osteogenic culture in
+vitro, BMMSCs in hybrid and chitosan scaffolds showed stronger osteogenesis and
+bone matrix formation. To conclude, chitosan/PCL hybrid scaffolds are a favorable
+platform for BTE due to its capacity to carry cells and drugs, and excellent
+mechanical strength.

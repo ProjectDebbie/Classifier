@@ -1,0 +1,24 @@
+2018 Mar 1
+Surface modification and characterization of GO/polymer thin coatings as
+excellent bio active platforms for tissue regeneration.
+P Osteo integration and tissue regeneration are vital for the longevity,
+durability, and unremitting functionality of medical implants/scaffolds implanted
+in vivo. It's essential for biomaterials used for in vivo implantation to induce
+the cellular secretion of growth factors, necessary for the desired tissue
+generation, since the administration of artificial growth factors, in vivo, is
+largely prohibited. Plasma functionalized  N2 and O2  and stabilized Graphene
+Oxide  GO  thin layers in a hybrid with amorphous carbon  aC  induced the
+expression of vascular endothelial growth factor  VEGF  and osteoprotegerin  OPG
+growth factors in fibroblasts  hGF  and, more remarkably, in osteoblasts  hFOB
+cells confirming the suitability for tissue regeneration and osteo integration
+applications. We also observed a negative trend between hGF fibroblasts, but not
+hFOB osteoblasts, cellular viability and GO presence in the hybrid films that
+might indicate the phenomenon of oxidative stress. We traced that back to the
+presence of higher concentrations of carboxyl and the carbonyl groups on the
+surface of the GO rich coatings. The above described properties provided by GO
+coatings might be desirable for bio selectivity applications and for the
+reduction of the undesired fibrosis process that is associated with medical
+implants in vivo environment. Moreover, novel plasma functionalized GO/polymer
+hybrid thin coating hybrid compositions are promising candidates for tissue
+engineering and bioengineering applications as excellent antimicrobial and
+anticancer platforms.

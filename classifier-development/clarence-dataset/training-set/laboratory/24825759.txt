@@ -1,0 +1,27 @@
+2014 Sep
+The influence of sol gel derived silica coatings functionalized with
+betamethasone on adipose derived stem cells  ASCs .
+P Silica based sol gel coatings have gained attention in bone therapies and
+orthopedic applications, due to the biocompatibility and bioactivity, including a
+high potential for the controlled release both in vitro and in vivo. Bioactive
+materials are created to facilitate the biocompatibility of orthopedic implants.
+One of the promising alternatives is biomaterials with immobilized drugs. In this
+study we demonstrated for the first time novel sol gel derived silica coatings
+with active amino groups  SiO2 NH2   functionalized with a steroid
+drug betamethasone, applied to a substrate 316 L using dip coating technique. The
+presence of betamethasone in functionalized coatings was directly confirmed by
+Raman spectroscopy and energy dispersive X ray spectroscopic analysis. The
+wettability was evaluated by the sessile drop method, while the surface free
+energy was estimated based on the contact angles measured. Our results showed a
+shift in surface properties from hydrophobic to hydrophilic after application of
+the coatings. We have investigated the morphology, proliferation factor, and the
+population doubling time of adipose derived stem cells for biological purposes.
+Moreover, the analysis of the distribution and localization of cellular
+microvesicles was performed to evaluate the influence of functionalized surfaces
+on cellular cytophysiological activity. Increased proliferation and activation of
+cells, determined by the observations of microvesicles shedding processes,
+provided evidence of the availability of the drug. Therefore, we conclude that
+the sol gel synthesis proposed here allows to improve the metal substrates and
+can be successfully used for immobilization of betamethasone. This in turn
+enables the direct delivery of the drug with implanted material into the wound
+site, and to stimulate the activity of cells to enhance tissue regeneration.

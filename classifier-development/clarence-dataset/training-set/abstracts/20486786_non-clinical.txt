@@ -1,0 +1,42 @@
+2010 Sep
+The interactions between rat adipose derived stromal cells, recombinant human
+bone morphogenetic protein 2, and beta tricalcium phosphate play an important
+role in bone tissue engineering.
+P Cells, scaffolds, and growth factors are the three main factors for creating a
+stem cell based tissue engineered construct, but the interactions between three
+factors are not very clear. We hereby explored the interactions between
+rat adipose derived stromal cells  rASCs , recombinant human bone morphogenetic
+protein 2  rhBMP 2 , and beta tricalcium phosphate  beta TCP  to provide evidence
+for their application in bone tissue engineering by evaluating the protein
+adsorption of beta TCP, the cell attachment, alkaline phosphatase  ALP
+activity/protein, osteocalcin  OCN  content, mineral formation, calcium content,
+phosphonium content, cell vitality, gene expression, and implantation in the
+backs of severe combined immunodeficient mice of rhBMP 2 preinducing rASCs seeded
+onto beta TCP. The results showed that beta TCP could adsorb the proteins from
+the media. The attachment, proliferation, and osteogenic properties of rASCs were
+supported by beta TCP, as revealed using scanning electron microscopy. Compared
+with rASCs cultured on the culture plate, rASCs cultured on beta TCP had
+significantly higher ALP activity/protein, OCN content, and mineral formation.
+These values for rASCs cultured on beta TCP with rhBMP 2 increased most
+significantly. The rhBMP 2 significantly increased the calcium content,
+phosphonium content, and ALP, type I collagen, and OCN mRNA levels of rASCs
+cultured on beta TCP. The methylthiazol tetrazolium method revealed that the
+vitality of rASCs cultured on beta TCP with or without rhBMP 2 for 4, 7, and 28
+days in vitro was insignificantly different. After 8 and 12 weeks of
+implantation, each group displayed increased bone formation over the 12 week
+period. The percentage of the new bone formed areas for beta TCP/rhBMP 2 and
+beta TCP was not significantly different. This value for rASCs/beta TCP construct
+was significantly higher than that for beta TCP group, but the maximal and robust
+bone formation was presented in rASCs/beta TCP with rhBMP 2. The results implied
+that stem cells existed in adult rat adipose tissue. beta TCP could adsorb
+rhBMP 2 from the media and had osteoinductivity when alone implanted in the back
+of severe combined immunodeficient mice. beta TCP was also sufficient to trigger
+the differentiation of rASCs toward an osteoblastic phenotype without the
+addition of osteogenic factor. The rhBMP 2 could better sufficiently induce
+osteogenic differentiation of rASCs seeded onto beta TCP. The rASCs and rhBMP 2
+could promote the dissolution of beta TCP to provide Ca2+ and PO4 3   needed for
+bone formation. The interactions between the three factors could provide an
+optimizing microenvironment for osteogenic differentiation of rASCs, and this
+might be essential for sufficient and timely bone formation in vivo. This study
+may provide insight into the clinical repair of bone defect with
+ASCs+beta TCP+rhBMP 2 construct.

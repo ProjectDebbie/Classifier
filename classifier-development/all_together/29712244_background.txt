@@ -1,0 +1,2 @@
+Chiral Recognition of O-Phosphoserine by Mass Spectrometry.
+Identification and quantification of the enantiomeric excess of O-phosphoserine (OP Ser) residues from post-translational modified proteins is now possible by the application of a very reproducible and sensitive mass spectrometric method. This technique is based on the different mass-spectral fragmentation patterns of the diastereomeric cluster ions generated in water/methanol solutions of the analyte (OP SerD/L ) with a suitable chiral compound (OP ThrL ) by collision-induced dissociation (CID; see mass spectra).

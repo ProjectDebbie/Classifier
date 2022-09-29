@@ -1,0 +1,28 @@
+2016 Feb 17
+Electrophoretic Deposition of Dexamethasone Loaded Mesoporous Silica
+Nanoparticles onto Poly L Lactic Acid /Poly epsilon Caprolactone  Composite
+Scaffold for Bone Tissue Engineering.
+P The incorporation of microcarriers as drug delivery vehicles into polymeric
+scaffold for bone regeneration has aroused increasing interest. In this study,
+the aminated mesoporous silica nanoparticles  MSNs NH2  were prepared and used as
+microcarriers for dexamethasone  DEX  loading. Poly l lactic
+acid /poly epsilon caprolactone   PLLA/PCL  nanofibrous scaffold was fabricated
+via thermally induced phase separation  TIPS  and served as template, onto which
+the drug loaded MSNs NH2 nanoparticles were deposited by electrophoretic
+deposition  EPD . The physicochemical and release properties of the prepared
+scaffolds  DEX@MSNs NH2/PLLA/PCL  were examined, and their osteogenic activities
+were also evaluated through in vitro and in vivo studies. The release of DEX from
+the scaffolds revealed an initial rapid release followed by a slower and
+sustained one. The in vitro results indicated that the DEX@MSNs NH2/PLLA/PCL
+scaffold exhibited good biocompatibility to rat bone marrow derived mesenchymal
+stem cells  BMSCs . Also, BMSCs cultured on the DEX@MSNs NH2/PLLA/PCL scaffold
+exhibited a higher degree of osteogenic differentiation than those cultured on
+PLLA/PCL and MSNs NH2/PLLA/PCL scaffolds, in terms of alkaline phosphatase  ALP
+activity, mineralized matrix formation, and osteocalcin  OCN  expression.
+Furthermore, the in vivo results in a calvarial defect model of Sprague Dawley
+SD  rats demonstrated that the DEX@MSNs NH2/PLLA/PCL scaffold could
+significantly promote calvarial defect healing compared with the PLLA/PCL
+scaffold. Thus, the EPD technique provides a convenient way to incorporate
+osteogenic agents containing microcarriers to polymer scaffold, and thus,
+prepared composite scaffold could be a potential candidate for bone tissue
+engineering application due to its capacity for delivery of osteogenic agents.

@@ -1,0 +1,21 @@
+2014 Jun
+Novel self assembled micelles based on palmitoyl trimethyl chitosan for efficient
+delivery of harmine to liver cancer.
+P BACKGROUND: Polymeric micelles is a safe and effective delivery system, which
+belong to the targeted delivery system  TDS . An anticancer drug, harmine HM  is
+a hydrophobic drug with much adverse effects when used for treatment of liver
+cancer. Chitosan  CS  is a polysaccharide and can be modified to be an
+amphiphilic polmer which could self assemble into micelles and be applied for
+delivery of hydrophobic drugs. OBJECTIVES: To synthesize three kinds of novel
+biodegradable polymers, designated as palmitoyl trimethyl CS  TPCS 1, TPCS2 and
+Lac TPCS2, and investigate their efficiency and mechanism of delivery HM to liver
+tumors in vitro and in viro. RESULTS: The self assembled micelles presented
+satisfactory particle size   approximately 200 nm  and drug release
+characteristics in vitro. It's proved that Lac TPCS2/HM may enter HepG2 cell
+through endocytosis. Antitumor experiments in vivo revealed that Lac TPCS2/HM
+could significantly inhibit tumor growth and extend the lifetime of mice bearing
+H22 tumors after intravenous administration. Subsequently in vivo near infrared
+fluorescence imaging results demonstrated a satisfactory liver tumor targeting
+effect of Lac TPCS2/HM. CONCLUSION: Three novel polymers hold great potential in
+the development of nanomedicine for treatment of liver tumors, in particular
+Lac TPCS2 exhibits the greatest antitumor potential through active target effect.

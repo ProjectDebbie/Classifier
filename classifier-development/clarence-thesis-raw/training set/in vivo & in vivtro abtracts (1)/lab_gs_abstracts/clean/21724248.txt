@@ -1,0 +1,24 @@
+2011 Oct
+A highly organized three dimensional alginate scaffold for cartilage tissue
+engineering prepared by microfluidic technology.
+P Osteoarthritis is a degenerative disease and frequently involves the knee, hip
+and phalangeal joints. Current treatments used in small cartilage defects
+including multiple drilling, abrasion arthroplasty, mosaicplasty, and autogenous
+chondrocyte transplantation, however, there are problems needed to be solved. The
+standard treatment for severe osteoarthritis is total joint arthroplasty. The
+disadvantages of this surgery are the possibility of implant loosening.
+Therefore, tissue engineering for cartilage regeneration has become a promising
+topic. We have developed a new method to produce a highly organized single
+polymer  alginate  scaffold using microfluidic device. Scanning electron
+microscope and confocal fluoroscope examinations showed that the scaffold has a
+regular interconnected porous structure in the scale of 250 mum and high
+porosity. The scaffold is effective in chondrocyte culture; the cell viability
+test  WST 1 assay , cell toxicity  lactate dehydrogenase assay , cell survival
+rate, extracellular matrix production  glycosaminoglycans contents , cell
+proliferation  DNA quantification , and gene expression  real time PCR  all
+revealed good results for chondrocyte culture. The chondrocytes can maintain
+normal phenotypes, highly express aggrecan and type II collagen, and secrete a
+great deal of extracellular matrix when seeded in the alginate scaffold. This
+study demonstrated that a highly organized alginate scaffold can be prepared with
+an economical microfluidic device, and this scaffold is effective in cartilage
+tissue engineering.

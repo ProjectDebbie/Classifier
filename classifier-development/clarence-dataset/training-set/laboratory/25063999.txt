@@ -1,0 +1,20 @@
+2014 Nov
+A bioactive "self fitting" shape memory polymer scaffold with potential to treat
+cranio maxillo facial bone defects.
+P While tissue engineering is a promising alternative for treating critical sized
+cranio maxillofacial bone defects, improvements in scaffold design are needed. In
+particular, scaffolds that can precisely match the irregular boundaries of bone
+defects as well as exhibit an interconnected pore morphology and bioactivity
+would enhance tissue regeneration. In this study, a shape memory polymer  SMP
+scaffold was developed exhibiting an open porous structure and the capacity to
+conformally "self fit" into irregular defects. The SMP scaffold was prepared via
+photocrosslinking of poly epsilon caprolactone   PCL  diacrylate using a SCPL
+method, which included a fused salt template. A bioactive polydopamine coating
+was applied to coat the pore walls. Following exposure to warm saline at
+T>T trans   T trans =T m  of PCL , the scaffold became malleable and could be
+pressed into an irregular model defect. Cooling caused the scaffold to lock in
+its temporary shape within the defect. The polydopamine coating did not alter the
+physical properties of the scaffold. However, polydopamine coated scaffolds
+exhibited superior bioactivity  i.e. formation of hydroxyapatite in vitro ,
+osteoblast adhesion, proliferation, osteogenic gene expression and extracellular
+matrix deposition.

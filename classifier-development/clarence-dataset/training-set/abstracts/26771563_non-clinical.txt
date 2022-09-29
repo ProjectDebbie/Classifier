@@ -1,0 +1,24 @@
+2016 Feb 2
+Effects of Line and Pillar Array Microengineered SiO2 Thin Films on the
+Osteogenic Differentiation of Human Bone Marrow Derived Mesenchymal Stem Cells.
+P A primary goal in bone tissue engineering is the design of implants that induce
+controlled, guided, and rapid healing. The events that normally lead to the
+integration of an implant into bone and determine the performance of the device
+occur mainly at the tissue implant interface. Topographical surface modification
+of a biomaterial might be an efficient tool for inducing stem cell osteogenic
+differentiation and replace the use of biochemical stimuli. The main goal of this
+work was to develop micropatterned bioactive silica thin films to induce the
+osteogenic differentiation of human bone marrow derived mesenchymal stem cells
+hMSCs  only through topographical stimuli. Line and pillar micropatterns were
+developed by a combination of sol gel/soft lithography and characterized by
+scanning electron microscopy, atomic force microscopy, and contact angle
+measurements. hMSCs were cultured onto the microfabricated thin films and flat
+control for up to 21 days under basal conditions. The micropatterned groups
+induced levels of osteogenic differentiation and expression of
+osteoblast associated markers higher than those of the flat controls. Via
+comparison of the micropatterns, the pillars caused a stronger response of the
+osteogenic differentiation of hMSCs with a higher level of expression of
+osteoblast associated markers, ALP activity, and extracellular matrix
+mineralization after the cells had been cultured for 21 days. These findings
+suggest that specific microtopographic cues can direct hMSCs toward osteogenic
+differentiation.

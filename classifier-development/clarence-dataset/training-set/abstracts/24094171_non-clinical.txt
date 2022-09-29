@@ -1,0 +1,28 @@
+2013 Dec 1
+Stem cell differentiation on electrospun nanofibrous substrates for vascular
+tissue engineering.
+P Nanotechnology has enabled the engineering of a variety of materials to meet the
+current challenges and requirements in vascular tissue regeneration. In our
+study, poly L lactide  PLLA  and hybrid PLLA/collagen  PLLA/Coll  nanofibers  3:1
+and 1:1  with fiber diameters of 210 to 430 nm were fabricated by
+electrospinning. Their morphological, chemical and mechanical characterizations
+were carried out using scanning electron microscopy  SEM , attenuated total
+reflectance Fourier transform infrared  ATR FTIR , and tensile instrument,
+respectively. Bone marrow derived mesenchymal stem cells  MSCs  seeded on
+electrospun nanofibers that are capable of differentiating into vascular cells
+have great potential for repair of the vascular system. We investigated the
+potential of MSCs for vascular cell differentiation in vitro on electrospun
+PLLA/Coll nanofibrous scaffolds using endothelial differentiation media. After 20
+days of culture, MSC proliferation on PLLA/Coll 1:1  scaffolds was found 256%
+higher than the cell proliferation on PLLA scaffolds. SEM images showed that the
+MSC differentiated endothelial cells on PLLA/Coll scaffolds showed cobblestone
+morphology in comparison to the fibroblastic type of undifferentiated MSCs. The
+functionality of the cells in the presence of 'endothelial induction media', was
+further demonstrated from the immunocytochemical analysis, where the MSCs on
+PLLA/Coll  1:1  scaffolds differentiated to endothelial cells and expressed the
+endothelial cell specific proteins such as platelet endothelial cell adhesion
+molecule 1  PECAM 1 or CD31  and Von Willebrand factor  vWF . From the results of
+the SEM analysis and protein expression studies, we concluded that the
+electrospun PLLA/Coll nanofibers could mimic the native vascular ECM environment
+and might be promising substrates for potential application towards vascular
+regeneration.

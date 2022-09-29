@@ -1,0 +1,26 @@
+2014 Oct
+Effects of fibrinogen concentration on fibrin glue and bone powder scaffolds in
+bone regeneration.
+P Fibrin polymers are widely used in the tissue engineering field as biomaterials.
+Although numerous researchers have studied the fabrication of scaffolds using
+fibrin glue  FG  and bone powder, the effects of varied fibrinogen content during
+the fabrication of scaffolds on human mesenchymal stem cells  hMSCs  and bone
+regeneration remain poorly understood. In this study, we formulated scaffolds
+using demineralized bone powder and various fibrinogen concentrations and
+analyzed the microstructure and mechanical properties. Cell proliferation, cell
+viability, and osteoblast differentiation assays were performed. The ability of
+the scaffold to enhance bone regeneration was evaluated using a rabbit calvarial
+defect model. Micro computed tomography  micro CT  showed that bone powders were
+uniformly distributed on the scaffolds, and scanning electron microscopy  SEM
+showed that the fibrin networks and flattened fibrin layers connected adjacent
+bone powder particles. When an 80 mg/mL fibrinogen solution was used to formulate
+scaffolds, the porosity decreased 41.6 +/  3.6%, while the compressive strength
+increased 1.16 +/  0.02 Mpa, when compared with the values for the 10 mg/mL
+fibrinogen solution. Proliferation assays and SEM showed that the scaffolds
+prepared using higher fibrinogen concentrations supported and enhanced cell
+adhesion and proliferation. In addition, mRNA expression of alkaline phosphatase
+and osteocalcin in cells grown on the scaffolds increased with increasing
+fibrinogen concentration. Micro CT and histological analysis revealed that newly
+formed bone was stimulated in the scaffold implantation group. Our results
+demonstrate that optimization of the fibrinogen content of fibrin glue/bone
+powder scaffolds will be beneficial for bone tissue engineering.

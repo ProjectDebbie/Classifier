@@ -1,0 +1,32 @@
+2015 Dec
+Gold, Silver and Carbon Nanoparticles Grafted on Activated Polymers for
+Biomedical Applications.
+P Organic polymers have been applied successfully in fields such as adhesion,
+biomaterials, protective coatings, friction and wear, composites, microelectronic
+devices, and thin film technology. In general, special surface properties with
+regard to chemical composition, hydrophilicity, roughness, crystallinity,
+conductivity, lubricity, and cross linking density are required for the success
+of these applications. Polymers very often do not possess the surface properties
+needed for these applications. For these reasons, surface modification techniques
+which can transform these inexpensive materials into highly valuable finished
+products have become an important part of the plastics industry. In case of
+biomedical polymers is plasma treatment used for enhancing cell adhesion, growth
+and proliferation and to make them suitable for implants and tissue engineering
+scaffolds. Nanoparticles fascinated scientists for over a century and are now
+heavily utilized in chemistry, biology, engineering, and medicine. Nowadays
+nanoparticles can be synthesized reproducibly, modified with seemingly limitless
+chemical functional groups, and, in certain cases, characterized with
+atomic level precision. In recent years, focus has turned to therapeutic
+possibilities for such materials. Structures, which behave as drug carriers,
+antimicrobial agents, and photoresponsive therapeutics have been developed and
+studied in the context of cells and many debilitating diseases. These structures
+are not simply chosen as alternatives to molecule based systems, but rather for
+their new physical and chemical properties, which confer substantive advantages
+in cellular and medical applications. In this review, we provide insights into
+immobilization, toxicity and biomedical applications of gold, silver and carbon
+nanoparticles and discuss their grafting to polymer substrates and the influence
+on cell material interactions. The adhesion and the response of cells in contact
+with the surface play an important role in the cytocompatibility of the implant.
+It is thus important to understand how cells interact with their environment. The
+main properties decisive for colonization of a material with cells are surface
+chemistry, roughness, morphology and polarity, wettability and electrical charge.

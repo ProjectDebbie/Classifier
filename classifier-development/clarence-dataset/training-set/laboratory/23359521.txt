@@ -1,0 +1,27 @@
+2013 Aug
+The effects of nanostructured hydroxyapatite coating on the biodegradation and
+cytocompatibility of magnesium implants.
+P Magnesium  Mg  alloys, a novel class of degradable, metallic biomaterials, have
+attracted growing interest as a promising alternative for medical implant and
+device applications due to their advantageous mechanical and biological
+properties. Although its biodegradability is an attractive property, rapid
+degradation of Mg in the physiological environments imposes a major obstacle that
+limits the translation of Mg based implants to clinical applications. Therefore,
+the objective of this study was to develop a nanostructured hydroxyapatite  nHA
+coating on polished Mg substrates to mediate the rapid degradation of Mg while
+improving its integration with bone tissue for orthopedic applications. The nHA
+coatings were deposited on polished Mg using the patented transonic particle
+acceleration  Spire Biomedical  process. Surface morphology, elemental
+compositions, and crystal structures were characterized using scanning electron
+microscopy, energy dispersive X ray spectroscopy, and X ray diffraction  XRD
+analysis, respectively. The degradation of nHA coated and non coated Mg samples
+was investigated by incubating the samples in phosphate buffered saline and
+revised simulated body fluid, under standard cell culture conditions. Rat bone
+marrow stromal cells  BMSCs  were harvested and cultured with nHA coated and
+non coated Mg samples to determine cytocompatibility. The degradation results
+suggested that the nHA coatings decreased Mg degradation. Improved BMSC adhesion
+was observed on the surfaces of the nHA coated and non coated Mg samples, in
+comparison with the cells on the culture plate surrounding the Mg samples. In
+conclusion, nHA coatings showed promise for improving the biodegradation and
+cytocompatibility properties of Mg based orthopedic implants and should be
+further studied.

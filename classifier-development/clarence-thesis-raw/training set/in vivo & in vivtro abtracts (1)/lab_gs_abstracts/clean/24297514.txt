@@ -1,0 +1,24 @@
+2014 Mar
+Towards ready to use 3 D scaffolds for regenerative medicine: adhesion based
+cryopreservation of human mesenchymal stem cells attached and spread within
+alginate gelatin cryogel scaffolds.
+P Cultivation and proliferation of stem cells in three dimensional  3 D  scaffolds
+is a promising strategy for regenerative medicine. Mesenchymal stem cells with
+their potential to differentiate in various cell types, cryopreserved
+adhesion based in fabricated scaffolds of biocompatible materials can serve as
+ready to use transplantation units for tissue repair, where pores allow a direct
+contact of graft cells and recipient tissue without further preparation. A
+successful cryopreservation of adherent cells depends on attachment and spreading
+processes that start directly after cell seeding. Here, we analyzed different
+cultivation times  0.5, 2, 24 h  prior to adhesion based cryopreservation of
+human mesenchymal stem cells within alginate gelatin cryogel scaffolds and its
+influence on cell viability, recovery and functionality at recovery times  0, 24,
+48 h  in comparison to non frozen control. Analysis with confocal laser scanning
+microscopy and scanning electron microscopy indicated that 2 h cultivation time
+enhanced cryopreservation success: cell number, visual cell contacts, membrane
+integrity, motility, as well as spreading were comparable to control. In
+contrast, cell number by short cultivation time  0.5 h  reduced dramatically
+after thawing and expanded cultivation time  24 h  decreased cell viability. Our
+results provide necessary information to enhance the production and to store
+ready to use transplantation units for application in bone, cartilage or skin
+regenerative therapy.

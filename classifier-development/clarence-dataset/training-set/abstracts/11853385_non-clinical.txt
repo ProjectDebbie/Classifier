@@ -1,0 +1,29 @@
+2001
+Biocompatibility assessment of polytetrafluoroethylene/wollastonite composites
+using endothelial cells and macrophages.
+P The aim of the study was to prepare a composite of
+polytetrafluoroethylene/wollastonite  PTFE/W  and evaluate its biocompatibility
+with endothelial cells. A composite of PTFE with wollastonite in the proportion
+90/10 w/w was prepared. The dynamic storage modulus of composite is found to
+increase from 260 to about 453 MPa at room temperature while a marginal increase
+is observed in the compressive modulus. Higher values of storage modulus of
+PTFE/W relative to pristine PTFE over a range of temperature indicated the
+contribution of wollastonite in improving the rigidity of PTFE. Electron
+microscopic visualization of composite surface indicates suitable morphology for
+cell growth with the cross section showing no evidence of bonding between PTFE
+and wollastonite. The water contact angle of the composite indicates increased
+hydrophilicity over native PTFE due to the presence of wollastonite. A
+direct contact test did not show any deleterious effects on endothelial cell
+morphology and viability, indicating its compatibility. Leached out products
+LOP  from the composite were determined to be non toxic as tested by tetrazolium
+MTT  and Neutral red uptake  NRU  assays. Mouse peritoneal macrophages cultured
+in the presence of the composites did not show upregulation of activation markers
+such as CD11b/CD 18  Mac 1 , CD45, CD 14, and CD86  B7.2  in comparison to
+macrophages cultured in contact with PTFE alone, indicating its non activating
+nature. LOP did not induce proliferation of mouse splenic lymphocytes suggesting
+its immuno tolerance. In static incubation assay contact with composite did not
+lead to hemolysis thus exhibiting preliminary hemocompatibility of the material.
+Suitable physico chemical properties and well tolerance by endothelial cells and
+macrophages make this composite a prospective biomaterial. One could foresee the
+applications of this composite in areas where materials need to possess high
+rigidity and are subject to elevated temperatures.

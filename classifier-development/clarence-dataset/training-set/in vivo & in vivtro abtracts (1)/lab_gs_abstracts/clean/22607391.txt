@@ -1,0 +1,34 @@
+2012 Oct
+Effect of hydrostatic pressure on bone regeneration using human mesenchymal stem
+cells.
+P BACKGROUND: Mechanics is increasingly being recognized as the fourth essential
+factor in bone tissue engineering next to cell, scaffold, and growth factors. The
+development of bioprocessors has made it possible to simulate the in vivo
+mechanics that are needed to generate three dimensional  3D  bone constructs.
+However, although hydrostatic pressure  HP  is a dominant and constant mechanical
+strain on bone cells in vivo, little is known about the effect of HP applied via
+perfusion bioprocessors on in vitro human bone marrow derived mesenchymal stem
+cell  hMSC  behavior. METHODS: hMSCs underwent primary culture for three passages
+before being seeded into hydroxyapatite  HA  scaffolds. The scaffolds were
+incubated for 3 weeks in an automated bioprocessor under cyclic HP. Scaffolds
+exposed to atmospheric pressure  AP  served as the comparator. Osteogenic
+differentiation medium was employed for both the HP and AP groups. Immediately
+before and 1, 2, and 3 weeks after incubation, the scaffolds were harvested for
+histological, immunohistochemical, and gene expression analyses. RESULTS: Cells
+were only found in the AP scaffold surfaces, whereas in the HP group, they were
+distributed evenly throughout the scaffolds. Immunohistochemical analysis
+revealed that the HP group expressed higher levels of osteocalcin  OC ,
+osteopontin  OP , osteonectin  ON , and collagen type 1  Col1  than the AP group
+during the 3 week process. Gene expression analysis revealed that the HP group
+expressed higher levels of ON, Col1, alkaline phosphatase, and integrin beta5
+than the AP group at the 1 , 2 , and 3 week timepoints. The HP group also
+expressed higher levels of core binding factor alpha 1  Cbfa1  at the 2  and
+3 week timepoints and higher levels of OP and OC at the 1 week timepoint. Their
+proliferating cell nuclear antigen levels were lower at the 1  and 2 week
+timepoints. CONCLUSIONS: HP enhances cellular viability and improves osteogenic
+differentiation and maturation, although somewhat at the expense of proliferation
+and self renewal of MSCs. Possible negative effects of the bioprocessor induced
+HP on bone regeneration were not observed. Further, the mechanotransductive
+molecule integrin beta5 was expressed at high levels after HP stimulation and may
+enhance migration, promote differentiation, and inhibit osteoclast maturation
+during HP driven osteogenesis in vitro.

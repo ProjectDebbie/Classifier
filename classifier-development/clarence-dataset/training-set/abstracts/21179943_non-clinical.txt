@@ -1,0 +1,21 @@
+2010 Jun
+Multiwalled carbon nanotubes inhibit fluorescein extrusion and reduce plasma
+membrane potential in in vitro human glioma cells.
+P In the study on the interactions of carbon nanotubes with living cells, the cell
+membrane deserves particular attention as it provides the first interface to
+initiate CNTs cell interactions. In the present study, the inhibiting effect of
+multiwalled carbon nanotubes on the extrusion of fluorescein in human glioma
+cells was demonstrated using two procedures. To provide clues to explanation of
+this effect, intracellular glutathione content and reactive oxygen species
+production were determined as fluorescein is a specific substrate of cell
+membrane multidrug resistance related protein whose transport activity requires
+glutathione which can be depleted under oxidative stress. The plasma membrane
+potential was also probed as the susceptibility of fluorescein efflux to
+modulation of the plasma membrane potential has been documented. Results showed a
+remarkable decrease in cellular glutathione level as well as an increase in
+reactive oxygen species production. Probe staining also indicated decreased
+plasma membrane potential. The data suggested that multiwalled carbon nanotubes
+may affect the transport activity of cell membrane multidrug resistance related
+protein through reduction of intracellular glutathione content. Hypopolarization
+of the plasma membrane may also contribute to MWCNTs' effect. Implications of
+these findings are discussed.

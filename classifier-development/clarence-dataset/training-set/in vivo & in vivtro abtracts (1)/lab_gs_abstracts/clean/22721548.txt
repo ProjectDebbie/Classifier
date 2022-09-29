@@ -1,0 +1,29 @@
+2012 Sep
+Osteochondral interface generation by rabbit bone marrow stromal cells and
+osteoblasts coculture.
+P Physiological osteochondral interface regeneration is a significant challenge.
+This study aims to investigate the effect of the coculture of chondrogenic rabbit
+bone marrow stromal cells  rBMSCs  with rabbit osteoblasts in a specially
+designed two dimensional  2D  three dimensional  3D  co interface culture to
+develop the intermediate osteochondral region in vitro. The 2D 3D coculture
+system was set up by first independently culturing chondrogenic rBMSCs on a
+scaffold and osteoblasts in cell culture plates, and subsequently placed in
+contact and cocultured. As control, samples not cocultured with osteoblasts were
+used. The regulatory effects exerted by osteoblasts on chondrogenic rBMSCs were
+quantified by real time polymerase chain reaction. To study the effect of
+coculture on cells located in different parts of the scaffold, samples were
+separated into two parts and significantly different gene expression patterns
+were found between them. In comparison with the control group, a significant
+moderate downregulation of chondrogenic marker genes, such as Collagen II and
+Aggrecan was observed. However, the Sox 9 and Collagen I expression increased.
+More importantly, chondrogenic rBMSCs in the coculture system were shown to form
+the osteochondral interface layer by expressing calcified cartilage zone specific
+extracellular matrix marker Collagen X and the hypertrophic chondrocyte marker
+MMP 13, which were not observed in the control group. Specifically, only the
+chondrogenic rBMSC layer in contact with the osteoblasts expressed Collagen X and
+MMP 13, indicating the positive influence of the coculture upon interface
+formation. Biochemical analyses, histology results, and immunohistochemical
+staining further supported this observation. In conclusion, this study revealed
+that specific regulatory stimulations from osteoblasts in the 2D 3D interface
+coculture system could induce the formation of ostochondral interface for the
+purpose of osteochondral tissue engineering.

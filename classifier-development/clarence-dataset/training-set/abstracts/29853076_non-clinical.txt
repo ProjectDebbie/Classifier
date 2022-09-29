@@ -1,0 +1,31 @@
+2018 Sep 1
+Strategic design of cardiac mimetic core shell nanofibrous scaffold impregnated
+with Salvianolic acid B and Magnesium l ascorbic acid 2 phosphate for myoblast
+differentiation.
+P The major loss of myocardial tissue extracellular matrix after infarction is a
+serious complication that leads to heart failure. Regeneration and integration of
+damaged cardiac tissue is challenging since the functional restoration of the
+injured myocardium is an incredible task. The injured micro environment of
+myocardium fails to regenerate spontaneously. The emergence of nano biomaterials
+would be a promising approach to regenerate such a damaged cardiomyocytes tissue.
+Here, we have fabricated a dual bioactive embedded nanofibrous cardiac patch via
+coaxial electrospinning technique, to mimic the topographical and chemical cues
+of the natural cardiac tissue. The proportion and the concentration of the
+polymers were optimized for tailored delivery of bioactives from a
+spatio temporally designed scaffold. The functionalization of polymeric core
+shell nanofibrous scaffold with dual bioactives enhanced the physico chemical and
+bio mechanical properties of the scaffolds that has resulted in a 3 dimensional
+topography mimicking the natural cardiac like extracellular matrix. The sustained
+delivery of bioactive signals, improved cell adhesion, proliferation, migration
+and differentiation could be attributed to its highly interconnected nanofibrous
+matrix with good extended morphology. Further, the expression of cardiac specific
+markers were found to increase on investigation of mRNA by real time PCR studies
+and proteins by immunofluorescence and western blotting techniques, confirming
+cell   biomaterial interactions. Flow cytometry analysis authenticated a potent
+mitochondrial membrane potential of cells treated with nanocomposite. In
+addition, in ovo studies in chicken chorioallantoic membrane assay confirm the
+efficacy of the developed scaffold in inducing angiogenesis required for
+maintaining its viability after transplantation onto the infarcted zone. These
+promising results demonstrate the potential of the composite nanofibrous scaffold
+as an effective biomaterial substrate for cardiac regeneration providing cues for
+development of novel cardiac therapeutics.

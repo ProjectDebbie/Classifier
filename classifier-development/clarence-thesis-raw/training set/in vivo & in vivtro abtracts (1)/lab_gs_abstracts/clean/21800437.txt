@@ -1,0 +1,26 @@
+2012 Jul
+Chondrogenic potential of electrospun nanofibres for cartilage tissue
+engineering.
+P Articular cartilage has a heterogeneous structure, comprising elongated cells at
+the articulating surface and rounded cells elsewhere. This feature poses a
+complex challenge when fabricating 3D tissue engineering scaffolds able to mimic
+the native extracellular matrix  ECM  of cartilage for tissue repair and
+regeneration. Nanofibre scaffolds can provide an ECM like structure, but are
+mechanically weak and typically have subcellular pore geometries. In this study,
+the use of poly L,D lactide   PLDLA  nanofibre coatings on PLDLA microfibres or
+films  nanofibre composites  to influence bovine chondrocyte behaviour was
+investigated. It was demonstrated that electrospun nanofibres facilitated the
+adhesion of chondrocytes and helped to maintain smaller projected cell areas and
+a rounded cell phenotype, when compared to PLDLA films or microfibres. Random
+nanofibre composites were associated with the smallest and most rounded cells and
+aligned nanofibre composites also demonstrated a similar tendency. Quantitative
+PCR revealed that nanofibres promoted the expression of chondrogenic markers,
+such as collagen type IIaI and aggrecan, while maintaining low levels of collagen
+IaI. It was also found, by water contact angle measurement, that nanofibres were
+significantly more hydrophobic than cast films. The lower wettability of
+polymeric nanofibres favoured the maintenance of rounded chondrocyte morphology.
+To our knowledge this is the first study to confirm the positive influence on
+preserving chondrogenic phenotype and gene expression at the interface of true
+nano microfibrous composites by using individual microfibres coated with aligned
+nanofibres. Such composites can potentially be fabricated into mechanically
+durable 3D scaffolds with better cell infiltration throughout the scaffolds.

@@ -1,0 +1,27 @@
+2017 Apr
+Multilayer Nanoscale Encapsulation of Biofunctional Peptides to Enhance Bone
+Tissue Regeneration In Vivo.
+LID   10.1002/adhm.201601182 [doi]
+A Bone tissue healing is a dynamic process that is initiated by the recruitment of
+osteoprogenitor cells followed by their migration, proliferation,
+differentiation, and development of a mineralizing extracellular matrix. The work
+aims to manufacture a functionalized porous membrane that stimulates early events
+in bone healing for initiating a regenerative cascade. Layer by layer  LbL
+assembly is proposed to modify the surface of osteoconductive electrospun meshes,
+based on poly lactic co glycolic acid  and nanohydroxyapatite, by using
+poly allylamine hydrochloride  and poly sodium 4 styrenesulfonate  as
+polyelectrolytes. Molecular cues are incorporated by grafting peptide fragments
+into the discrete nanolayers. KRSR  lysine arginine serine arginine  sequence is
+grafted to enhance cell adhesion and proliferation, NSPVNSKIPKACCVPTELSAI to
+guide bone marrow mesenchymal stem cells differentiation in osteoblasts, and
+FHRRIKA  phenylalanine histidine arginine arginine isoleucine lysine alanine  to
+improve mineralization matrix formation. Scanning electron microscopy, infrared
+spectroscopy, and X ray photoelectron spectroscopy demonstrate the successful
+surface functionalization. Furthermore, the peptide incorporation enhances
+cellular processes, with good viability and significant increase of alkaline
+phosphatase activity, osteopontin, and osteocalcin. The functionalized membrane
+induces a favorable in vivo response after implantation for four weeks in
+nonhealing rat calvarial defect model. It is concluded that the multilayer
+nanoencapsulation of biofunctional peptides using LbL approach has significant
+potential as innovative manufacturing technique to improve bone regeneration in
+orthopedic and craniofacial medical devices.

@@ -1,0 +1,2 @@
+Backscatter digital holography of microparticles.
+This work investigates a method for digital holographic imaging of microparticles. Traditional digital holographic techniques use a particle's forward scattered light to form the hologram, whereas here we use the backscattered light. Images of a particle are then computationally reconstructed from the backscatter hologram, and several examples of such reconstructions are presented. A potential advantage of this technique is that the backscatter holograms may be more sensitive to particle-surface details.

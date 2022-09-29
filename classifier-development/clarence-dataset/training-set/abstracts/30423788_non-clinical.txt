@@ -1,0 +1,34 @@
+2019 Jan 1
+PLGA amoxicillin loaded layer formed on anodized Ti alloy as a hybrid material
+for dental implant applications.
+P In this paper, the preparation of a functional hybrid coating loaded with a drug
+amoxicillin  on a promising titanium alloy   Ti 15Mo alloy is presented. The
+titanium alloy surface was anodized in solution with bioactive compounds to
+obtain a porous oxide layer favorable for MG 63 osteoblast like cell adhesion.
+Then, a poly lactide co glycolide   PLGA  loaded with amoxicillin layer was
+formed using a dip coating technique to cover the oxide layer, without filling in
+all of the pores. The morphology of the surface was evaluated using scanning
+electron microscopy supported by 3D Roughness Reconstruction software. The
+surface treatment of the Ti 15Mo alloy surface caused the surface roughness to
+increase up to 1.71mum. The anodization process caused the Ti 15Mo alloy surface
+to become slightly more hydrophilic; however, the formation of the PLGA layer
+loaded with drug increased the contact angle to 96.5 degrees +/ 2.2 degrees ,
+respectively. After 4weeks of polymer layer degradation, the registered signals
+on the  1 H NMR spectrum were identical to the signals registered for lactic acid
+LAc , which confirms that the polymer layer was degraded within a short period
+of time. The concentration of drug released into the artificial saliva was
+investigated using high performance liquid chromatography  HPLC  up to 12h of
+coatings immersion. During the first hour of coating degradation in artificial
+saliva, and the concentration of the drug  13mug/ml  was enough to inhibit
+bacterial growth of S. aureus and S. epidermidis. These results were confirmed by
+agar plate diffusion method and evaluation of the minimal inhibitory
+concentration  MIC . The cytocompatibility of the materials was determined using
+the osteoblast like cells MG 63, and the viability and cell morphology  live/dead
+staining  were also evaluated. The results showed that amoxicillin influences the
+osteoblast like MG 63 cells' behavior during cell culture, especially for the
+first few hours. The influence on the type of surface treatment on MG 63 cell
+behavior during 7days of culture is discussed in this paper. To the best of our
+knowledge, this is the first time that a fast degrading layer with amoxicillin
+has been deposited on previously anodized Ti surface. The formation of functional
+coating may find application as a cytocompatible coating to prevent bacterial
+adhesion on long term implant surfaces.

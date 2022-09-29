@@ -1,0 +1,22 @@
+2015 Mar
+Mechanoresponses of human primary osteoblasts grown on carbon nanotubes.
+P Bone mechanotransduction is strongly influenced by the biomaterial properties. A
+good understanding of these mechanosensory mechanisms in bone has the potential
+to provide new strategies in the highly evolving field of bone tissue
+engineering. The aim of the present investigation was to study the interactive
+effects of local mechanical stimuli on multiwalled carbon nanotubes
+MWCNTs /osteoblast interface, using an in vitro model that allows the study of
+cell growth, attachment and differentiation. Strain was applied at physiological
+levels [strain magnitudes 500 microstrain  muvarepsilon , at frequency of load
+application 0.5 Hz]. The effect of mechanical strain and substrate was thus
+studied by measuring the messenger RNA expression of alkaline phosphatase,
+vinculin, collagen 1A, and integrins beta1, beta3, alpha4, and alphav, using
+real time quantitative polymerase chain reaction. The osteoblasts grown on MWCNTs
+displayed quick adaptation to the new environment by modulating the expression of
+key adhesion integrins. Furthermore, the addition of mechanical strain
+interplayed with the extracellular matrix and was efficiently transduced by cells
+grown on MWCNTs, providing stronger adhesion and survival. MWCNTs are therefore a
+material perfectly compatible with osteoblast differentiation, adhesion, and
+growth, and should be further evaluated, to derive new generation biomaterial
+scaffolds for the treatment of skeletal defects which require bone
+reconstruction.

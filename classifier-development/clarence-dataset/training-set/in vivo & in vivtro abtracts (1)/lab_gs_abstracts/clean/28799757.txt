@@ -1,0 +1,34 @@
+2017 Oct 9
+Immobilization of Growth Factors to Collagen Surfaces Using Pulsed Visible Light.
+P In the treatment of traumatic injuries, burns, and ulcers of the eye, inadequate
+epithelial tissue healing remains a major challenge. Wound healing is a complex
+process involving the temporal and spatial interplay between cells and their
+extracellular milieu. It can be impaired by a variety of causes including
+infection, poor circulation, loss of critical cells, and/or proteins, and a
+deficiency in normal neural signaling  e.g., neurotrophic ulcers . Ocular anatomy
+is particularly vulnerable to lasting morbidity from delayed healing, whether it
+be scarring or perforation of the cornea, destruction of the conjunctival mucous
+membrane, or cicatricial changes to the eyelids and surrounding skin. Therefore,
+there is a major clinical need for new modalities for controlling and
+accelerating wound healing, particularly in the eye. Collagen matrices have long
+been explored as scaffolds to support cell growth as both two dimensional
+coatings and substrates, as well as three dimensional matrices. Meanwhile, the
+immobilization of growth factors to various substrates has also been extensively
+studied as a way to promote enhanced cellular adhesion and proliferation. Herein
+we present a new strategy for photochemically immobilizing growth factors to
+collagen using riboflavin as a photosensitizer and exposure to visible light
+approximately 458 nm . Epidermal growth factor  EGF  was successfully bound to
+collagen coated surfaces as well as directly to endogenous collagen from porcine
+corneas. The initial concentration of riboflavin and EGF as well as the blue
+light exposure time were keys to the successful binding of growth factors to
+these surfaces. The photocrosslinking reaction increased EGF residence time on
+collagen surfaces over 7 days. EGF activity was maintained after the
+photocrosslinking reaction with a short duration of pulsed blue light exposure.
+Bound EGF accelerated in vitro corneal epithelial cell proliferation and
+migration and maintained normal cell phenotype. Additionally, the treated
+surfaces were cytocompatible, and the photocrosslinking reaction was proven to be
+safe, preserving nearly 100% cell viability. These results suggest that this
+general approach is safe and versatile may be used for targeting and immobilizing
+bioactive factors onto collagen matrices in a variety of applications, including
+in the presence of live, seeded cells or in vivo onto endogenous extracellular
+matrix collagen.

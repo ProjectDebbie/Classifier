@@ -1,0 +1,21 @@
+2004 Aug 17
+Controlling cell attachment selectively onto biological polymer colloid templates
+using polymer on polymer stamping.
+P A new patterning approach using polymer on polymer stamping  POPS  has been
+developed to fabricate polymer colloid templates for controlling selective cell
+attachment. In this paper, a polyamine surface patterned onto a poly acrylic
+acid /poly allylamine hydrochloride   PAA/PAH  cell resistant multilayer platform
+serves as a template for the deposition of close  or loose packed colloidal
+particles. Peptides containing the RGD adhesion sequence were used to modify the
+PAH/colloid surface for specific cell attachment. Cell behavior was studied by
+varying colloidal packing array density, pattern geometry, and surface chemistry.
+It was found that loose packed RGD modified colloidal arrays enhance cell
+adhesion, as observed through the development of focal adhesion contacts and
+orientation of actin stress fibers, but close packed colloidal arrays induce a
+rounded and nonadhesive cell morphology and yield a smaller number of attached
+cells. On loose packed arrays, cells adjust their shapes to the pattern geometry
+when the stripe width is smaller than 50 microm and increase their extent of
+attachment when the concentration of surface RGD peptides is increased. This new
+biomaterials system allows the examination of cell behavior as a function of RGD
+surface distribution on the molecular to micrometer scale and reveals cellular
+response to different surface roughnesses.

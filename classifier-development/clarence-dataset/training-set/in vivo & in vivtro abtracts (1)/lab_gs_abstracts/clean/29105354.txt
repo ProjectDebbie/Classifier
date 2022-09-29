@@ -1,0 +1,28 @@
+2018 Mar
+Meniscus ECM functionalised hydrogels containing infrapatellar fat pad derived
+stem cells for bioprinting of regionally defined meniscal tissue.
+P Injuries to the meniscus of the knee commonly lead to osteoarthritis. Current
+therapies for meniscus regeneration, including meniscectomies and scaffold
+implantation, fail to achieve complete functional regeneration of the tissue.
+This has led to increased interest in cell and gene therapies and tissue
+engineering approaches to meniscus regeneration. The implantation of a biomimetic
+implant, incorporating cells, growth factors, and extracellular matrix
+ECM  derived proteins, represents a promising approach to functional meniscus
+regeneration. The objective of this study was to develop a range of
+ECM functionalised bioinks suitable for 3D bioprinting of meniscal tissue. To
+this end, alginate hydrogels were functionalised with ECM derived from the inner
+and outer regions of the meniscus and loaded with infrapatellar fat pad derived
+stem cells. In the absence of exogenously supplied growth factors, inner meniscus
+ECM promoted chondrogenesis of fat pad derived stem cells, whereas outer meniscus
+ECM promoted a more elongated cell morphology and the development of a more
+fibroblastic phenotype. With exogenous growth factors supplementation, a more
+fibrogenic phenotype was observed in outer ECM functionalised hydrogels
+supplemented with connective tissue growth factor, whereas inner
+ECM functionalised hydrogels supplemented with TGFbeta3 supported the highest
+levels of Sox 9 and type II collagen gene expression and sulfated
+glycosaminoglycans  sGAG  deposition. The final phase of the study demonstrated
+the printability of these ECM functionalised hydrogels, demonstrating that their
+codeposition with polycaprolactone microfibres dramatically improved the
+mechanical properties of the 3D bioprinted constructs with no noticeable loss in
+cell viability. These bioprinted constructs represent an exciting new approach to
+tissue engineering of functional meniscal grafts.

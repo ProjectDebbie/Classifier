@@ -1,0 +1,29 @@
+2015
+Magnetic Nanocomposite Scaffold Induced Stimulation of Migration and
+Odontogenesis of Human Dental Pulp Cells through Integrin Signaling Pathways.
+P Magnetism is an intriguing physical cue that can alter the behaviors of a broad
+range of cells. Nanocomposite scaffolds that exhibit magnetic properties are thus
+considered useful 3D matrix for culture of cells and their fate control in repair
+and regeneration processes. Here we produced magnetic nanocomposite scaffolds
+made of magnetite nanoparticles  MNPs  and polycaprolactone  PCL , and the
+effects of the scaffolds on the adhesion, growth, migration and odontogenic
+differentiation of human dental pulp cells  HDPCs  were investigated.
+Furthermore, the associated signaling pathways were examined in order to
+elucidate the molecular mechanisms in the cellular events. The magnetic scaffolds
+incorporated with MNPs at varying concentrations  up to 10%wt  supported cellular
+adhesion and multiplication over 2 weeks, showing good viability. The cellular
+constructs in the nanocomposite scaffolds played significant roles in the
+stimulation of adhesion, migration and odontogenesis of HDPCs. Cells were shown
+to adhere to substantially higher number when affected by the magnetic scaffolds.
+Cell migration tested by in vitro wound closure model was significantly enhanced
+by the magnetic scaffolds. Furthermore, odontogenic differentiation of HDPCs, as
+assessed by the alkaline phosphatase activity, mRNA expressions of odontogenic
+markers  DMP 1, DSPP,osteocalcin, and ostepontin , and alizarin red staining, was
+significantly stimulated by the magnetic scaffolds. Signal transduction was
+analyzed by RT PCR, Western blotting, and confocal microscopy. The magnetic
+scaffolds upregulated the integrin subunits  alpha1, alpha2, beta1 and beta3  and
+activated downstream pathways, such as FAK, paxillin, p38, ERK MAPK, and
+NF kappaB. The current study reports for the first time the significant impact of
+magnetic scaffolds in stimulating HDPC behaviors, including cell migration and
+odontogenesis, implying the potential usefulness of the magnetic scaffolds for
+dentin pulp tissue engineering.

@@ -1,0 +1,34 @@
+2018 Oct 1
+Design of a migration assay for human gingival fibroblasts on biodegradable
+magnesium surfaces.
+P A novel regenerative approach to Guided Bone Regeneration  GBR  in dental surgery
+is based on the development of biodegradable and volume stable barrier membranes
+made of metallic magnesium. Currently used volume stable barrier membranes are
+made of titanium reinforced PTFE or titanium reinforced collagen membranes, both,
+however, are accompanied by a high incidence of wound dehiscence resulting in
+membrane exposure, which leads to an increased infection risk. An exposed
+membrane could also occur directly after insertion due to insufficient soft
+tissue coverage of the membrane. In both cases, fast wound margin regeneration is
+required. As a first step of soft tissue regeneration, gingival fibroblasts need
+to migrate over the barrier membrane and close the dehiscent wound. Based on this
+aim, this study investigated the migration behaviour of human gingival
+fibroblasts on a magnesium surface. Major experimental challenges such as
+formation of hydrogen bubbles due to initial magnesium corrosion and
+non transparent material surfaces have been addressed to allow cell adhesion and
+to follow cell migration. The designed scratch based cell migration assay
+involved vital fluorescent cell staining on a pre corroded magnesium membrane to
+simulate invivo wound dehiscence. The assay has been used to compare cell
+migration on pre corroded magnesium to titanium surfaces and tissue culture
+plastic as control substrates. First results of this assay showed that human
+gingival fibroblasts migrate slower on pre corroded magnesium compared to plastic
+and titanium. However, the scratch was finally closed on all materials. Compared
+to titanium surfaces and tissue culture plastic, the surface roughness and the
+surface free energy  SFE  could not explain slower cell migration on magnesium
+surfaces. Immunohistological investigations of cellular structure revealed, that
+magnesium ions increased focal adhesion at concentration of additionally 75mM
+MgCl2 in cell culture medium. The use of our designed cell migration assay has
+shown that ionic medium alterations due to magnesium corrosion has a higher
+impact on the cell migration rate than surface alterations. STATEMENT OF
+SIGNIFICANCE: The design of a migration assay on non transparent magnesium
+surfaces will add the option to study cell response to surface modifications,
+coatings and the corrosion process itself under life view conditions.

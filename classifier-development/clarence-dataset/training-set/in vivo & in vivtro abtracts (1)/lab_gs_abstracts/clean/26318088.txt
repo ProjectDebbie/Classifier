@@ -1,0 +1,30 @@
+2016 Apr 15
+Fabrication and characterization of nano fibrous bilayer composite for skin
+regeneration application.
+P Full thickness wound healing with minimal scarring and complete restoration of
+normal skin properties still remains as a clinical challenge. In this study, a
+bilayer skin substitute has been fabricated to biomimic the microstructure of
+natural extracellular matrix of the skin. Human amniotic membrane  HAM  and silk
+fibroin nano fibers were combined to produce bilayer construct, which was further
+treated and characterized. HAM was obtained from healthy mothers and
+de epithelized by means of fine enzymatic method to preserve the extracellular
+structure. Fibroin protein was extracted from fresh Bombyx mori cocoons and
+transformed to uniform nano fiberous structure, which was used as a coating layer
+on the de epithelized membrane. Surface modification through oxygen plasma
+treatment was attempted to further induce hydrophilicity. Subsequently, scaffolds
+were fully characterized in terms of morphology, mechanical properties,
+hydrophilicity and cell culture response. Histological and immunohistological
+staining demonstrated localization of fibronectin, cell denudation and structural
+integrity of HAM after de epithelization. Scanning electron microscopy images
+showed bead free silk fibroin nano fibers with the average diameter of 250nm.
+Water contact angle of bilayer scaffolds reduced dramatically to 26.34 degrees
+after oxygen plasma treatment, which is correlated with more hydrophilic surface.
+Due to fibroin nano fiber coating, mechanical properties of HAM improved
+significantly. Tensile Young's modulus and tensile strength increased from
+16.14MPa and 68.46MPa to 25.69MPa and 108.03MPa, respectively. 14days in vitro
+cultivation of mouse embryonic fibroblasts on the scaffolds revealed that bilayer
+scaffolds are able to support cell attachment and proliferation. Plasma etched
+scaffolds provided the best niche for cell matrix crosstalk by allowing cells to
+penetrate beneath the pores and to integrate in fibers direction. The obtained
+results suggest that the presented nano fibrous bilayer composite based on HAM is
+a potential substitute for skin regeneration application.

@@ -1,0 +1,24 @@
+2018
+Non invasive monitoring of in vivo hydrogel degradation and cartilage
+regeneration by multiparametric MR imaging.
+P Numerous biodegradable hydrogels for cartilage regeneration have been widely used
+in the field of tissue engineering. However, to non invasively monitor hydrogel
+degradation and efficiently evaluate cartilage restoration in situ is still
+challenging. Methods: A ultrasmall superparamagnetic iron oxide  USPIO  labeled
+cellulose nanocrystal  CNC /silk fibroin  SF  blended hydrogel system was
+developed to monitor hydrogel degradation during cartilage regeneration. The
+physicochemical characterization and biocompatibility of the hydrogel were
+evaluated in vitro. The in vivo hydrogel degradation and cartilage regeneration
+of different implants were assessed using multiparametric magnetic resonance
+imaging  MRI  and further confirmed by histological analysis in a rabbit
+cartilage defect model for 3 months. Results: USPIO labeled hydrogels showed
+sufficient MR contrast enhancement and retained stability without loss of the
+relaxation rate. Neither the mechanical properties of the hydrogels nor the
+proliferation of bone marrow mesenchymal stem cells  BMSCs  were affected by
+USPIO labeling in vitro. CNC/SF hydrogels with BMSCs degraded more quickly than
+the acellular hydrogels as reflected by the MR relaxation rate trends in vivo.
+The morphology of neocartilage was noninvasively visualized by the
+three dimensional water selective cartilage MRI scan sequence, and the cartilage
+repair was further demonstrated by macroscopic and histological observations.
+Conclusion: This USPIO labeled CNC/SF hydrogel system provides a new perspective
+on image guided tissue engineering for cartilage regeneration.

@@ -1,0 +1,27 @@
+2011
+Nanometer thin TiO 2  enhances skeletal muscle cell phenotype and behavior.
+P BACKGROUND: The independent role of the surface chemistry of titanium in
+determining its biological properties is yet to be determined. Although titanium
+implants are often in contact with muscle tissue, the interaction of muscle cells
+with titanium is largely unknown. This study tested the hypotheses that the
+surface chemistry of clinically established microroughened titanium surfaces
+could be controllably varied by coating with a minimally thin layer of TiO 2
+ideally pico to nanometer in thickness  without altering the existing
+topographical and roughness features, and that the change in superficial
+chemistry of titanium is effective in improving the biological properties of
+titanium. METHODS AND RESULTS: Acid etched microroughened titanium surfaces were
+coated with TiO 2  using slow rate sputter deposition of molten TiO 2
+nanoparticles. A TiO 2  coating of 300 pm to 6.3 nm increased the surface oxygen
+on the titanium substrates in a controllable manner, but did not alter the
+existing microscale architecture and roughness of the substrates. Cells derived
+from rat skeletal muscles showed increased attachment, spread, adhesion strength,
+proliferation, gene expression, and collagen production at the initial and early
+stage of culture on 6.3 nm thick TiO 2  coated microroughened titanium surfaces
+compared with uncoated titanium surfaces. CONCLUSION: Using an exemplary
+slow rate sputter deposition technique of molten TiO 2  nanoparticles, this study
+demonstrated that titanium substrates, even with microscale roughness, can be
+sufficiently chemically modified to enhance their biological properties without
+altering the existing microscale morphology. The controllable and exclusive
+chemical modification technique presented in this study may open a new avenue for
+surface modifications of titanium based biomaterials for better cell and tissue
+affinity and reaction.

@@ -1,0 +1,29 @@
+2009 Aug
+Poly N acetyl glucosamine nanofibers: a new bioactive material to enhance
+diabetic wound healing by cell migration and angiogenesis.
+P INTRODUCTION: In several fields of surgery, the treatment of complicated tissue
+defects is an unsolved clinical problem. In particular, the use of tissue
+scaffolds has been limited by poor revascularization and integration. In this
+study, we developed a polymer, poly N acetyl glucosamine  sNAG , with bioactive
+properties that may be useful to overcome these limitations. OBJECTIVE: To
+develop a scaffold like membrane with bioactive properties and test the biologic
+effects in vitro and in vivo in diabetic wound healing. METHODS: In vitro,
+cells nanofibers interactions were tested by cell metabolism and migration
+assays. In vivo, full thickness wounds in diabetic mice  n = 15 per group  were
+treated either with sNAG scaffolds, with a cellulosic control material, or were
+left untreated. Wound healing kinetics, including wound reepithelialization and
+wound contraction as well as microscopic metrics such as tissue growth, cell
+proliferation  Ki67 , angiogenesis  PECAM 1 , cell migration  MAP Kinase , and
+keratinocyte migration  p 63  were monitored over a period of 28 days. Messenger
+RNA levels related to migration  uPAR , angiogenesis  VEGF , inflammatory
+response  IL 1beta , and extracellular matrix remodeling  MMP3 and 9  were
+measured in wound tissues. RESULTS: sNAG fibers stimulated cell metabolism and
+the in vitro migratory activity of endothelial cells and fibroblasts. sNAG
+membranes profoundly accelerated wound closure mainly by reepithelialization and
+increased keratinocyte migration  7.5 fold , granulation tissue formation
+2.8 fold , cell proliferation  4 fold , and vascularization  2.7 fold  compared
+with control wounds. Expression of markers of angiogenesis  VEGF , cell migration
+uPAR  and ECM remodeling  MMP3, MMP9  were up regulated in sNAG treated wounds
+compared with controls. CONCLUSIONS: The key mechanism of the bioactive membranes
+is the cell nanofiber stimulatory interaction. Engineering of bioactive materials
+may represent the clinical solution for a number of complex tissue defects.

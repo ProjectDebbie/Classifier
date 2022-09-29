@@ -1,0 +1,37 @@
+2016 Apr
+Towards functional 3D stacked electrospun composite scaffolds of PHBV, silk
+fibroin and nanohydroxyapatite: Mechanical properties and surface osteogenic
+differentiation.
+P Bone tissue engineering scaffolds have two challenging functional tasks to
+fulfil: to encourage cell proliferation, differentiation and matrix synthesis and
+to provide suitable mechanical stability upon implantation. Composites of
+biopolymers and bioceramics combine the advantages of both types of materials,
+resulting in better processability and enhanced mechanical and biological
+properties through matrix reinforcement. In the present study, novel thick bone
+composite scaffolds were successfully fabricated using electrospun flat sheets of
+polyhydroxybutyrate polyhydroxyvalerate/nanohydroxyapatite/silk fibroin essence
+2% nanohydroxyapatite   2% silk fibroin essence and 5% nanohydroxyapatite   5%
+silk fibroin essence, respectively . Their potential asin vitrobone regeneration
+scaffolds was evaluated using mouse calvarian osteoblast cells  MC3T3 E1 , in
+terms of morphology  scanning electron microscope , cell attachment, cell
+proliferation, Col type I, osteopontin and bone alkaline phosphatase activity
+Quantitative Real Time Polymerase Chain Reaction [qRT PCR], enzyme linked
+immunosorbent assay, immunocytochemistry . Electrospun
+polyhydroxybutyrate polyhydroxyvalerate scaffolds were used as reference
+constructs. The results showed that the compressive and tensile mechanical
+properties of the scaffolds are dependent on the change in their composition, and
+the treatment these underwent. Furthermore, methanol treated and autoclaved  MA
+P2  2% nanohydroxyapatite, 2% silk fibroin essence  samples appeared to exhibit
+more promising tensile properties. Additionally, the compressive tests results
+confirmed that the methanol pre treatment and the autoclaving step lead to an
+increase in the P2 secant modulus when compared to the non methanol treated ones,
+P2 and P5  5% nanohydroxyapatite, 5% silk fibroin essence , respectively.Both
+formulations of polyhydroxybutyrate polyhydroxyvalerate/nanohydroxyapatite/silk
+fibroin essence composite promoted greater cell adhesion and proliferation than
+the corresponding polyhydroxybutyrate polyhydroxyvalerate control ones. Cells
+seeded on the composite fibrous scaffolds were extensively expanded and elongated
+on the fibre surface after one day in culture, whereas those seeded on the
+polyhydroxybutyrate polyhydroxyvalerate scaffolds were not completely elongated.
+In addition, cells grown on P2 and P5 scaffolds had higher alkaline phosphatase
+activity when compared to those containing no nanohydroxyapatite/silk fibroin
+essence.

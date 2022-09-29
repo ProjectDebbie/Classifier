@@ -1,0 +1,22 @@
+2014 Nov
+Novel biomimetic tripolymer scaffolds consisting of chitosan, collagen type 1,
+and hyaluronic acid for bone marrow derived human mesenchymal stem cells based
+bone tissue engineering.
+P Human bone marrow derived mesenchymal stem cells  hMSCs  are an ideal osteogenic
+cell source for bone tissue engineering  BTE . A scaffold, in the context of BTE,
+is the extracellular matrix  ECM  that provides the unique microenvironment and
+play significant role in regulating cell behavior, differentiation, and
+development in an in vitro culture system. In this study, we have developed novel
+biomimetic tripolymer scaffolds for BTE using an ECM protein, collagen type 1; an
+ECM glycosaminoglycan, hyaluronic acid; and a natural osteoconductive polymer,
+chitosan. The scaffolds were characterized by scanning electron microscopy  SEM
+and swelling ratio. The scaffolds were seeded with hMSCs and tested for
+cytocompatibility and osteogenic potential. The scaffolds supported cell
+adhesion, enhanced cell proliferation, promoted cell migration, showed good cell
+viability, and osteogenic potential. The cells were able to migrate out from the
+scaffolds in favorable conditions. SEM, alkaline phosphatase assay, and
+immunofluorescent staining confirmed the differentiation of hMSCs to osteogenic
+lineage in the scaffolds. In conclusion, we have successfully developed
+biomimetic scaffolds that supported the proliferation and differentiation of
+hMSCs. These scaffolds hold great promise as a cell delivery vehicle for
+regenerative therapies and as a support system for enhancing bone regeneration.

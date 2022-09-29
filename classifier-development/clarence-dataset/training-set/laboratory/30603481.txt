@@ -1,0 +1,27 @@
+2017 Jun
+A Xenogenic Bone Derivative as a Potential Adjuvant for Bone Regeneration and
+Implant Osseointegration: An In Vitro Study.
+P Several clinical conditions may limit the success of bone regeneration and/or
+implant osseointegration. For this reason, many compounds have been tested for
+their ability to stimulate this biological process. Synthetic hydroxyapatite
+HA , mimicking natural bone hydroxyapatite, and extra cellular matrix proteins,
+such as type I collagen, are potential candidates. However, the synthetic origin
+of HA and the denaturing conditions required for extracting collagen from skin
+and derma are sources of potential drawbacks. This study examines the in vitro
+effects of a natural bone derivative  NBD  extracted from equine bone and
+containing both natural, non synthetic bone hydroxyapatite and native,
+non denatured, type I bone collagen as a possible active compound for stimulating
+bone regeneration and implant osseointegration. The activity of NBD was tested on
+bone marrow stromal cells  BMSCs , evaluating their growth/viability by the
+methylthiazol tetrazolium  MTT  assay and their migration potential by a scratch
+assay. Moreover, expression of the hyaluronic acid receptor  CD44  and the C X C
+chemokine receptor type 4  CXCR4, CD184  on the surface of BMSCs was assessed by
+flow cytometry, and the release of Transforming Growth Factor  TGF  beta,
+Interleukin  IL  1alpha and IL 6 was quantified using an enzyme linked
+immunosorbent assay  ELISA . The effect of NBD coated implants on human
+osteoblasts was tested by measuring alkaline phosphatase  ALP  activity with the
+p nitrophenyl phosphate  pNPP  degradation test. NBD stimulated BMSC
+growth/viability, migration, CD184 surface expression and the release of
+TGF beta1. NBD coated implants increased ALP activity of human osteoblasts. These
+results indicate that NBD may be an adjuvant to accelerate both bone regeneration
+and osseointegration.

@@ -1,0 +1,28 @@
+2017 Sep
+Impact of Age on Human Adipose Stem Cells for Bone Tissue Engineering.
+P Bone nonunion is a pathological condition in which all bone healing processes
+have stopped, resulting in abnormal mobility between 2 bone segments. The
+incidence of bone related injuries will increase in an aging population, leading
+to such injuries reaching epidemic proportions. Tissue engineering and cell
+therapy using mesenchymal stem cells  MSCs  have raised the possibility of
+implanting living tissue for bone reconstruction. Bone marrow was first proposed
+as the source of stem cells for bone regeneration. However, as the quantity of
+MSCs in the bone marrow decreases, the capacity of osteogenic differentiation of
+bone marrow stem cells is also impaired by the donor's age in terms of reduced
+MSC replicative capacity; an increased number of apoptotic cells; formation of
+colonies positive for alkaline phosphatase; and decreases in the availability,
+growth potential, and temporal mobilization of MSCs for bone formation in case of
+fracture. Adipose derived stem cells  ASCs  demonstrate several advantages over
+those from bone marrow, including a less invasive harvesting procedure, a higher
+number of stem cell progenitors from an equivalent amount of tissue harvested,
+increased proliferation and differentiation capacities, and better angiogenic and
+osteogenic properties in vivo. Subcutaneous native adipose tissue was not
+affected by the donor's age in terms of cellular senescence and yield of ASC
+isolation. In addition, a constant mRNA level of osteocalcin and alkaline
+phosphatase with a similar level of matrix mineralization of ASCs remained
+unaffected by donor age after osteogenic differentiation. The secretome of ASCs
+was also unaffected by age when aiming to promote angiogenesis by vascular
+endothelial growth factor  VEGF  release in hypoxic conditions. Therefore, the
+use of adipose cells for bone tissue engineering is not limited by the donor's
+age from the isolation of stem cells up to the manufacturing of a complex
+osteogenic graft.

@@ -1,0 +1,2 @@
+A new Keggin-like niobium-phosphate cluster that reacts reversibly with hydrogen peroxide.
+Polyoxoniobate clusters that are stable in acidic solutions are rare and particularly useful in industrial processes. Here we report a new pentaphosphate niobate polyoxometalate cluster (TMA)9H3Nb9P5O41·28H2O (Nb9P5) that is stable over a wide pH range and that can be converted reversibly into the peroxo form. 

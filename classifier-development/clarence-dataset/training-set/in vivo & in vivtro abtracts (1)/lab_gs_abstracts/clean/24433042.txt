@@ -1,0 +1,23 @@
+2014 Feb 26
+Nanofiber scaffolds with gradients in mineral content for spatial control of
+osteogenesis.
+P Reattachment of tendon to bone has been a challenge in orthopedic surgery. The
+disparate mechanical properties of the two tissues make it difficult to achieve
+direct surgical repair of the tendon to bone insertion. Healing after surgical
+repair typically does not regenerate the natural attachment, a complex tissue
+that connects tendon and bone across a gradient in both mineral content and cell
+phenotypes. To facilitate the regeneration of the attachment, our groups have
+developed a nanofiber based scaffold with a graded mineral coating to mimic the
+mineral composition of the native tendon to bone insertion. In the present work,
+we evaluated the ability of this scaffold to induce graded osteogenesis of
+adipose derived mesenchymal stem cells  ASCs . Results from
+3  4,5 dimethylthiazol 2 yl  2,5 diphenyltetrazolium bromide assay and
+proliferating cell nuclear antigen staining indicated that cell proliferation was
+negatively correlated with the mineral content. In contrast, alkaline phosphatase
+staining, an indicator of osteogenesis, was positively correlated with the
+mineral content. Likewise, runt related transcription factor 2  an early marker
+of osteoblast differentiation  and osteocalcin  a late marker of osteoblast
+differentiation  immunostaining were both positively correlated with the mineral
+content. These results indicate that a gradient in mineral content on the surface
+of a nanofiber scaffold is capable of inducing graded differentiation of ASCs
+into osteoblasts for enthesis repair.

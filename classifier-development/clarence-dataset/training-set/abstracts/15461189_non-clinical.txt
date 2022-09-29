@@ -1,0 +1,17 @@
+2004
+Serum protein adsorption and platelet adhesion on aspartic acid immobilized
+polysulfone membranes.
+P Polysulfone  PSf  membranes that covalently conjugated with aspartic acid
+ASP PSf  were prepared and analyzed for hemocompatability. Compared to PSf or
+other types of surface modified PSf membranes, the ASP PSf membranes had a
+reduced ability to adsorb protein from either a plasma solution or a mixed
+solution of albumin, globulin and fibrinogen. This appears to be due to the
+creation of a hydrophilic surface by the aspartic acid zwitterion immobilized on
+the ASP PSf membranes. Furthermore, the analyses of membrane protein adsorption
+showed that a mixed protein solution recapitulates the cooperative adsorption of
+proteins that occurs in plasma. We also found that the number of adhering
+platelets was the lowest on the ASP PSf membranes and, in general, that platelet
+adhesion decreased in parallel with fibrinogen adsorption. In summary, aspartic
+acid immobilized on the ASP PSf membranes, which have zwitterions with a net zero
+charge, effectively contributes to the hydrophilic and hemocompatible sites on
+the surface of the hydrophobic PSf membranes.

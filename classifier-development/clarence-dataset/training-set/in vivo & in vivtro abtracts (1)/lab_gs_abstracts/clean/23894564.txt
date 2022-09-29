@@ -1,0 +1,25 @@
+2013
+Porous chitosan scaffolds with embedded hyaluronic acid/chitosan/plasmid DNA
+nanoparticles encoding TGF beta1 induce DNA controlled release, transfected
+chondrocytes, and promoted cell proliferation.
+P Cartilage defects resulting from traumatic injury or degenerative diseases have
+very limited spontaneous healing ability. Recent progress in tissue engineering
+and local therapeutic gene delivery systems has led to promising new strategies
+for successful regeneration of hyaline cartilage. In the present study, tissue
+engineering and local therapeutic gene delivery systems are combined with the
+design of a novel gene activated matrix  GAM  embedded with hybrid hyaluronic
+acid HA /chitosan CS /plasmid DNA nanoparticles encoding transforming growth
+factor  TGF  beta1. A chitosan scaffold functioned as the three dimensional
+carrier for the nanoparticles. Results demonstrated that scaffold entrapped
+plasmid DNA was released in a sustained and steady manner over 120 days, and was
+effectively protected in the HA/CS/pDNA nanoparticles. Culture results
+demonstrated that chondrocytes grown in the novel GAM were highly proliferative
+and capable of filling scaffold micropores with cells and extracellular matrix.
+Confocal laser scanning microscopy indicated that chondrocytes seeded in the GAM
+expressed exogenous transgenes labeled with green fluorescent protein. ELISA
+results demonstrated detectable TGF beta1 expression in the supernatant of GAM
+cultures, which peaked at the sixth day of culture and afterwards showed a
+moderate decline. Histological results and biochemical assays confirmed promotion
+of chondrocyte proliferation. Cell culture indicated no affects on phenotypic
+expression of ECM molecules, such as GAG. The results of this study indicate the
+suitability of this novel GAM for enhanced in vitro cartilage tissue engineering.

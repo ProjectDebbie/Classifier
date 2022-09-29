@@ -1,0 +1,33 @@
+2017 Jan
+Enhancement of osseointegration by direct coating of rhBMP 2 on target ion
+induced plasma sputtering treated SLA surface for dental application.
+P Owing to the excellent bioactive properties of recombinant human bone
+morphogenetic proteins  rhBMPs , dentistry considers them as a fascinating
+adjuvant alternative for enhancing bone regeneration and bone to implant junction
+in the early implantation stages. However, stable loading and delivery efficiency
+of rhBMPs on the implant surfaces involve major concerns because of the harsh
+wearing condition under load during implantation. In this study, to achieve
+successful rhBMP 2 delivery, a nanoporous surface structure is introduced on the
+sandblasting with large grit and acid etching  SLA  treated titanium  Ti  surface
+via the tantalum  Ta  target ion induced plasma sputtering  TIPS  technique.
+Unlike oxidation induced surface nanoporous fabrications on a Ti surface,
+TIPS treated surfaces provide excellent structural unity of the nanoporous
+structure with the substrate due to their etching based fabrication mechanism.
+SLA/TIPS treated Ti exhibits distinct nanoporous structures on the microscale
+surface geometry and better hydrophilicity compared with SLA treated Ti. A
+sufficiently empty nanoporous surface structure combined with the hydrophilic
+property of SLA/TIPS treated Ti facilitates the formation of a thick and uniform
+coating layer of rhBMP 2 on the surface without any macro  and microcoagulation.
+Compared with the SLA treated Ti surface, the amount of coated rhBMP 2 increases
+up to 63% on the SLA/TIPS treated Ti surface. As a result, the in vitro
+pre osteoblast cell response of the SLA/TIPS treated Ti surface, especially cell
+adhesion and differentiation behaviors, improves remarkably. A bone regenerating
+direct comparison between the rhBMP 2 coated SLA treated and SLA/TIPS treated Ti
+is conducted on a defective dog mandible model. After 8 weeks of implantation
+surgery, SLA/TIPS treated Ti with rhBMP 2 exhibits a better degree of contact
+area for the implanted bone, which mineralizes new bones around the implant.
+Quantitative results of bone in contact ratio and new bone volume also show
+significantly higher values for the SLA/TIPS treated Ti with the rhBMP 2
+specimen. These results confirm that an SLA/TIPS treated surface is a suitable
+rhBMP 2 carrier for a dental implant to achieve early and strong osseointegration
+of Ti dental implants.

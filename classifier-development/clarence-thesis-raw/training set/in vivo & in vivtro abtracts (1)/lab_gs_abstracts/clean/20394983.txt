@@ -1,0 +1,27 @@
+2010 Jul
+The chondrogenic differentiation of mesenchymal stem cells on an extracellular
+matrix scaffold derived from porcine chondrocytes.
+P Extracellular matrix  ECM  materials have diverse physiological functions by
+themselves and can also act as reservoirs of cytokines and growth factors, so
+that they can affect the cell phenotype, attachment, migration and proliferation
+of cells. In this study, an ECM scaffold derived from porcine cartilage was
+evaluated for whether it can support and maintain chondrogenesis of rabbit
+mesenchymal stem cells  rMSCs  in vitro and in the nude mouse model in vivo. The
+porcine ECM scaffold was compared to a polyglycolic acid  PGA  scaffold and an
+MSC pellet as a control group. In an in vitro environment until 4 weeks, the ECM
+scaffold evoked chondrogenic differentiation of rMSCs earlier and produced more
+cartilaginous tissues than the PGA scaffold. Next, rMSCs in each scaffold were
+preconditioned with chondrogenic media in vitro for 1 week and implanted in the
+backs of nude mice for 6 weeks. The initially formed cartilaginous tissues turned
+into bone matrix with time centripetally from the outside of the region as
+observed by Safranin O and von Kossa stains. This phenomenon progressed much more
+rapidly in the PGA group than in the ECM group. In the ECM group, the
+chondrogenic phenotypes of rMSCs were also maintained longer than in the PGA
+group. The loss of chondrogenic phenotypes was accompanied by the calcification
+of matrix, and hypertrophic changes by immunohistochemistry for osteocalcin and
+collagen type I and X. Blood vessel invasion took place more deeply and
+intensively in the PGA group. These results suggest that the ECM scaffold not
+only strongly supports chondrogenic differentiation of rMSCs, but also helps
+maintain its phenotype in vivo. We speculate that the ECM scaffold provides rMSCs
+with a favorable, native cartilage like environment and therefore can be a
+promising tool for cartilage tissue engineering.

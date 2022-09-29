@@ -1,0 +1,2 @@
+Ultrashort superradiant pulse generation from a GaN/InGaN heterostructure.
+Dicke superradiance from a two-section violet GaN/InGaN semiconductor laser diode is demonstrated for the first time. In the superradiance regime, optical pulses with peak powers in excess of 2.8 W and durations as short as 1.4 ps are generated at repetition rates of up to 10 MHz at the emission wavelength of 408 nm. The properties of superradiant pulse generation from these GaN/InGaN laser diodes are very similar to those reported for infrared AlGaAs/GaAs laser diodes.

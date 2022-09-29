@@ -1,0 +1,42 @@
+2013 Dec
+[In vitro study on injectable alginate strontium hydrogel for bone tissue
+engineering].
+P OBJECTIVE: To investigate the application potential of alginate strontium  Sr
+hydrogel as an injectable scaffold material in bone tissue engineering. METHODS:
+The alginate Sr/ calcium  Ca  hydrogel beads were fabricated by adding 2.0 wt%
+alginate sodium to 0.2 mol/L SrCl2/CaCl2 solution dropwise. Microstructure,
+modulus of compression, swelling rate, and degradability of alginate Sr/ Ca
+hydrogels were tested. Bone marrow mesenchymal stem cells  BMSCs  were isolated
+from femoral bones of rabbits by flushing of marrow cavity. BMSCs at passage 5
+were seeded onto the alginate Sr hydrogel  experimental group  and alginate Ca
+hydrogel  control group , and the viability and proliferation of BMSCs in 2
+alginate hydrogels were assessed. The osteogenic differentiation of cells embeded
+in 2 alginate hydrogels was evaluated by alkaline phosphate  ALP  activity,
+osteoblast specific gene [Osterix  OSX , collagen type I, and Runx2] expression
+level and calcium deposition by fluorescent quantitative RT PCR and alizarin red
+staining, Von Kossa staining. The BMSCs which were embeded in alginate Ca
+hydrogel and cultured with common growth medium were harvested as blank control
+group. RESULTS: The micromorphology of alginate Sr hydrogel was similar to that
+of the alginate Ca hydrogel, with homogeneous pore structure; the modulus of
+compression of alginate Sr hydrogel and alginate Ca hydrogel was  186.53 +/
+8.37  and  152.14 +/  7.45  kPa respectively, showing significant difference
+t=6.853, P=0.002 ; there was no significant difference  t=0.737, P=0.502  in
+swelling rate between alginate Sr hydrogel  14.32% +/  1.53%  and alginate Ca
+hydrogel  15.25% +/  1.64% . The degradabilities of 2 alginate hydrogels were
+good; the degradation rate of alginate Sr hydrogel was significantly lower than
+that of alginate Ca hydrogel on the 20th, 25th, and 30th days  P < 0.05 . At 1 4
+days, the morphology of cells on 2 alginate hydrogels was spherical and then the
+shape was spindle or stellate. When three dimensional cultured for 21 days, the
+DNA content of BMSCs in experimental group [ 4.38 +/  0.24  g] was significantly
+higher than that in control group [ 3.25 +/  0.21  g]  t=8.108, P=0.001 . On the
+12th day after osteogenic differentiation, the ALP activity in experimental group
+was  15.28 +/  1.26  U/L, which was significantly higher than that in control
+group [ 12.07 +/  1.12  U/L]  P < 0.05 . Likewise, the mRNA expressions of OSX,
+collagen type I, and Runx2 in experimental group were significantly higher than
+those in control group  P < 0.05 . On the 21th day after osteogenic
+differentiation, alizarin red staining and Von Kossa staining showed calcium
+deposition in 2 groups; the calcium nodules and phosphate deposition in
+experimental group were significantly higher than those in control group  P <
+0.05 . CONCLUSION: Alginate Sr hydrogel has good physicochemical properties and
+can promote the proliferation and osteogenic differentiation of BMSCs, so it is
+an excellent injectable scaffold material for bone tissue engineering.

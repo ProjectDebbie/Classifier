@@ -1,0 +1,21 @@
+2017 Oct 11
+Direct Intranuclear Anticancer Drug Delivery via Polydimethylsiloxane
+Nanoparticles: in Vitro and in Vivo Xenograft Studies.
+P Direct delivery of anticancer drugs to nuclei of tumor cells is required to
+enhance the therapeutic activity, which can be achieved by a nuclear localization
+signal  NLS  or peptide decorated nanovehicles. However, NLS/peptide based
+approaches may create certain undesirable immunological responses and the
+utilized synthesis processes are generally labor intensive. To this end, we
+report ligand free, enhanced intranuclear delivery of Doxorubicin  Dox  to
+different cancer cells via porous polydimethylsiloxane  PDMS  nanoparticles
+NPs . PDMS NPs were prepared by sacrificial silica template based approach and
+Dox was loaded into the pores of PDMS NPs. These Dox loaded PDMS NPs show
+enhanced cytotoxicity and reduce the IC50 values by 84 and 54% for HeLa and PC 3,
+respectively, compared to free Dox. Further, DNA damage in HeLa cells was
+estimated using comet assay suggesting enhanced DNA damage  72%  with Dox loaded
+PDMS NPs as compared to free Dox  12% . The therapeutic efficiency of PDMS Dox
+drug delivery system was tested in prostate cancer  PC 3  xenografts in NOD/SCID
+mice which showed enhanced tumor reduction   approximately 66%  as compared to
+free Dox. Taken together, our PDMS Dox delivery system shows efficient and
+enhanced transportation of Dox to tumor cells which can be harnessed to develop
+advanced chemotherapy based approaches to treat prostate and other cancers.

@@ -1,0 +1,55 @@
+2018 Apr 15
+[Preparation and in vitro evaluation of tissue engineered osteochondral
+integration of multi layered scaffold].
+P Objective: The tissue engineered osteochondral integration of multi layered
+scaffold was prepared and the related mechanical properties and biological
+properties were evaluated to provide a new technique and method for the repair
+and regeneration of osteochondral defect. Methods: According to blend of
+different components and proportion of acellular cartilage extracellular matrix
+of pig, nano hydroxyapatite, and alginate, the osteochondral integration of
+multi layered scaffold was prepared by using freeze drying and physical and
+chemical cross linking technology. The cartilage layer was consisted of acellular
+cartilage extracellular matrix; the middle layer was consisted of acellular
+cartilage extracellular matrix and alginate; and the bone layer was consisted of
+nano hydroxyapatite, alginate, and acellular cartilage extracellular matrix. The
+biological and mechanics characteristic of the osteochondral integration of
+multi layered scaffold were evaluated by morphology observation, scanning
+electron microscope observation, Micro CT observation, porosity and pore size
+determination, water absorption capacity determination, mechanical testing
+compression modulus and layer adhesive strength , biocompatibility testing [L929
+cell proliferation on scaffold assessed by MTT assay, and growth of green
+fluorescent protein  GFP  labeled Sprague Dawley rats' bone marrow mesenchumal
+stem cells  BMSCs  on scaffolds]. Results: Gross observation and Micro CT
+observation showed that the scaffolds were closely integrated with each other
+without obvious discontinuities and separation. Scanning electron microscope
+showed that the structure of the bone layer was relatively dense, while the
+structure of the middle layer and the cartilage layer was relatively loose. The
+pore structures in the layers were connected to each other and all had the
+multi dimensional characteristics. The porosity of cartilage layer, middle layer,
+and bone layer of the scaffolds were 93.55%+/ 2.90%, 93.55%+/ 4.10%, and
+50.28%+/ 3.20%, respectively; the porosity of the bone layer was significantly
+lower than that of cartilage layer and middle layer   P<0.05 , but no significant
+difference was found between cartilage layer and middle layer   P>0.05 . The pore
+size of the three layers were  239.66+/ 35.28 ,  153.24+/ 19.78 , and
+82.72+/ 16.94  mum, respectively, showing significant differences between layers
+P<0.05 . The hydrophilic of the three layers were  15.14+/ 3.15 ,
+13.65+/ 2.98 , and  5.32+/ 1.87  mL/g, respectively; the hydrophilic of the bone
+layer was significantly lower than that of cartilage layer and middle layer
+P<0.05 , but no significant difference was found between cartilage layer and
+middle layer   P>0.05 . The compression modulus of the three layers were
+51.36+/ 13.25 ,  47.93+/ 12.74 , and  155.18+/ 19.62  kPa, respectively; and
+compression modulus of the bone layer was significantly higher than that of
+cartilage layer and middle layer   P<0.05 , but no significant difference was
+found between cartilage layer and middle layer   P>0.05 . The osteochondral
+integration of multi layered scaffold was tightly bonded with each layer. The
+layer adhesive strength between the cartilage layer and the middle layer was
+18.21+/ 5.16  kPa, and the layer adhesive strength between the middle layer and
+the bone layer was  16.73+/ 6.38  kPa, showing no significant difference
+t=0.637, P=0.537 . MTT assay showed that L929 cells grew well on the scaffolds,
+indicating no scaffold cytotoxicity. GFP labeled rat BMSCs grew evenly on the
+scaffolds, indicating scaffold has excellent biocompatibility. Conclusion: The
+advantages of three layers which have different performance of the tissue
+engineered osteochondral integration of multi layered scaffold is achieved double
+biomimetics of structure and composition, lays a foundation for further research
+of animal in vivo experiment, meanwhile, as an advanced and potential strategy
+for osteochondral defect repair.

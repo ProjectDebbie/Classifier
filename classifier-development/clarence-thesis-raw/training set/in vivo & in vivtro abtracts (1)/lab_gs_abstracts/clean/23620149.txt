@@ -1,0 +1,30 @@
+2014
+In vitro characterization of a synthetic calcium phosphate bone graft on
+periodontal ligament cell and osteoblast behavior and its combination with an
+enamel matrix derivative.
+P OBJECTIVES: Recent studies suggest that a combination of enamel matrix derivative
+EMD  with grafting material may improve periodontal wound healing/regeneration.
+Newly developed calcium phosphate  CaP  ceramics have been demonstrated a viable
+synthetic replacement option for bone grafting filler materials. AIMS: This study
+aims to test the ability for EMD to adsorb to the surface of CaP particles and to
+determine the effect of EMD on downstream cellular pathways such as adhesion,
+proliferation, and differentiation of primary human osteoblasts and periodontal
+ligament  PDL  cells. MATERIALS AND METHODS: EMD was adsorbed onto CaP particles
+and analyzed for protein adsorption patterns via scanning electron microscopy and
+high resolution immunocytochemistry with an anti EMD antibody. Cell attachment
+and cell proliferation were quantified using CellTiter 96 One Solution Cell Assay
+MTS . Cell differentiation was analyzed using real time PCR for genes encoding
+Runx2, alkaline phosphatase, osteocalcin, and collagen1alpha1, and mineralization
+was assessed using alizarin red staining. RESULTS: Analysis of cell attachment
+revealed significantly higher number of cells attached to EMD adsorbed CaP
+particles when compared to control and blood adsorbed samples. EMD also
+significantly increased cell proliferation at 3 and 5 days post seeding.
+Moreover, there were significantly higher mRNA levels of osteoblast
+differentiation markers including collagen1alpha1, alkaline phosphatase, and
+osteocalcin in osteoblasts and PDL cells cultured on EMD adsorbed CaP particles
+at various time points. CONCLUSION: The present study suggests that the addition
+of EMD to CaP grafting particles may influence periodontal regeneration by
+stimulating PDL cell and osteoblast attachment, proliferation, and
+differentiation. Future in vivo and clinical studies are required to confirm
+these findings. CLINICAL RELEVANCE: The combination of EMD and CaP may represent
+an option for regenerative periodontal therapy in advanced intrabony defects.

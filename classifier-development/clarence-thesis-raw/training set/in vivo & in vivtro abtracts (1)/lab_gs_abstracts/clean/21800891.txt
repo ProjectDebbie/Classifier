@@ -1,0 +1,28 @@
+2011 Sep 12
+Development of poly 3 hydroxybutyrate co 3 hydroxyvalerate  fibers for skin
+tissue engineering: effects of topography, mechanical, and chemical stimuli.
+P Poly 3 hydroxybutyrate co 3 hydroxyvalerate   PHBV , a biodegradable polyester,
+was electrospun to form defect free fibers with high surface area to volume ratio
+for skin regeneration. Several parameters such as solvent ratio, polymer
+concentration, applied voltage, flow rate, and tip to target distance were
+optimized to achieve defect free morphology. The average diameter of the PHBV
+fibers was 724 +/  91 nm. PHBV was also solvent cast to form 2 D films, and its
+mechanical properties, porosity, and degradation rates were compared with PHBV
+fibers. Our results demonstrate that PHBV fibers exhibited higher porosity,
+increased ductility, and faster degradation rate when compared with PHBV 2 D
+films  p < 0.05 . In vitro studies with PHBV fibers and 2 D films were carried
+out to evaluate the adhesion, viability, proliferation, and gene expression of
+human skin fibroblasts. Cells adhered and proliferated on both PHBV fibers and
+2 D films. However, the proliferation of cells on the surface of PHBV fibers was
+comparable to tissue culture polystyrene  TCPS, control   p > 0.05 . The gene
+expression of collagen I and elastin was significantly up regulated when compared
+with TCPS control, whereas collagen III was down regulated on PHBV fibers and 2 D
+film after 14 days in culture. The less ductile PHBV 2 D films showed higher
+levels of elastin expression. Furthermore, the PHBV fibers in the presence and
+absence of an angiogenesis factor  R Spondin 1  were evaluated for their wound
+healing capacity in a rat model. The wound contracture in R Spondin 1 loaded PHBV
+fibers was found to be significantly higher when compared with PHBV fibers alone
+after 7 days  p < 0.05 . Furthermore, the presence of fibers promoted an increase
+in collagen and aided re epithelialization. Thus our results demonstrate that the
+topography and mechanical and chemical stimuli have a pronounced influence on the
+cell proliferation, gene expression, and wound healing.

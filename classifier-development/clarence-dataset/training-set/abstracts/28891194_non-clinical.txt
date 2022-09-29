@@ -1,0 +1,25 @@
+2018 Jan
+Suspended graphene oxide nanoparticle for accelerated multilayer osteoblast
+attachment.
+P Mimicking bone tissues having layered structures is still a significant challenge
+because of the lack of technologies to assemble osteoblast cell types into bone
+structures. One of the promising and attractive materials in biomedical and
+different engineering fields is graphene and graphene based nanostructures such
+as graphene oxide  GO  because of their unique properties. In most studies, GO
+was synthesized using chemical vapor deposition method, and was coated on the
+substrate. In this study, we proposed a simple technique for assembly of cells
+that facilitates the construction of osteoblast like structures using suspended
+GO synthesized by graphite powder, H2 SO4 , and KMnO4 .Toxicity effects of GO on
+human mesenchymal stem cells  hMSCs  derived from bone marrow were analyzed. In
+addition to normal MSCs, toxicity effects of GO on human cancer cell line saos 2
+as an abnormal cell line that possess several osteoblastic features, was
+examined. The attachment and expression of osteoblast cells genes were evaluated
+after differentiation of MSCs to osteoblast cells in presence of suspended GO by
+scanning electron microscopy and real time PCR. We found that the toxicity
+effects of GO are dose dependent and in oseogenic medium containing suspended GO
+the expression level of osteoblast genes osteopontin and osteocalcin and cell
+adhesion markers connexin were higher than control group. Interestingly, through
+this method GO was found to induce multilayer osteoblast cell morphology and
+enhance the number of cell layer. We expect that the presented method would
+become a highly useful approach for bone tissue engineering.  c  2017 Wiley
+Periodicals, Inc. J Biomed Mater Res Part A: 106A: 293 303, 2018.

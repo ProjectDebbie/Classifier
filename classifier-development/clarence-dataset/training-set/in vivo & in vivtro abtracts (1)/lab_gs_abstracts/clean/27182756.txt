@@ -1,0 +1,20 @@
+2016 Aug
+The effect of different implant biomaterials on the behavior of canine bone
+marrow stromal cells during their differentiation into osteoblasts.
+P We investigated the effects of different implant biomaterials on cultured canine
+bone marrow stromal cells  BMSC  undergoing differentiation into osteoblasts
+dBMSC . BMSC were isolated from canine humerus by marrow aspiration, cultured
+and differentiated on calcium phosphate scaffold  CPS , hydroxyapatite,
+hydroxyapatite in gel form and titanium mesh. We used the MTT method to determine
+the effects of osteogenic media on proliferation. The characteristics of dBMSC
+were assessed using alizarin red  AR , immunocytochemistry and osteoblastic
+markers including alkaline phosphatase/von Kossa  ALP/VK , osteocalcin  OC  and
+osteonectin  ON , and ELISA. The morphology of dBMSC on the biomaterials was
+investigated using inverted phase contrast microscopy and scanning electron
+microscopy. We detected expression of ALP/VK, AR, OC and ON by day 7 of culture;
+expression increased from day 14 until day 21. CPS supported the best adhesion,
+cell spreading, proliferation and differentiation of BMSCs. The effects of the
+biomaterials depended on their surface properties. Expression of osteoblastic
+markers showed that canine dBMSCs became functional osteoblasts. Tissue
+engineered stem cells can be useful clinically for autologous implants for
+treating bone wounds.

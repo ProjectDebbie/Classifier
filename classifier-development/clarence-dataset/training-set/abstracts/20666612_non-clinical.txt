@@ -1,0 +1,24 @@
+2010 Dec
+Biodegradable nanofibers reinforced microfibrous composite scaffolds for bone
+tissue engineering.
+P Native bone extracellular matrix  ECM  is a complex hierarchical fibrous
+composite structure, resulting from the assembling of collagen fibrils at several
+length scales, ranging from the macro to the nanoscale. The combination of
+nanofibers within microfibers after conventional reinforcement methodologies
+seems to be a feasible solution to the rational design of highly functional
+synthetic ECM substitutes. The present work aims at the development of bone ECM
+inspired structures, conjugating electrospun chitosan  Cht  nanofibers within
+biodegradable polymeric microfibers [poly butylene succinate  PBS and PBS/Cht],
+assembled in a fiber mesh structure. The nanofibers reinforced composite fiber
+mesh scaffolds were seeded with human bone marrow mesenchymal stem cells  hBMSCs
+and cultured under osteogenic differentiation conditions. These
+nanofibers reinforced composite scaffolds sustained ECM deposition and
+mineralization, mainly in the PBS/Cht based fiber meshes, as depicted by the
+increased amount of calcium phosphates produced by the osteogenic differentiated
+hBMSCs. The osteogenic genotype of the cultured hBMSCs was confirmed by the
+expression of osteoblastic genes, namely Alkaline Phosphatase, Osteopontin, Bone
+Sialoprotein and Osteocalcin, and the transcription factors Runx2 and Osterix,
+all involved in different stages of the osteogenesis. These data represent the
+first report on the biological functionality of nanofibers reinforced composite
+scaffolds, envisaging the applicability of the developed structures for bone
+tissue engineering.

@@ -1,0 +1,36 @@
+2018 Mar 9
+Polymer mineral scaffold augments in vivo equine multipotent stromal cell
+osteogenesis.
+P BACKGROUND: Use of bioscaffolds to direct osteogenic differentiation of adult
+multipotent stromal cells  MSCs  without exogenous proteins is a contemporary
+approach to bone regeneration. Identification of in vivo osteogenic contributions
+of exogenous MSCs on bioscaffolds after long term implantation is vital to
+understanding cell persistence and effect duration. METHODS: This study was
+designed to quantify in vivo equine MSC osteogenesis on synthetic polymer
+scaffolds with distinct mineral combinations 9 weeks after implantation in a
+murine model. Cryopreserved, passage  P 1, equine bone marrow derived MSCs  BMSC
+and adipose tissue derived MSCs  ASC  were culture expanded to P3 and
+immunophenotyped with flow cytometry. They were then loaded by spinner flask on
+to scaffolds composed of tricalcium phosphate  TCP /hydroxyapatite  HA   40:60;
+HT , polyethylene glycol  PEG /poly L lactic acid  PLLA   60:40; GA , or
+PEG/PLLA/TCP/HA  36:24:24:16; GT . Scaffolds with and without cells were
+maintained in static culture for up to 21 days or implanted subcutaneously in
+athymic mice that were radiographed every 3 weeks up to 9 weeks. In vitro cell
+viability and proliferation were determined. Explant composition  double stranded
+ds DNA, collagen, sulfated glycosaminoglycan  sGAG , protein , equine and murine
+osteogenic target gene expression, microcomputed tomography  muCT
+mineralization, and light microscopic structure were assessed. RESULTS: The ASC
+and BMSC number increased significantly in HT constructs between 7 and 21 days of
+culture, and BMSCs increased similarly in GT constructs. Radiographic opacity
+increased with time in GT BMSC constructs. Extracellular matrix  ECM  components
+and dsDNA increased significantly in GT compared to HT constructs. Equine and
+murine osteogenic gene expression was highest in BMSC constructs with
+mineral containing scaffolds. The HT constructs with either cell type had the
+highest mineral deposition based on muCT. Regardless of composition, scaffolds
+with cells had more ECM than those without, and osteoid was apparent in all BMSC
+constructs. CONCLUSIONS: In this study, both exogenous and host MSCs appear to
+contribute to in vivo osteogenesis. Addition of mineral to polymer scaffolds
+enhances equine MSC osteogenesis over polymer alone, but pure mineral scaffold
+provides superior osteogenic support. These results emphasize the need for
+bioscaffolds that provide customized osteogenic direction of both exo  and
+endogenous MSCs for the best regenerative potential.
