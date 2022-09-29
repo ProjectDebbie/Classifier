@@ -1,0 +1,2 @@
+Quantitative investigation of matrices for diffuse reflectance infrared Fourier transform spectrometry.
+Five materials were investigated for use as diluent matrices for diffuse reflectance infrared Fourier transform (DRIFT) spectrometry of powdered samples. DRIFT spectra of powdered carbazole dispersed in germanium, silicon, diamond, potassium chloride and a chalcogenide glass were compared. Three particle size ranges were investigated for five concentrations of carbazole ranging from 0.1-10%. The effects of particle size and refractive index of the matrix are discussed.

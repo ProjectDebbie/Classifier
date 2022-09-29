@@ -1,0 +1,29 @@
+2013
+Anodizing color coded anodized Ti6Al4V medical devices for increasing bone cell
+functions.
+P Current titanium based implants are often anodized in sulfuric acid  H 2 SO 4
+for color coding purposes. However, a crucial parameter in selecting the material
+for an orthopedic implant is the degree to which it will integrate into the
+surrounding bone. Loosening at the bone implant interface can cause catastrophic
+failure when motion occurs between the implant and the surrounding bone.
+Recently, a different anodization process using hydrofluoric acid has been shown
+to increase bone growth on commercially pure titanium and titanium alloys through
+the creation of nanotubes. The objective of this study was to compare, for the
+first time, the influence of anodizing a titanium alloy medical device in
+sulfuric acid for color coding purposes, as is done in the orthopedic implant
+industry, followed by anodizing the device in hydrofluoric acid to implement
+nanotubes. Specifically, Ti6Al4V model implant samples were anodized first with
+sulfuric acid to create color coding features, and then with hydrofluoric acid to
+implement surface features to enhance osteoblast functions. The material surfaces
+were characterized by visual inspection, scanning electron microscopy, contact
+angle measurements, and energy dispersive spectroscopy. Human osteoblasts were
+seeded onto the samples for a series of time points and were measured for
+adhesion and proliferation. After 1 and 2 weeks, the levels of alkaline
+phosphatase activity and calcium deposition were measured to assess the long term
+differentiation of osteoblasts into the calcium depositing cells. The results
+showed that anodizing in hydrofluoric acid after anodizing in sulfuric acid
+partially retains color coding and creates unique surface features to increase
+osteoblast adhesion, proliferation, alkaline phosphatase activity, and calcium
+deposition. In this manner, this study provides a viable method to anodize an
+already color coded, anodized titanium alloy to potentially increase bone growth
+for numerous implant applications.

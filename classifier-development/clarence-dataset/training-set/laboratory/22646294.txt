@@ -1,0 +1,27 @@
+2013
+Platelet lysate 3D scaffold supports mesenchymal stem cell chondrogenesis: an
+improved approach in cartilage tissue engineering.
+P Articular lesions are still a major challenge in orthopedics because of
+cartilage's poor healing properties. A major improvement in therapeutics was the
+development of autologous chondrocytes implantation  ACI , a
+biotechnology derived technique that delivers healthy autologous chondrocytes
+after in vitro expansion. To obtain cartilage like tissue, 3D scaffolds are
+essential to maintain chondrocyte differentiated status. Currently, bioactive 3D
+scaffolds are promising as they can deliver growth factors, cytokines, and
+hormones to the cells, giving them a boost to attach, proliferate, induce protein
+synthesis, and differentiate. Using mesenchymal stem cells  MSCs  differentiated
+into chondrocytes, one can avoid cartilage harvesting. Thus, we investigated the
+potential use of a platelet lysate based 3D bioactive scaffold to support
+chondrogenic differentiation and maintenance of MSCs. The MSCs from adult rabbit
+bone marrow  n = 5  were cultivated and characterized using three antibodies by
+flow cytometry. MSCs  1 x 10 5   were than encapsulated inside 60 microl of a
+rabbit platelet lysate clot scaffold and maintained in Dulbecco's Modified Eagle
+Medium Nutrient Mixture F 12 supplemented with chondrogenic inductors. After 21
+days, the MSCs seeded scaffolds were processed for histological analysis and
+stained with toluidine blue. This scaffold was able to maintain round shaped
+cells, typical chondrocyte metachromatic extracellular matrix deposition, and
+isogenous group formation. Cells accumulated inside lacunae and cytoplasm lipid
+droplets were other observed typical chondrocyte features. In conclusion, the
+usage of a platelet lysate bioactive scaffold, associated with a suitable
+chondrogenic culture medium, supports MSCs chondrogenesis. As such, it offers an
+alternative tool for cartilage engineering research and ACI.

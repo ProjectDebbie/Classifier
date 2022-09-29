@@ -1,0 +1,28 @@
+2014
+Conditioned medium from hypoxic bone marrow derived mesenchymal stem cells
+enhances wound healing in mice.
+P Growing evidence indicates that bone marrow derived mesenchymal stem cells
+BM MSCs  enhance wound repair via paracrine. Because the extent of environmental
+oxygenation affects the innate characteristics of BM MSCs, including their
+stemness and migration capacity, the current study set out to elucidate and
+compare the impact of normoxic and hypoxic cell culture conditions on the
+expression and secretion of BM MSC derived paracrine molecules  e.g., cytokines,
+growth factors and chemokines  that hypothetically contribute to cutaneous wound
+healing in vivo. Semi quantitative reverse transcriptase polymerase chain
+reaction  RT PCR  and enzyme linked immunosorbent assay  ELISA  analyses of
+normoxic and hypoxic BM MSCs and their conditioned medium fractions showed that
+the stem cells expressed and secreted significantly higher amounts of basic
+fibroblast growth factor  bFGF ,vascular endothelial growth factor A  VEGF A
+interleukin 6  IL 6  and interleukin 8  IL 8  under hypoxic conditions. Moreover,
+hypoxic BM MSC derived conditioned medium  hypoCM  vs. normoxic BM MSC derived
+conditioned medium  norCM  or vehicle control medium significantly enhanced the
+proliferation of keratinocytes, fibroblasts and endothelial cells, the migration
+of keratinocytes, fibroblasts, endothelial cells and monocytes, and the formation
+of tubular structures by endothelial cells cultured on Matrigel matrix.
+Consistent with these in vitro results, skin wound contraction was significantly
+accelerated in Balb/c nude mice treated with topical hypoCM relative to norCM or
+the vehicle control. Notably increased in vivo cell proliferation,
+neovascularization as well as recruitment of inflammatory macrophages and
+evidently decreased collagen I, and collagen III were also found in the
+hypoCM treated group. These findings suggest that BM MSCs promote murine skin
+wound healing via hypoxia enhanced paracrine.

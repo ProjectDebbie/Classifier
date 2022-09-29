@@ -1,0 +1,19 @@
+2019
+Preclinical alternative model for analysis of porous scaffold biocompatibility in
+bone tissue engineering.
+P Using scaffolds with appropriate porosity represents a potential approach for
+repair of critical size bone defects. Vascularization is essential for bone
+formation and healing. This study investigates methods for monitoring
+angiogenesis within porous biopolymer scaffolds on the basis of
+polyhydroxybutyrate  PHB /chitosan. We use the chick and quail chorioallantoic
+membrane  CAM  assay as an in vivo model focused on the formation of new blood
+vessels inside the implant structure. Chemical properties of the surface in
+biopolymer scaffold matrix were characterized as well as the tissue reaction of
+the CAM. Implantation of a piece of polymer scaffold results in vascular
+reaction, documented visually and by ultrasound biomicroscopy. Histological
+analysis shows myofibroblast reaction  smooth muscle actin positive cells
+without excessive collagen deposition. Cell invasion is observed inside the
+implant, and QH1 marker, detecting hemangioblasts and endothelial cells of quail
+origin, confirms the presence of vascular network. The CAM assay is a rapid and
+easy way to test biocompatibility and vasculogenic potential of new candidate
+scaffolds for bone tissue bioengineering with respect to the 3R s.

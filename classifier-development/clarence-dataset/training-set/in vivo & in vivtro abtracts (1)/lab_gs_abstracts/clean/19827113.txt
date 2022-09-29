@@ -1,0 +1,22 @@
+2010 Jun 15
+The phenotypic responses of human anterior cruciate ligament cells cultured on
+poly epsilon caprolactone  and chitosan.
+P The purpose of this study is to evaluate the phenotypic responses of human
+anterior cruciate ligament  ACL  cells on two biodegradable materials:
+poly epsilon caprolactone   PCL  and chitosan. ACL cells cultured on PCL
+displayed phenotypes that were well spread with a developed cytoskeleton. In
+comparison, chitosan was not an appropriate substrate to support the attachment
+and spreading of ACL cells, which was attributed to the low fibronectin  FN
+adsorption of chitosan. However, ACL cells cultured on chitosan exhibited a
+dramatic effect on increasing transcripts of transforming growth factor beta1
+TGF beta1  and collagen III. After coating FN on chitosan surface, cell
+morphology and the mRNA levels of all tested genes had the similar levels on PCL
+and FN coated chitosan. This indicates the expression of TGF beta1 and collagen
+III mRNA of human ACL cells was seem to correlate closely with the adhesion
+behavior of human ACL cells and was influenced by the underlying substrate
+properties. Since an ideal scaffold used in ACL tissue engineering is not only
+for cell attachment but also for extracellular matrix deposition during ligament
+regeneration, chitosan may be considered as a scaffold for ACL tissue
+engineering, which can upregulate the expression of specific genes of matrix
+production and wound healing in human ACL cells to synthesize more quantity of FN
+and TGF beta1 proteins.

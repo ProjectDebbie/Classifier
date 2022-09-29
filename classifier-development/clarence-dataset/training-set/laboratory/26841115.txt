@@ -1,0 +1,51 @@
+2016
+Flavonoid Compound Icariin Activates Hypoxia Inducible Factor 1alpha in
+Chondrocytes and Promotes Articular Cartilage Repair.
+P Articular cartilage has poor capability for repair following trauma or
+degenerative pathology due to avascular property, low cell density and migratory
+ability. Discovery of novel therapeutic approaches for articular cartilage repair
+remains a significant clinical need. Hypoxia is a hallmark for cartilage
+development and pathology. Hypoxia inducible factor 1alpha  HIF 1alpha  has been
+identified as a key mediator for chondrocytes to response to fluctuations of
+oxygen availability during cartilage development or repair. This suggests that
+HIF 1alpha may serve as a target for modulating chondrocyte functions. In this
+study, using phenotypic cellular screen assays, we identify that Icariin, an
+active flavonoid component from Herba Epimedii, activates HIF 1alpha expression
+in chondrocytes. We performed systemic in vitro and in vivo analysis to determine
+the roles of Icariin in regulation of chondrogenesis. Our results show that
+Icariin significantly increases hypoxia responsive element luciferase reporter
+activity, which is accompanied by increased accumulation and nuclear
+translocation of HIF 1alpha in murine chondrocytes. The phenotype is associated
+with inhibiting PHD activity through interaction between Icariin and iron ions.
+The upregulation of HIF 1alpha mRNA levels in chondrocytes persists during
+chondrogenic differentiation for 7 and 14 days. Icariin  10 6 M  increases the
+proliferation of chondrocytes or chondroprogenitors examined by MTT, BrdU
+incorporation or colony formation assays. Icariin enhances chondrogenic marker
+expression in a micromass culture including Sox9, collagen type 2  Col2alpha1
+and aggrecan as determined by real time PCR and promotes extracellular matrix
+ECM  synthesis indicated by Alcian blue staining. ELISA assays show dramatically
+increased production of aggrecan and hydroxyproline in Icariin treated cultures
+at day 14 of chondrogenic differentiation as compared with the controls.
+Meanwhile, the expression of chondrocyte catabolic marker genes including Mmp2,
+Mmp9, Mmp13, Adamts4 and Adamts5 was downregulated following Icariin treatment
+for 14 days. In a differentiation assay using bone marrow mesenchymal stem cells
+MSCs  carrying HIF 1alpha floxed allele, the promotive effect of Icariin on
+chondrogenic differentiation is largely decreased following Cre
+recombinase mediated deletion of HIF 1alpha in MSCs as indicated by Alcian blue
+staining for proteoglycan synthesis. In an alginate hydrogel 3D culture system,
+Icariin increases Safranin O positive  SO+  cartilage area. This phenotype is
+accompanied by upregulation of HIF 1alpha, increased proliferating cell nuclear
+antigen positive  PCNA+  cell numbers, SOX9+ chondrogenic cell numbers, and Col2
+expression in the newly formed cartilage. Coincide with the micromass culture,
+Icariin treatment upregulates mRNA levels of Sox9, Col2alpha1, aggrecan and
+Col10alpha1 in the 3D cultures. We then generated alginate hydrogel 3D complexes
+incorporated with Icariin. The 3D complexes were transplanted in a mouse
+osteochondral defect model. ICRS II histological scoring at 6 and 12 weeks
+post transplantation shows that 3D complexes incorporated with Icariin
+significantly enhance articular cartilage repair with higher scores particularly
+in selected parameters including SO+ cartilage area, subchondral bone and overall
+assessment than that of the controls. The results suggest that Icariin may
+inhibit PHD activity likely through competition for cellular iron ions and
+therefore it may serve as an HIF 1alpha activator to promote articular cartilage
+repair through regulating chondrocyte proliferation, differentiation and
+integration with subchondral bone formation.

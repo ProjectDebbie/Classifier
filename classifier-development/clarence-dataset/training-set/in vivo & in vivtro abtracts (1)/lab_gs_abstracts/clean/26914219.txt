@@ -1,0 +1,31 @@
+2016 Apr
+Oxygen Tension Controlled Matrices with Osteogenic and Vasculogenic Cells for
+Vascularized Bone Regeneration In Vivo.
+P Despite recent progress, segmental bone defect repair is still a significant
+challenge in orthopedic surgery. While bone tissue engineering approaches using
+biodegradable matrices along with bone/blood vessel forming cells offered
+improved possibilities, current regenerative strategies lack the ability to
+achieve vascularized bone regeneration in critical sized/segmental bone defects.
+In this study, we introduced and evaluated a two pronged approach for
+vascularized bone regeneration in vivo. The goal was to demonstrate vascularized
+bone formation using oxygen tension controlled  OTC  matrices seeded with bone
+and blood vessel forming cells. OTC matrices were coimplanted with rabbit
+mesenchymal stem cells  MSCs  and peripheral blood derived endothelial progenitor
+cells  PB EPCs  to demonstrate the osteogenic and vasculogenic differentiation of
+these cells, postseeding on a matrix, especially deep inside the matrix pore
+structure. Matrices coimplanted with varied rabbit MSC and PB EPC ratios  1:4,
+1:1, and 4:1  were assessed in a nude mouse subcutaneous implantation model to
+determine a coimplantation ratio with superior osteogenic as well as vasculogenic
+properties. The implants were analyzed, at week 8, for endothelial  CD31 and Von
+Willebrand factor [vWF]  and osteogenic marker  RunX2 and Col I  staining
+qualitatively and collagen deposition and number of vessel formation
+quantitatively. Results from these experiments established MSC to PB EPC ratio
+1:1 as the best coimplantation ratio. OTC matrix with 1:1 coimplantation ratio
+was assessed for segmental bone defect repair in a rabbit critical sized bone
+defect model. The group under investigation was OTC matrix, and the matrix was
+seeded with MSCs, EPCs, or MSCs:EPCs in a 1:1 ratio. Explants at week 12 were
+evaluated for bone defect repair via micro CT and histology. Results from rabbit
+in vivo experiments show enhanced mineralization and vascularization for the 1:1
+coimplantation group. Overall, the study establishes a two pronged approach
+involving OTC matrix and effective progenitors for large area and vascularized
+bone regeneration.

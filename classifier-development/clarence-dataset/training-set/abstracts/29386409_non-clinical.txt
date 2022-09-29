@@ -1,0 +1,27 @@
+2018 Apr 17
+Enhancement of wound healing efficiency mediated by artificial dermis
+functionalized with EGF or NRG1.
+P The use of artificial dermis as a skin substitute is a field of active study, as
+acellular dermal matrices from cadavers are susceptible to infection owing to
+their human origin. One such alternative dermal replacement scaffold,
+INSUREGRAF  R  , is derived primarily from extracellular matrix proteins such as
+collagen and elastin and has been clinically used to treat severe skin wounds
+such as burns. This scaffold has proven to be useful to minimize wound
+contraction and scar formation owing to its biocompatibility, interconnected pore
+structure, sufficient biodegradability, and suitable mechanical properties.
+However, INSUREGRAF  R   does not provide scar free wound healing in cases of
+severe skin damage such as full thickness  FT  excision. Considering that the
+efficient recruitment of fibroblasts and keratinocytes into a wound site
+represents a critical step in the regeneration of damaged skin, we attempted to
+enhance the efficiency for wound healing by fabricating growth
+factor functionalized INSUREGRAF  R  . In particular, we utilized epidermal
+growth factor  EGF  and an EGF family member, neuregulin 1  NRG1 , not previously
+studied in the context of wound healing, whose cellular role is to promote
+proliferation and migration in fibroblasts and keratinocytes. Both artificial
+dermis growth factor combinations led to efficient recruitment of fibroblasts and
+keratinocytes into a wound site during the early steps of skin regeneration.
+Notably, EGF  or NRG1 functionalized INSUREGRAF  R   induced rapid proliferation
+of skin cells in an ERK pathway dependent manner and exhibited efficient wound
+healing in a Sprague Dawley rat FT excision and grafting model. These results
+provide the foundation for expanding the use of growth factor functionalized
+INSUREGRAF  R   to clinical application in cases of severe skin injury.

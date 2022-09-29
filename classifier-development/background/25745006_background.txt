@@ -1,0 +1,2 @@
+Draft Genome Sequence of Aeromonas caviae Strain L12, a Quorum-Sensing Strain Isolated from a Freshwater Lake in Malaysia.
+Here, we present the draft genome sequence of Aeromonas caviae strain L12, which shows quorum-sensing activity. The availability of this genome sequence is important to the research of the quorum-sensing regulatory system in this isolate. 

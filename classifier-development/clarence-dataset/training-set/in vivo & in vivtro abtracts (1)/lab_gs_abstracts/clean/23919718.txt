@@ -1,0 +1,32 @@
+2014 Aug
+Differential response of human gingival fibroblasts to titanium  and
+titanium zirconium modified surfaces.
+P BACKGROUND AND OBJECTIVE: Gingival fibroblasts are responsible for the constant
+adaptation, wound healing and regeneration of gingival connective tissue. New
+titanium zirconium  TiZr  abutment surfaces have been designed to improve soft
+tissue integration and reduce implant failure compared with titanium  Ti . The
+aim of the present study was first to characterize a primary human gingival
+fibroblast  HGF  model and secondly to evaluate their differential response to Ti
+and TiZr polished  P , machined  M  and machined + acid etched  modMA  surfaces,
+respectively. MATERIAL AND METHODS: HGF were cultured on tissue culture plastic
+or on the different Ti and TiZr surfaces. Cell morphology was evaluated through
+confocal and scanning electron microscopy. A wound healing assay was performed to
+evaluate the capacity of HGF to close a scratch. The expression of genes was
+evaluated by real time RT PCR, addressing:  i  extracellular matrix organization
+and turnover;  ii  inflammation;  iii  cell adhesion and structure; and  iv
+wound healing. Finally, cells on Ti/TiZr surfaces were immunostained with
+anti ITGB3 antibodies to analyze integrin beta3 production. Matrix
+metalloproteinase 1  MMP1  and inhibitor of metallopeptidases 1  TIMP1
+production were analyzed by enzyme linked immunosorbent assays. RESULTS: On
+tissue culture plastic, HGF showed no differences between donors on cell
+proliferation and on the ability for wound closure; alpha smooth muscle actin was
+overexpressed on scratched monolayers. The differentiation profile showed
+increased production of extracellular matrix components. Ti and TiZr showed
+similar biocompatibility with HGF. TiZr increased integrin beta3 mRNA and protein
+levels, compared with Ti. Cells on TiZr surfaces showed higher MMP1 protein than
+Ti surfaces, although similar TIMP1 protein production. In this in vitro
+experiment, P and M surfaces from both Ti and TiZr showed better HGF growth than
+modMA. CONCLUSION: Taking into account the better mechanical properties and
+bioactivity of TiZr compared with Ti, the results of the present study show that
+TiZr is a potential clinical candidate for soft tissue integration and implant
+success.

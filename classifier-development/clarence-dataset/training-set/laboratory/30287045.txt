@@ -1,0 +1,25 @@
+2018 Dec 15
+Macroporous alginate foams crosslinked with strontium for bone tissue
+engineering.
+P Nowadays, the need of novel strategies to repair and regenerate bone defects in
+the field of biomedical applications has increased. Novel approaches include the
+design of natural bioactive scaffolds mimicking bone tissue. These bioactive
+scaffolds have to possess biophysical properties suitable to address biological
+response towards newly bone tissue formation. In particular, scaffold porosity
+and pore size play a pivotal role in cell migration, adhesion and proliferation,
+thus increasing cell material surface interaction and osteogenic signals
+transmission. Here we propose the development of macroporous alginate foams
+MAFs  with porous and well interconnected structure, useful to enhance growth
+and osteogenic differentiation of human Mesenchymal Stem Cells  hMSCs . Moreover,
+in this study we report a new method for MAFs fabrication based on the
+combination of internal gelation technique with gas foaming. Strontium was
+employed in combination with calcium as cross linking agent for the alginate
+chains and as enhancer of the osteogenic differentiation. The influence of
+strontium ions on the gelation kinetics, physical properties and degradation in
+physiological medium of MAFs was investigated. Our results suggest that the
+combination of internal gelation technique with gas foaming followed by
+freeze drying is an easy and straightforward procedure to prepare alginate foams
+with high porosity and interconnectivity, able to support cell infiltration.
+Finally, biological assays showed how scaffolds with high strontium content are
+able to support cell growth and differentiation in long times by promoting
+osteogenic marker expression.

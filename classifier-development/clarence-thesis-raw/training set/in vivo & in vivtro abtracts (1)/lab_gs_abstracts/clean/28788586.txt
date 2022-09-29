@@ -1,0 +1,32 @@
+2014 Mar 28
+Increased Adipogenic and Decreased Chondrogenic Differentiation of Adipose
+Derived Stem Cells on Nanowire Surfaces.
+P Despite many advances in tissue engineering, there are still significant
+challenges associated with restructuring, repairing, or replacing damaged tissue
+in the body. Currently, a major obstacle has been trying to develop a scaffold
+for cartilage tissue engineering that provides the correct mechanical properties
+to endure the loads associated with articular joints as well as promote
+cell scaffold interactions to aid in extracellular matrix deposition. In
+addition, adipogenic tissue engineering is widely growing due to an increased
+need for more innovative reconstructive therapies following adipose tissue
+traumas and cosmetic surgeries. Recently, lipoaspirate tissue has been identified
+as a viable alternative source for mesenchymal stem cells because it contains a
+supportive stroma that can easily be isolated. Adipose derived stem cells  ADSCs
+can differentiate into a variety of mesodermal lineages including the adipogenic
+and chondrogenic phenotypes. Biodegradable polymeric scaffolds have been shown to
+be a promising alternative and stem cells have been widely used to evaluate the
+compatibility, viability, and bioactivity of these materials. Polycaprolactone is
+a bioresorbable polymer, which has been widely used for biomedical and tissue
+engineering applications. The fundamental concept behind successful synthetic
+tissue engineered scaffolds is to promote progenitor cell migration, adhesion,
+proliferation, and induce differentiation, extracellular matrix synthesis, and
+finally integration with host tissue. In this study, we investigated the
+adhesion, proliferation, and chondrogenic and adipogenic differentiation of ADSCs
+on nanowire surfaces. A solvent free gravimetric template technique was used to
+fabricate polycaprolactone nanowires surfaces. The results indicated that during
+the growth period i.e., initial 7 days of culture, the nanowire surfaces  NW
+supported adhesion and proliferation of the cells that had elongated
+morphologies. However, cell on surfaces without nanowires had non elongated
+morphologies. Further, immunofluorescence imaging of marker proteins showed that
+the nanowires surfaces did not appear to support chondrogenic differentiation
+whereas supported adipogenic differentiation of ADSCs.

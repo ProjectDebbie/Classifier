@@ -1,0 +1,31 @@
+2014 Oct
+Chondrogenic differentiation of marrow clots after microfracture with
+BMSC derived ECM scaffold in vitro.
+P Repairing articular cartilage by combining microfracture and various scaffolds
+has been extensively performed in in vivo animal models. We previously described
+a novel extracellular matrix  ECM  scaffold for cartilage tissue engineering. The
+aim of this study was to investigate the effect of a bone marrow derived
+mesenchymal stem cells derived ECM  BMSC dECM  scaffold on the chondrogenic
+differentiation of marrow clots following microfracture in vitro. In this study,
+we manufactured the BMSC dECM scaffold using a freeze drying method. To obtain
+the marrow clots, a full thickness cartilage defect was established and
+microholes were created in the trochlear groove of New Zealand white rabbits. The
+samples were divided and cultured in vitro for 1, 2, 4, and 8 weeks. The samples
+included a culture of the marrow clot alone  Group 1 , a culture of the marrow
+clot with transforming growth factor beta 3  TGF beta3   Group 2 , a culture of
+the composite of the BMSC dECM scaffold and the marrow clot alone  Group 3 , and
+a culture of the composite with TGF beta3  Group 4 . A smooth and glossy surface
+was observed in Group 2 and Group 4 over time, but the surface for Group 4 was
+larger from week 1 onward. Compressive strength gradually increased in Groups 2
+and 4, and greater increases were observed in Group 4 during the 8 week culture
+period. Enhanced cartilage like matrix deposition of glycosaminoglycan  GAG  and
+type II collagen were confirmed by Safranin O and immunohistochemistry staining,
+respectively, in Groups 2 and 4. The GAG and collagen contents also gradually
+increased over time in Groups 2 and 4; the increase was greater in Group 4. In
+addition, real time polymerase chain reaction demonstrated that the expression of
+chondrogenic genes, such as COL2, ACAN, and SOX9, was gradually upregulated in
+Groups 2 and 4. However, greater increases in the expression of these
+cartilage like genes were observed in Group 4 from week 4 onward. Our results
+suggest that the BMSC dECM scaffold may favor the chondrogenesis of marrow clots
+following microfracture in vitro. In conclusion, these tissue engineering like
+constructs could be potential candidates for cartilage repair.

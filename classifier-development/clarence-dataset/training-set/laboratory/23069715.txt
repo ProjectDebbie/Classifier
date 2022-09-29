@@ -1,0 +1,34 @@
+2013 Jan
+Osteogenesis and angiogenesis induced by porous beta CaSiO 3 /PDLGA composite
+scaffold via activation of AMPK/ERK1/2 and PI3K/Akt pathways.
+P As a potential bioactive material, beta calcium silicate  beta CS  has attracted
+particular attention in the field of bone regeneration. In this study, porous
+beta CS/Poly D,L Lactide Glycolide  PDLGA  composite scaffolds were developed
+with the goals of controlling the degradation rate and improving the mechanical
+and biological properties. The compressive strength and toughness were
+significantly enhanced by PDLGA modification of porous beta CS ceramic scaffolds.
+The effects of the ionic extract from beta CS/PDLGA composite scaffolds on
+osteogenic differentiation of rat bone marrow derived mesenchymal stem cells
+rBMSCs , proliferation of human umbilical vein endothelial cells  HUVECs  and
+the related mechanisms were investigated. It was shown that bioactive ions from
+beta CS/PDLGA scaffolds could enhance cell viability, alkaline phosphatase  ALP
+activity, calcium mineral deposition, and mRNA expression levels of
+osteoblast related genes of rBMSCs without addition of extra osteogenic reagents.
+The activation in AMP activated protein kinase  AMPK , extracellular
+signal related kinases  ERK  1/2 and RUNX 2 were observed in rBMSCs cultured in
+the extract of beta CS/PDLGA, and these effects could be blocked by AMPK
+inhibitor Compound C. The extracts of beta CS/PDLGA composites stimulated HUVECs
+proliferation that was associated with phosphorylation of protein kinase B  Akt
+and endothelial nitric oxide synthase  eNOS  as well as an increase in nitric
+oxide  NO  production and secretion of vascular endothelial growth factor  VEGF .
+The inductions were abolished by the addition of phosphatidylinositol 3 kinase
+PI3K  inhibitor LY294002. The composite scaffolds were implanted in critical
+sized rabbit femur defects  6 x 10 mm  for 4, 12 and 20 weeks with
+beta tricalcium phosphate  beta TCP  as controls. Sequential histological
+evaluations and radiographs revealed that beta CS/PDLGA dramatically stimulated
+new bone formation and angiogenesis. The biodegradation rate of the beta CS/PDLGA
+scaffolds was lower than that of beta TCP at each time point examined, and
+matched the new bone formation rates. These data suggest that beta CS/PDLGA could
+promote bone regeneration in vivo, which might be ascribed to the enhanced
+osteogenic differentiation of mesenchymal stem cells  MSCs  and increased
+angiogenic activity of endothelial cells  ECs .

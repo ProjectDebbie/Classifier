@@ -1,0 +1,38 @@
+2009 Sep Dec
+Biomimetic calcium silicate cements aged in simulated body solutions. Osteoblast
+response and analyses of apatite coating.
+P PURPOSE: Calcium silicate cements have been recently proposed for application in
+dentistry as root end filling and root perforation repair materials. The aim of
+this study was to investigate the effect of ageing of experimental
+calcium silicate cements on the chemistry, morphology and in vitro bioactivity of
+the surface, as well as on osteoblast viability and proliferation. METHODS: Two
+experimental cements  wTC Bi, containing bismuth oxide and wTC , mainly based on
+dicalcium silicate and tricalcium silicate, were prepared and tested for their
+bioactivity after soaking in Dulbecco's phosphate buffered saline  DPBS , used as
+simulated body fluid. Human marrow stromal cells  HMSC  were seeded on the
+cements maintained in DPBS for 5 hr  non aged group , 14 and 28 days  aged
+group . Cell viability was assessed by the Alamar blueTM test and morphology by
+scanning electron microscopy  SEM  at different time endpoints. The surface of
+the soaked cements was analyzed by environmental scanning electron microscopy or
+SEM coupled with energy dispersive X ray microanalysis  ESEM/EDX or SEM/EDX
+respectively  and the micro Raman technique. RESULTS: The ESEM/EDX results showed
+a uniform surface composed of CSH hydrogel  mainly derived from the hydration of
+belite and alite  on both non aged cements. Micro Raman spectroscopy revealed the
+presence of calcium carbonate, anhydrite, ettringite, alite and belite. The
+SEM/EDX data showed an irregular calcium phosphate multi layered biocoating with
+many sharp and protruding crystals on both the aged cements. Micro Raman
+spectroscopy revealed crystalline apatite and calcite. The osteoblast response
+results showed that both the experimental cements exerted no acute toxicity in
+the cell assay systems. The non aged samples promoted greater cell growth. SEM
+showed cells well spread and adherent to the non aged materials. A reduced number
+of attached cells was noticed on the aged cements. Bismuth oxide containing
+cement allowed a reduced cell viability suggesting some cytotoxic effects.
+However, the thick biocoating formed on the 28 day aged samples lowered the
+deleterious effect of bismuth oxide on cell growth. Actually, micro Raman
+spectroscopy revealed progressive bismuth oxide depletion on the wTC Bi surface,
+due to the increased thickness of the apatite deposit. CONCLUSIONS: The study
+demonstrated that  1  these materials support osteogenic cells growth and may
+induce early bone formation,  2  the ageing in DPBS reduced the growth of HMSC,
+but eliminated the deleterious effect of the bismuth oxide on cell growth. In
+conclusion, the experimental cements have adequate biological properties to be
+used as root end/root repair filling materials or pulp capping materials.

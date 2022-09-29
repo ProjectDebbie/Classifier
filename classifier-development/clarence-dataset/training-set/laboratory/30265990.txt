@@ -1,0 +1,26 @@
+2019 Jan 15
+Three dimensional electrospun nanofibrous scaffolds displaying bone morphogenetic
+protein 2 derived peptides for the promotion of osteogenic differentiation of
+stem cells and bone regeneration.
+P Tissue scaffolds with three dimensional  3D  nanofibrous biomimetic structures
+have attracted attention in the field of bone regeneration. In recent years,
+emerging strategies based on electrospinning technologies have facilitated the
+preparation of 3D nanofibrous scaffolds. Based on these developments, in this
+study, 3D scaffolds possessing both nanofibrous morphologies and interconnected
+pores were fabricated for their potential in bone tissue engineering. By
+combining homogenizing, freeze drying, and thermal crosslinking techniques,
+nano hydroxyapatite/PLLA/gelatin  nHA/PLA/GEL  3D nanofibrous scaffolds were
+prepared using pre fabricated electrospun nanofibers. Then, utilizing a
+polydopamine  pDA  assisted coating strategy, bone morphogenetic protein 2
+BMP 2  derived peptides were further immobilized onto the 3D scaffolds to obtain
+the resulting nano hydroxyapatite/PLLA/gelatin peptide  nHA/PLA/GEL PEP  3D
+nanofibrous scaffolds capable of sustained release. Bone mesenchymal stem cells
+BMSCs  were cultured on the 3D nanofibrous scaffolds, then relative cell
+viability, alkaline phosphatase  ALP  activity, and gene expression assays were
+performed to study the effects of the scaffolds on cell growth and osteogenic
+differentiation in vitro. Furthermore, the ability of bone formation in vivo was
+evaluated using a rat cranial bone defect model. In vitro and in vivo results
+demonstrated that the 3D nanofibrous scaffolds incorporated with nHA and BMP 2
+peptides exhibited favorable biocompatibility and osteoinductivity. Therefore,
+these nanofibrous scaffolds have excellent potential in bone regenerative
+medicine.

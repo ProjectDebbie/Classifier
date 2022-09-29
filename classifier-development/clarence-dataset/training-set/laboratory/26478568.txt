@@ -1,0 +1,27 @@
+2017 Feb
+Biological and mechanical characterization of chitosan alginate scaffolds for
+growth factor delivery and chondrogenesis.
+P Chitosan alginate  Ch Al  natural polysaccharide blends have been used for wound
+healing, tissue engineering, and drug delivery due to their ability to form
+pH dependent ionic chain chain interactions. Yet, the biomechanical properties
+and growth factor  GF  release kinetics of Ch Al, which are important in
+controlling the microenvironment during tissue regeneration, have not been fully
+explored. This study examines the compressive elastic modulus of many Ch Al
+scaffold formulations and crosslinking conditions, and also the strain recovery
+after compressive deformation of Ch Al scaffolds, both of which make Ch Al an
+attractive composite for reproducing articular cartilage's resistance to and
+resiliency under compression. Cell viability, proliferation, and in vitro
+cartilaginous matrix production  collagen type II, glycosaminoglycans, aggrecan
+without supplemental GFs are also investigated, demonstrating the polymer blend's
+inherent chondrogenic properties. Additionally, this study explores the ability
+of Ch Al chain functional groups to control and extend GF delivery and minimize
+GF burst release, using model proteins BSA and histone at high loading dose and
+chondrogenic protein TGF beta1 at low loading dose in complete media. Expedited
+cartilaginous matrix synthesis on Ch Al with low dose TGF beta1 release is
+evaluated, with Ch Al supporting homogeneous matrix deposition and lacunae
+formation as early as 3 weeks due to Ch Al's maintenance of GF bioactivity and
+sustained GF delivery. These results illustrate the potential to focus the
+formulational range of Ch Al to provide enhanced mechanical performance and
+controlled, bioactive GF release to cooperatively promote cartilage regeneration.
+c  2015 Wiley Periodicals, Inc. J Biomed Mater Res Part B: Appl Biomater, 105B:
+272 282, 2017.

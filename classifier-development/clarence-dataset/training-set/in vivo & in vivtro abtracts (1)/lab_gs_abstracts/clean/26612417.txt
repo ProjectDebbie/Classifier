@@ -1,0 +1,36 @@
+2016 Feb
+Inhibition of COX1/2 alters the host response and reduces ECM scaffold mediated
+constructive tissue remodeling in a rodent model of skeletal muscle injury.
+P UNLABELLED: Extracellular matrix  ECM  has been used as a biologic scaffold
+material to both reinforce the surgical repair of soft tissue and serve as an
+inductive template to promote a constructive tissue remodeling response. Success
+of such an approach is dependent on macrophage mediated degradation and
+remodeling of the biologic scaffold. Macrophage phenotype during these processes
+is a predictive factor of the eventual remodeling outcome. ECM scaffolds have
+been shown to promote an anti inflammatory or M2 like macrophage phenotype in
+vitro that includes secretion of downstream products of cycolooxygenases 1 and 2
+COX1/2 . The present study investigated the effect of a common COX1/2 inhibitor
+Aspirin  on macrophage phenotype and tissue remodeling in a rodent model of ECM
+scaffold treated skeletal muscle injury. Inhibition of COX1/2 reduced the
+constructive remodeling response by hindering myogenesis and collagen deposition
+in the defect area. The inhibited response was correlated with a reduction in
+M2 like macrophages in the defect area. The effects of Aspirin on macrophage
+phenotype were corroborated using an established in vitro macrophage model which
+showed a reduction in both ECM induced prostaglandin secretion and expression of
+a marker of M2 like macrophages  CD206 . These results raise questions regarding
+the common peri surgical administration of COX1/2 inhibitors when biologic
+scaffold materials are used to facilitate muscle repair/regeneration. STATEMENT
+OF SIGNIFICANCE: COX1/2 inhibitors such as nonsteroidal anti inflammatory drugs
+NSAIDs  are routinely administered post surgically for analgesic purposes. While
+COX1/2 inhibitors are important in pain management, they have also been shown to
+delay or diminish the healing process, which calls to question their clinical use
+for treating musculotendinous injuries. The present study aimed to investigate
+the influence of a common NSAID, Aspirin, on the constructive remodeling response
+mediated by an ECM scaffold  UBM  in a rat skeletal muscle injury model. The
+COX1/2 inhibitor, Aspirin, was found to mitigate the ECM scaffold mediated
+constructive remodeling response both in an in vitro co culture system and an in
+vivo rat model of skeletal muscle injury. The results presented herein provide
+data showing that NSAIDs may significantly alter tissue remodeling outcomes when
+a biomaterial is used in a regenerative medicine/tissue engineering application.
+Thus, the decision to prescribe NSAIDs to manage the symptoms of inflammation
+post ECM scaffold implantation should be carefully considered.

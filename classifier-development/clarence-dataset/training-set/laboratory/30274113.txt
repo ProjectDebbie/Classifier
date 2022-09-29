@@ -1,0 +1,32 @@
+2018 Dec 1
+VEGF delivery by smart polymeric PNIPAM nanoparticles affects both osteogenic and
+angiogenic capacities of human bone marrow stem cells.
+P OBJECTIVE: Bone tissue engineering  BTE  faces a major challenge with cell
+viability after implantation of a construct due to lack of functional vasculature
+within the implant. Human bone marrow derived mesenchymal stem cells  hBMSCs
+have the potential to undergo transdifferentiation towards an endothelial cell
+phenotype, which may be appropriate for BTE in conjunction with the appropriate
+scaffolds and microenvironment. HYPOTHESIS AND METHODS: We hypothesized that slow
+delivery of vascular endothelial growth factor  VEGF  by using nanoparticles in
+combination with osteogenic stimuli might enhance both osteogenic and angiogenic
+differentiation of angiogenic primed hBMSCs cultured in an osteogenic
+microenvironment. Therefore, we developed a new strategy to enhance
+vascularization in BTE in vitro by synthesis of smart temperature sensitive
+poly Nisopropylacrylamide   PNIPAM  nanoparticles. We used PNIPAM nanoparticles
+loaded with collagen to investigate their ability to deliver VEGF for both
+angiogenic and osteogenic differentiation. RESULTS: We used the free radical
+polymerization technique to synthesize PNIPAM nanoparticles, which had particle
+sizes of approximately 100nm at 37 degrees C and LCST of 30 32 degrees C. The
+cumulative VEGF release after 72h for VEGF loaded PNIPAM  VEGF PNIPAM
+nanoparticles was 70%; for VEGF PNIPAM loaded collagen hydrogels, it was 23%,
+which indicated slower release of VEGF in the VEGF PNIPAM loaded collagen system.
+Immunocytochemistry  ICC  and inverted microscope visualization confirmed
+endothelial differentiation and capillary like tube formation in the osteogenic
+culture medium after 14days. Quantitative real time polymerase chain reaction
+QRT PCR  also confirmed expressions of collagen type I  Col I , runt related
+transcription factor 2  RUNX2 , and osteocalcin  OCN  osteogenic markers along
+with expressions of platelet endothelial cell adhesion molecule 1  CD31 , von
+Willebrand factor  vWF , and kinase insert domain receptor  KDR  angiogenic
+markers. Our data clearly showed that VEGF released from PNIPAM nanoparticles and
+VEGF PNIPAM loaded collagen hydrogel could significantly contribute to the
+quality of engineered bone tissue.

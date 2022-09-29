@@ -1,0 +1,23 @@
+2009 May
+Osteogenic differentiation of mesenchymal stem cells promoted by overexpression
+of connective tissue growth factor.
+P OBJECTIVE: Large segmental bone defect repair remains a clinical and scientific
+challenge with increasing interest focusing on combining gene transfection with
+tissue engineering techniques. The aim of this study is to investigate the effect
+of connective tissue growth factor  CTGF  on the proliferation and osteogenic
+differentiation of the bone marrow mesenchymal stem cells  MSCs . METHODS: A
+CTGF expressing plasmid  pCTGF  was constructed and transfected into MSCs. Then
+expressions of bone morphogenesis related genes, proliferation rate, alkaline
+phosphatase activity, and mineralization were examined to evaluate the osteogenic
+potential of the CTGF gene modified MSCs. RESULTS: Overexpression of CTGF was
+confirmed in pCTGF MSCs. pCTGF transfection significantly enhanced the
+proliferation rates of pCTGF MSCs  P<0.05 . CTGF induced a 7.5 fold increase in
+cell migration over control  P<0.05 . pCTGF transfection enhanced the expression
+of bone matrix proteins, such as bone sialoprotein, osteocalcin, and collagen
+type I in MSCs. The levels of alkaline phosphatase  ALP  activities of pCTGF MSCs
+at the 1st and 2nd weeks were 4.0  and 3.0 fold higher than those of MSCs
+cultured in OS medium, significantly higher than those of mock MSCs and normal
+control MSCs  P<0.05 . Overexpression of CTGF in MSCs enhanced the capability to
+form mineralized nodules. CONCLUSION: Overexpression of CTGF could improve the
+osteogenic differentiation ability of MSCs, and the CTGF gene modified MSCs are
+potential as novel cell resources of bone tissue engineering.

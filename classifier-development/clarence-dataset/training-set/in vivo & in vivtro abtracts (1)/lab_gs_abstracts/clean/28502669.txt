@@ -1,0 +1,44 @@
+2017 Jul 1
+Biomimetic tendon extracellular matrix composite gradient scaffold enhances
+ligament to bone junction reconstruction.
+P Management of ligament/tendon to bone junction healing remains a formidable
+challenge in the field of orthopedic medicine to date, due to deficient
+vascularity and multi tissue transitional structure of the junction. Numerous
+strategies have been employed to improve ligament bone junction healing,
+including delivery of stem cells, bioactive factors, and synthetic materials, but
+these methods are often inadequate at recapitulating the complex
+structure function relationships at native tissue interfaces. Here, we developed
+an easily fabricated and effective biomimetic composite to promote the
+regeneration of ligament bone junction by physically modifying the tendon
+extracellular matrix  ECM  into a Random Aligned Random composite using
+ultrasound treatment. The differentiation potential of rabbit bone marrow stromal
+cells on the modified ECM were examined in vitro. The results demonstrated that
+the modified ECM enhanced expression of chondrogenesis and
+osteogenesis associated epigenetic genes  Jmjd1c, Kdm6b , transcription factor
+genes  Sox9, Runx2  and extracellular matrix genes  Col2a1, Ocn , resulting in
+higher osteoinductivity than the untreated tendon ECM in vitro. In the rabbit
+anterior cruciate ligament  ACL  reconstruction model in vivo, micro computed
+tomography  Micro CT  and histological analysis showed that the modified
+Random Aligned Random composite scaffold enhanced bone and fibrocartilage
+formation at the interface, more efficaciously than the unmodified tendon ECM.
+Therefore, these results demonstrated that the biomimetic Random Aligned Random
+composite could be a promising scaffold for ligament/tendon bone junction repair.
+STATEMENT OF SIGNIFICANCE: The native transitional region consists of several
+distinct yet contiguous tissue regions, composed of soft tissue, non calcified
+fibrocartilage, calcified fibrocartilage, and bone. A stratified graft whose
+phases are interconnected with each other is essential for supporting the
+formation of functionally continuous multi tissue regions. Various techniques
+have been attempted to improve adherence of the ligament/tendon graft to bone,
+including utilization of stem cells, growth factors and biomaterials, but these
+methods are often inadequate at recapitulating the complex structure function
+relationships at native tissue interfaces. Here, we developed an
+easily fabricated and effective biomimetic composite to promote the regeneration
+of ligament bone junction by physically modifying the tendon extracellular matrix
+ECM  into a Random Aligned Random composite using ultrasound treatment. The
+modified ECM enhanced expression of chondrogenesis and osteogenesis associated
+epigenetic genes expression in vitro. In the rabbit anterior crucial ligament
+reconstruction model in vivo, results showed that the modified
+Random Aligned Random composite enhances the bone and fibrocartilage formation in
+the interface, proving to be more efficient than the unmodified tendon ECM.
+Therefore, these results demonstrated that the biomimetic Random Aligned Random
+composite could be a promising scaffold for ligament/tendon bone junction repair.

@@ -1,0 +1,25 @@
+2018 Aug
+Effect of electric stimulation on human chondrocytes and mesenchymal stem cells
+under normoxia and hypoxia.
+P During joint movement and mechanical loading, electric potentials occur within
+cartilage tissue guiding cell development and regeneration. Exposure of cartilage
+exogenous electric stimulation  ES  may imitate these endogenous electric fields
+and promote healing processes. Therefore, the present study investigated the
+influence of electric fields on human chondrocytes, mesenchymal stem cells and
+the coculture of the two. Human chondrocytes isolated from articular cartilage
+obtained postmortally and human mesenchymal stem cells derived from bone marrow
+BMMSCs  were seeded onto a collagenbased scaffold separately or as coculture.
+Following incubation with the growth factors over 3 days, ES was performed using
+titanium electrodes applying an alternating electric field  700 mV, 1 kHz . Cells
+were exposed to an electric field over 7 days under either hypoxic or normoxic
+culture conditions. Following this, metabolic activity was investigated and
+synthesis rates of extracellular matrix proteins were analyzed. ES did not
+influence metabolic activity of chondrocytes or BMMSCs. Gene expression analyses
+demonstrated that ES increased the expression of collagen type II mRNA and
+aggrecan mRNA in human chondrocytes under hypoxic culture conditions. Likewise,
+collagen type II synthesis was significantly increased following exposure to
+electric fields under hypoxia. BMMSCs and the coculture of chondrocytes and
+BMMSCs revealed a similar though weaker response regarding the expression of
+cartilage matrix proteins. The electrode setup may be a valuable tool to
+investigate the influence of ES on human chondrocytes and BMMSCs contributing to
+fundamental knowledge including future applications of ES in cartilage repair.

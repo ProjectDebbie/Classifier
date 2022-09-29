@@ -1,0 +1,27 @@
+2013 Aug
+A biomimetic growth factor delivery strategy for enhanced regeneration of iliac
+crest defects.
+P The importance of provision of growth factors in the engineering of tissues has
+long been shown to control the behavior of the cells within the construct and
+several approaches were applied toward this end. In nature, more than one type of
+growth factor is known to be effective during the healing of tissue defects and
+their peak concentrations are not always simultaneous. One of the most recent
+strategies includes the delivery of a combination of growth factors with the dose
+and timing to mimic the natural regeneration cascade. The sequential delivery of
+bone morphogenetic proteins BMP 2 and BMP 7 which are early and late appearing
+factors during bone regeneration, respectively, was shown in vitro to enhance
+osteoblastic differentiation of bone marrow derived mesenchymal stem cells. In
+the present study, the aim was to study the effectiveness of this delivery
+strategy in a rabbit iliac crest model. 3D plotted poly epsilon caprolactone
+scaffolds were loaded with BMP carrying nanoparticles to achieve:  a  single
+BMP 2 or BMP 7 delivery, and  b  their combined delivery in a simultaneous or  c
+sequential  biomimetic  fashion. After eight weeks of implantation, computed
+tomography and biomechanical tests showed better mineralized matrix formation and
+bone implant union strength at the defect site in the case of sequential delivery
+compared to single or simultaneous delivery modes. Bone mineral density  BMD  and
+push out stress were: 33.65+/ 2.25 g cm  3  and 14.5+/ 2.28 MPa, respectively,
+and almost 2.5 fold higher in comparison to those without growth factors  BMD:
+14.14+/ 1.21 g cm  3 ; PS: 6.59+/ 0.65 MPa . This study, therefore, supports
+those obtained in vitro and emphasizes the importance of mimicking the natural
+timing of bioavailability of osteogenic factors in improving the regeneration of
+critical sized bone defects.

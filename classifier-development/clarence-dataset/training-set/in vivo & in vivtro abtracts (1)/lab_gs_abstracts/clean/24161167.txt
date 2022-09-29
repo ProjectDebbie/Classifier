@@ -1,0 +1,26 @@
+2014 Jan
+The enhancement of bone regeneration by gene activated matrix encoding for
+platelet derived growth factor.
+P Gene therapy using non viral vectors that are safe and efficient in transfecting
+target cells is an effective approach to overcome the shortcomings of protein
+delivery of growth factors. The objective of this study was to develop and test a
+non viral gene delivery system for bone regeneration utilizing a collagen
+scaffold to deliver polyethylenimine  PEI  plasmid DNA  pDNA  [encoding platelet
+derived growth factor B  PDGF B ] complexes. The PEI pPDGF B complexes were
+fabricated at amine  N  to phosphate  P  ratio of 10 and characterized for size,
+surface charge, and in vitro cytotoxicity and transfection efficacy in human bone
+marrow stromal cells  BMSCs . The influence of the complex loaded collagen
+scaffold on cellular attachment and recruitment was evaluated in vitro using
+microscopy techniques. The in vivo regenerative capacity of the gene delivery
+system was assessed in 5 mm diameter critical sized calvarial defects in Fisher
+344 rats. The complexes were ~100 nm in size with a positive surface charge.
+Complexes prepared at an N/P ratio of 10 displayed low cytotoxicity as assessed
+by a cell viability assay. Confocal microscopy revealed significant proliferation
+of BMSCs on complex loaded collagen scaffolds compared to empty scaffolds. In
+vivo studies showed significantly higher new bone volume/total volume  BV/TV  %
+in calvarial defects treated with the complex activated scaffolds following 4
+weeks of implantation  14  and 44 fold higher  when compared to empty defects or
+empty scaffolds, respectively. Together, these findings suggest that non viral
+PDGF B gene activated scaffolds are effective for bone regeneration and are an
+attractive gene delivery system with significant potential for clinical
+translation.

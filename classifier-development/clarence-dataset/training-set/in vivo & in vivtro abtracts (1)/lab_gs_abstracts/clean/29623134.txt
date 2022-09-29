@@ -1,0 +1,26 @@
+2018 Apr
+Generating Chondromimetic Mesenchymal Stem Cell Spheroids by Regulating Media
+Composition and Surface Coating.
+P INTRODUCTION: Spheroids of mesenchymal stem cells  MSCs  in cartilage tissue
+engineering have been shown to enhance regenerative potential owing to their 3D
+structure. In this study, we explored the possibility of priming spheroids under
+different media to replace the use of inductive surface coatings for chondrogenic
+differentiation. METHODS: Rat bone marrow derived MSCs were organized into cell
+spheroids by the hanging drop technique and subsequently cultured on hyaluronic
+acid  HA  coated or non coated well plates under different cell media conditions.
+Endpoint analysis included cell viability, DNA and Glycosaminoglycan  GAG  and
+collagen content, gene expression and immunohistochemistry. RESULTS: For
+chondrogenic applications, MSC spheroids derived on non coated surfaces
+outperformed the spheroids derived from HA coated surfaces in matrix synthesis
+and collagen II gene expression. Spheroids on non coated surfaces gave rise to
+the highest collagen and GAG when primed with medium containing insulin like
+growth factor  IGF  for 1 week during spheroid formation. Spheroids that were
+grown in chondroinductive raw material inclusive media such as aggrecan or
+chondroitin sulfate exhibited the highest Collagen II gene expression in the
+non coated surface at 1 week. CONCLUSION: Media priming by growth factors and raw
+materials might be a more predictive influencer of chondrogenesis compared to
+inductive surfaces. Such tailored bioactivity of the stem cell spheroids in the
+stage of the spheroid formation may give rise to a platform technology that may
+eventually produce spheroids capable of chondrogenesis achieved by mere media
+manipulation, skipping the need for additional culture on a modified surface,
+that paves the way for cost effective technologies.

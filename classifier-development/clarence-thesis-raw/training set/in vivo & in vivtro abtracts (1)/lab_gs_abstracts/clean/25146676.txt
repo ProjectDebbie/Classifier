@@ -1,0 +1,34 @@
+2014 Nov
+Effects of proliferation and differentiation of mesenchymal stem cells on
+compressive mechanical behavior of collagen/beta TCP composite scaffold.
+P The primary aim of this study is to characterize the effects of cell culture on
+the compressive mechanical behavior of the collagen/beta tricalcium phosphate
+TCP  composite scaffold. The composite and pure collagen scaffolds were
+fabricated by the solid liquid phase separation technique and the subsequent
+freeze drying method. Rat bone marrow mesenchymal stem cells  rMSCs  were then
+cultured in these scaffolds up to 28 days. Compression test of the scaffolds with
+rMSCs were conducted periodically. Biological properties such as cell number,
+alkaline phosphatase  ALP  activity, and gene expressions of osteogenetic bone
+markers were evaluated during cell culture. The microstructural changes in the
+scaffolds during cell culture were also examined using a scanning electron
+microscope. The compressive elastic modulus was then correlated with those of the
+biological properties and microstructures to understand the mechanism of
+variational behavior of the macroscopic elastic property. The composite scaffold
+exhibited higher ALP activity and more active generation of osteoblastic markers
+than the collagen scaffold, indicating that beta TCP can activate the
+differentiation of rMSCs into osteoblasts and extracellular matrix  ECM
+formation such as type I collagen and the following mineralization. The
+variational behavior of the compressive modulus of the composite scaffold was
+affected by both the material degradation and the proliferation of cells and the
+ECM formation. In the first stage, the modulus of the composite scaffold tended
+to increase due to cell proliferation and the following formation of network
+structure. In the second stage, the modulus tended to decrease because the
+material degradation such as ductile deformation of collagen and decomposition of
+beta TCP were more effective on the property than the ECM formation. In the third
+stage, active calcification by formation and growth of mineralized nodules
+resulted in the recovery of modulus. It is concluded that the introduction of
+beta TCP powder into the porous collagen matrix is very effective to improve the
+mechanical and biological properties of collagen scaffold prepared for bone
+tissue engineering. Furthermore, the compressive modulus of the composite
+scaffold is strongly affected by the material degradation and the ECM formation
+by stem cells under in vitro culture condition.

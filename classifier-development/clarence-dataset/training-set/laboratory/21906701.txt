@@ -1,0 +1,24 @@
+2012 Jan
+The enhanced modulation of key bone matrix components by modified Titanium
+implant surfaces.
+P Modifications to Titanium  Ti  implant surfaces enhance osseointegration by
+promoting bone implant contact and peri implant bone accrual; which in vitro
+analyses of osteoblastic cells suggest is due to an enhancement in cellular
+phenotypic maturation and function. To evaluate these effects on uncommitted
+cells, this study examined the osteogenic mineralisation and phenotypic marker
+expression of human marrow derived stromal cells  hBMSCs  from three unrelated
+donors cultured on tissue culture plastic  TCP , polished  P , rough hydrophobic
+SLA  and rough hydrophilic  modSLA  Ti surfaces over the course of 21 days.
+Transcriptional analyses indicated a significant early up regulation of both
+Runx2  p<0.05  and Osteopontin  OP   p<0.05  but not Bone Sialoprotein 2  BSP2
+p<0.05  by rough surfaces 1 day post seeding. The phenotypic analyses showed
+that whilst cellular proliferation was relatively restricted and slower on the
+rough substrates; osteogenic mineralisation, assessed by quantifying
+extracellular matrix calcium deposition, collagen formation and the ratio of
+collagen to mineral deposited were significantly higher  p<0.05 ; as was alkaline
+phosphatase  ALP  activity  p<0.05 . The rough surfaces caused an increase of
+secreted osteoblastic markers Osteoprotegrin  OPG   p<0.05 , growth
+differentiation factor 15  GDF 15   p<0.05  and Osteocalcin  OC   p<0.05 . These
+findings suggest that modified Ti surfaces induce an enhancement in osteogenic
+commitment and differentiation, which likely underlie the deposition of more
+stable bone matrix early in the healing process in vivo.

@@ -1,0 +1,19 @@
+2015
+Alginate hydrogel enriched with enamel matrix derivative to target osteogenic
+cell differentiation in TiO2 scaffolds.
+P The purpose of bone tissue engineering is to employ scaffolds, cells, and growth
+factors to facilitate healing of bone defects. The aim of this study was to
+assess the viability and osteogenic differentiation of primary human osteoblasts
+and adipose tissue derived mesenchymal stem cells from various donors on titanium
+dioxide  TiO2  scaffolds coated with an alginate hydrogel enriched with enamel
+matrix derivative. Cells were harvested for quantitative reverse transcription
+polymerase chain reaction on days 14 and 21, and medium was collected on days 2,
+14, and 21 for protein analyses. Neither coating with alginate hydrogel nor
+alginate hydrogel enriched with enamel matrix derivative induced a cytotoxic
+response. Enamel matrix derivative enriched alginate hydrogel significantly
+increased the expression of osteoblast markers COL1A1, TNFRSF11B, and BGLAP and
+secretion of osteopontin in human osteoblasts, whereas osteogenic differentiation
+of human adipose tissue derived mesenchymal stem cells seemed unaffected by
+enamel matrix derivative. The alginate hydrogel coating procedure may have
+potential for local delivery of enamel matrix derivative and other stimulatory
+factors for use in bone tissue engineering.

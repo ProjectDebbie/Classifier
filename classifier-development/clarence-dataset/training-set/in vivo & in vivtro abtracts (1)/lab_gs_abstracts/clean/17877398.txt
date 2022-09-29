@@ -1,0 +1,19 @@
+2007 Oct
+Hemocompatibility of hydrophilic antimicrobial copolymers of alkylated
+4 vinylpyridine.
+P Quaternized poly vinylpyridine   PVP  is a polymer with inherent antimicrobial
+properties that is effective against Gram positive bacteria, Gram negative
+bacteria, viruses, and yeast cells. However, quaternized PVP has poor
+biocompatibility, which prevents its use in biomaterial applications.
+Copolymerization was examined as a method of modifying the structure to
+incorporate biocompatibility. Polyethyleneglycol methyl ether methacrylate
+PEGMA  and hydroxyethyl methacrylate  HEMA  are polymers generally known to be
+biocompatible and thus were chosen as comonomers. Random copolymers of
+4 vinylpyridine and PEGMA or HEMA were synthesized via free radical
+polymerization and quaternized with bromohexane. Copolymer biocompatibility was
+characterized by interaction with human red blood cells to analyze hemolysis.
+Hemolysis of human red blood cells was conducted on insoluble films and on
+water soluble polymers in a serial dilution study. Hemolysis results demonstrated
+that blood compatibility does not depend on PEG chain length in PEGMA
+incorporated copolymers. Results indicate a critical weight ratio of PEGMA to VP
+in copolymers separating the no hemolysis regime from 100% hemolysis.

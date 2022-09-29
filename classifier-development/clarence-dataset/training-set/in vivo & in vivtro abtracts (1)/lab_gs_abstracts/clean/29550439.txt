@@ -1,0 +1,39 @@
+2018 May
+Heparin functionalization increases retention of TGF beta2 and GDF5 on biphasic
+silk fibroin scaffolds for tendon/ligament to bone tissue engineering.
+P The tendon/ligament to bone transition  enthesis  is a highly specialized
+interphase tissue with structural gradients of extracellular matrix composition,
+collagen molecule alignment and mineralization. These structural features are
+essential for enthesis function, but are often not regenerated after injury.
+Tissue engineering is a promising strategy for enthesis repair. Engineering of
+complex tissue interphases such as the enthesis is likely to require a
+combination of biophysical, biological and chemical cues to achieve functional
+tissue regeneration. In this study, we cultured human primary adipose derived
+mesenchymal stem cells  AdMCs  on biphasic silk fibroin scaffolds with integrated
+anisotropic  tendon/ligament like  and isotropic  bone/cartilage like  pore
+alignment. We functionalized those scaffolds with heparin and explored their
+ability to deliver transforming growth factor beta2  TGF beta2  and
+growth/differentiation factor 5  GDF5 . Heparin functionalization increased the
+amount of TGF beta2 and GDF5 remaining attached to the scaffold matrix and
+resulted in biological effects at low growth factor doses. We analyzed the
+combined impact of pore alignment and growth factors on AdMSCs. TGF beta2 and
+pore anisotropy synergistically increased the expression of tendon/ligament
+markers and collagen I protein content. In addition, the combined delivery of
+TGF beta2 and GDF5 enhanced the expression of cartilage markers and collagen II
+protein content on substrates with isotropic porosity, whereas enthesis markers
+were enhanced in areas of mixed anisotropic/isotropic porosity. Altogether, the
+data obtained in this study improves current understanding on the combined
+effects of biological and structural cues on stem cell fate and presents a
+promising strategy for tendon/ligament to bone regeneration. STATEMENT OF
+SIGNIFICANCE: Regeneration of the tendon/ligament to bone interphase  enthesis
+is of significance in the repair of ruptured tendons/ligaments to bone to improve
+implant integration and clinical outcome. This study proposes a novel approach
+for enthesis regeneration based on a biomimetic and integrated
+tendon/ligament to bone construct, stem cells and heparin based delivery of
+growth factors. We show that heparin can keep growth factors local and
+biologically active at low doses, which is critical to avoid supraphysiological
+doses and associated side effects. In addition, we identify synergistic effects
+of biological  growth factors  and structural  pore alignment  cues on stem
+cells. These results improve current understanding on the combined impact of
+biological and structural cues on the multi lineage differentiation capacity of
+stem cells for regenerating complex tissue interphases.

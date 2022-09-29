@@ -1,0 +1,34 @@
+2016 Feb
+Amorphous polyphosphate hydroxyapatite: A morphogenetically active substrate for
+bone related SaOS 2 cells in vitro.
+P UNLABELLED: There is increasing evidence that inorganic calcium polyphosphates
+polyP  are involved in human bone hydroxyapatite  HA  formation. Here we
+investigated the morphology of the particles, containing calcium phosphate  CaP
+with different concentrations of various Na polyP concentrations, as well as
+their effects in cell culture. We used both SaOS 2 cells and human mesenchymal
+stem cells. The polymeric phosphate readily binds calcium ions under formation of
+insoluble precipitates. We found that addition of low concentrations of polyP
+<10wt.%, referred to the CaP deposits  results in an increased size of the HA
+crystals. Surprisingly, at higher polyP concentrations  >10wt.%  the formation of
+crystalline HA is prevented and amorphous polyP/HA hybrid particles with a size
+of approximately 50nm are formed, most likely consisting of polyP molecules
+linked via Ca 2+  bridges to the surface of the CaP deposits. Further studies
+revealed that the polyP CaP particles cause a strong upregulation of the
+expression of the genes encoding for two marker proteins of bone formation,
+collagen type I and alkaline phosphatase. Based on their morphogenetic activity
+the amorphous polyP CaP particles offer a promising material for the development
+of bone implants, formed from physiological inorganic precursors/polymers.
+STATEMENT OF SIGNIFICANCE: Hydroxyapatite  HA  is a naturally occurring mineral
+of vertebrate bone. Natural HA, a bio ceramic material which is crystalline to
+different scale, has been used as a biomaterial to fabricate scaffolds for in
+situ bone regeneration and other tissue engineering purposes. In contrast to
+natural HA, synthetic apatite is much less effective. In general, while HA is
+bioactive, its interaction and biocompatibility with existing bone tissue is low.
+These properties have been attributed to a minimal degradability in the
+physiological environment. In the present study we introduce a new Ca phosphate
+CaP  fabrication technology, starting from calcium chloride and dibasic ammonium
+phosphate with the HA characteristic Ca/P molar ratio of 10:6 and report that
+after addition >10%  by weight  of polyphosphate  polyP  amorphous CaP/HA samples
+were obtained. Those samples elicits strong morphogenetic activity let us to
+conclude that polyP/HA based material might be beneficial for application as bone
+substitute implant.

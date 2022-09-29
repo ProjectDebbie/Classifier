@@ -1,0 +1,27 @@
+2019 Jan 22
+Catalpol promotes the osteogenic differentiation of bone marrow mesenchymal stem
+cells via the Wnt/beta catenin pathway.
+P BACKGROUND: Rehmanniae Radix is a traditional herbal medicine in East Asia that
+has been widely used to treat patients with osteoporosis. However, the effect of
+catalpol, the primary active principle component of Rehmanniae Radix, on the
+function of bone marrow mesenchymal stem cells  BMSCs  and the underlying
+molecular mechanisms associated with its activity remain poorly understood.
+METHODS: The effect of catalpol on the proliferation of BMSCs was evaluated using
+a Cell Counting Kit 8 assay. Alkaline phosphatase  ALP  staining, ALP activity
+and Alizarin Red staining were performed to elucidate the effect of catalpol on
+the osteogenesis of BMSCs. qRT PCR, Western blotting and immunofluorescence were
+performed to evaluate the expression of osteo specific markers and the
+Wnt/beta catenin signalling related genes and proteins. Moreover, a rat
+critical sized calvarial defect model and a rat ovariectomy model were used to
+assess the effect of catalpol on bone regeneration in vivo. RESULTS: Catalpol
+significantly enhanced osteoblast specific gene expression, alkaline phosphatase
+activity and calcium deposition in BMSCs in vitro. This phenomenon was
+accompanied by an upregulation of Wnt/beta catenin signalling. In addition, the
+enhanced osteogenesis due to catalpol treatment was partially reversed by a
+Wnt/beta catenin antagonist. Furthermore, catalpol increased the bone healing
+capacity of BMSCs in a rat critical sized calvarial defect model and attenuated
+bone loss in a rat ovariectomy model. CONCLUSIONS: These data suggest that
+catalpol enhances the osteogenic differentiation of BMSCs, partly via activation
+of the Wnt/beta catenin pathway. Catalpol may provide a new strategy for bone
+tissue engineering and can be a potential agent for the treatment of
+postmenopausal osteoporosis.

@@ -1,0 +1,21 @@
+2014
+In vitro study of a novel nanogold collagen composite to enhance the mesenchymal
+stem cell behavior for vascular regeneration.
+P Novel nanocomposites based on type I collagen  Col  containing a small amount
+17.4, 43.5, and 174 ppm  of gold nanoparticles  AuNPs, approximately 5 nm  were
+prepared in this study. The pure Col and Col AuNP composites  Col Au  were
+characterized by the UV Vis spectroscopy  UV Vis , surface enhanced raman
+spectroscopy  SERS  and atomic force microscopy  AFM . The interaction between
+Col and AuNPs was confirmed by infrared  IR  spectra. The effect of AuNPs on the
+biocompatibility of Col, evaluated by the proliferation and reactive oxygen
+species  ROS  production of mesenchymal stem cells  MSCs  as well as the
+activation of monocytes and platelets, was investigated. Results showed that
+Col Au had better biocompatibility than Col. Upon stimulation by vascular
+endothelial growth factor  VEGF  and stromal derived factor 1alpha  SDF 1alpha ,
+MSCs expressed the highest levels of alphavbeta3 integrin/CXCR4, focal adhesion
+kinase  FAK , matrix metalloproteinase 2  MMP 2 , and Akt/endothelial nitric
+oxide synthase  eNOS  proteins when grown on the Col Au  43.5 ppm  nanocomposite.
+Taken together, Col Au nanocomposites may promote the proliferation and migration
+of MSCs and stimulate the endothelial cell differentiation. These results suggest
+that Col Au may be used to construct tissue engineering scaffolds for vascular
+regeneration.

@@ -1,0 +1,27 @@
+2018 Apr
+Gradient nano engineered in situ forming composite hydrogel for osteochondral
+regeneration.
+P Fabrication of anisotropic osteochondral mimetic scaffold with mineralized
+subchondral zone and gradient interface remains challenging. We have developed an
+injectable semi interpenetrating network hydrogel construct with chondroitin
+sulfate nanoparticles  ChS NPs  and nanohydroxyapatite  nHA    approximately
+30 90nm  in chondral and subchondral hydrogel zones respectively. Mineralized
+subchondral hydrogel exhibited significantly higher osteoblast proliferation and
+alkaline phosphatase activity  p<0.05 . Osteochondral hydrogel exhibited
+interconnected porous structure and spatial variation with gradient interface of
+nHA and ChS NPs. Microcomputed tomography  muCT  demonstrated nHA gradation while
+rheology showed predominant elastic modulus   approximately 930Pa  at the
+interface. Co culture of osteoblasts and chondrocytes in gradient hydrogels
+showed layer specific retention of cells and cell cell interaction at the
+interface. In vivo osteochondral regeneration by biphasic  nHA or ChS  and
+gradient  nHA + ChS  hydrogels was compared with control using rabbit
+osteochondral defect after 3 and 8 weeks. Complete closure of defect was observed
+in gradient  8 weeks  while defect remained in other groups. Histology
+demonstrated collagen and glycosaminoglycan deposition in neo matrix and presence
+of hyaline cartilage characteristic matrix, chondrocytes and osteoblasts. muCT
+showed mineralized neo tissue formation, which was confined within the defect
+with higher bone mineral density in gradient  chondral: 0.42 +/  0.07 g/cc,
+osteal: 0.64 +/  0.08 g/cc  group. Further, biomechanical push out studies showed
+significantly higher load for gradient group  378 +/  56 N  compared to others.
+Thus, the developed nano engineered gradient hydrogel enhanced hyaline cartilage
+regeneration with subchondral bone formation and lateral host tissue integration.

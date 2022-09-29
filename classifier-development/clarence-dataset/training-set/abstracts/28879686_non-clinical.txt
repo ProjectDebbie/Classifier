@@ -1,0 +1,22 @@
+2018 Jan
+Development of a bioactive porous collagen/beta tricalcium phosphate bone graft
+assisting rapid vascularization for bone tissue engineering applications.
+P We developed collagen  COL  and collagen/beta tricalcium phosphate  COL/beta TCP
+scaffolds with a beta TCP/collagen weight ratio of 4 by freeze drying. Mouse bone
+marrow derived mesenchymal stem cells  BMMSCs  were cultured on these scaffolds
+for 14 days. Samples were characterized by physicochemical analyses and their
+biological properties such as cell viability and alkaline phosphatase  ALP
+activity was, also, examined. Additionally, the vascularization potential of the
+prepared scaffolds was tested subcutaneously in Wistar rats. We observed a
+microporous structure with large porosity   approximately 95 98%  and appropriate
+pore size  120 200 microm . The COL/beta TCP scaffolds had a much higher
+compressive modulus  970 +/  1.20 KPa  than pure COL  0.8 +/  1.82 KPa . In vitro
+model of apatite formation was established by immersing the composite scaffold in
+simulated body fluid for 7 days. An ALP assay revealed that porous COL/beta TCP
+can effectively activate the differentiation of BMMSCs into osteoblasts. The
+composite scaffolds also promoted vascularization with good integration with the
+surrounding tissue. Thus, introduction of beta TCP powder into the porous
+collagen matrix effectively improved the mechanical and biological properties of
+the collagen scaffolds, making them potential bone substitutes for enhanced bone
+regeneration in orthopedic and dental applications.  c  2017 Wiley Periodicals,
+Inc. J Biomed Mater Res Part A: 106A: 73 85, 2018.

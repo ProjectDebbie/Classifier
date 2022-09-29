@@ -1,0 +1,24 @@
+2019 Jan
+Evaluation of bone marrow stem cell response to PLA scaffolds manufactured by 3D
+printing and coated with polydopamine and type I collagen.
+P The majority of synthetic polymers used in 3 D printing are not designed to
+promote specific cellular interactions and hence possess limited bioactivity.
+Most of the strategies proposed to overcome this limitation demand multiple and
+expensive processing steps. This study aimed to evaluate the surface modification
+of 3D printed poly lactic acid   PLA  scaffolds with polydopamine  PDA  coating
+as an alternative strategy to enhance their bioactivity and to facilitate the
+immobilization of type I collagen  COL I  onto the implant surface. Physical and
+chemical properties of PLA scaffolds coated with PDA, COL I or both were
+evaluated. The response of porcine bone marrow stem cells  MSCs  to the coatings
+was also investigated. The PDA layer improved COL immobilization onto the surface
+of the PLA scaffolds by 92%. The combination of PDA and COL functionalizations
+provided the best conditions for early stage  <7 days  cell response. In
+addition, the PDA plus COL surface facilitated the robust deposition of
+extracellular matrix in the first 14 days of cell culture. Although the behavior
+of the MSCs appeared to be similar for both uncoated PLA and PDA plus COL coated
+scaffolds by day 21, cells seeded onto PDA plus COL scaffolds produced
+substantially higher amounts of alkaline phosphatase. These results indicate that
+the osteoinductivity of 3D printed PLA scaffolds can be enhanced by PDA and type
+I collagen coatings. This surface modification of polymeric scaffolds represents
+a promising strategy for bone tissue engineering.  c  2018 Wiley Periodicals,
+Inc. J Biomed Mater Res Part B: Appl Biomater, 107B: 37 49, 2019.

@@ -1,0 +1,37 @@
+2013 Mar
+Comparison of platelet rich fibrin and collagen as osteoblast seeded scaffolds
+for bone tissue engineering applications.
+P OBJECTIVES: The loss of jaw bone caused by different kinds of pathologies leads
+to dysfunction and reduced quality of life in affected patients. Thus, the
+pivotal goal in bone tissue engineering is to reconstruct these defects. The
+essential precondition for new tissue generation is an extracellular matrix which
+acts as a scaffold so that cells can migrate, differentiate, and proliferate.
+Fibrin, a biopolymer responsible for blood clot formation, has been shown to be
+suitable for tissue engineering applications. The aim of the present study is a
+comparison of platelet rich fibrin  PRF  with the commonly used collagen membrane
+BioGide  R   as a scaffold for human osteoblast cell seeding for bone tissue
+engineering. MATERIAL AND METHODS: Human osteoblasts were cultured with eluates
+from PRF  n = 7  and BioGide  R    n = 8  membranes incubated in serum free cell
+culture medium. Vitality of these cells was assessed by fluorescein diacetate and
+propidium iodide staining, biocompatibility with the lactate dehydrogenase test
+and proliferation levels with the MTT
+[3  4,5 Dimethylthiazol 2 yl  2,5 diphenyltetrazolium bromide] , and BrdU
+5 bromo 2 deoxyuridine  tests. In addition, human osteoblasts were seeded on
+both membrane systems and cell growth was compared by the water soluble
+tetrazolium  WST 1
+4 [3  4 iodophenyl  2  4 nitrophenyl  2H 5 tetrazolio] 1,3 benzene disulfonate
+test and scanning electron microscopy  SEM . Osteoblastic differentiation was
+assessed by alkaline phosphatase activity measured by ELISA in the supernatant of
+osteoblasts cultivated on PRF membranes  n = 10 , PRF clots  n = 10 , and
+BioGide  R   membranes  n = 10 . RESULTS: Lactate dehydrogenase test values were
+higher for PRF compared to BioGide  R   . The BrdU test showed superior cell
+growth after cultivation in eluate from PRF than in eluate from BioGide  R   .
+The WST 1 assay demonstrated superior cell proliferation on PRF than on
+BioGide  R   . SEM revealed osteoblast colonization of both membranes.
+Cultivation of osteoblasts on PRF membranes and PRF clots showed significantly
+higher alkaline phosphatase activity than on BioGide  R   membranes. CONCLUSION:
+Metabolic activity and proliferation of human osteoblast cells in vitro were
+supported to a significant higher extent by eluates from PRF membranes. Both
+membranes are suitable as scaffolds for cultivation of human osteoblast cells in
+vitro; proliferation was significant higher on PRF membranes and on PRF clot than
+on BioGide  R   membranes.

@@ -1,0 +1,26 @@
+2013 Nov
+In vitro evaluation of demineralized freeze dried bone allograft in combination
+with enamel matrix derivative.
+P BACKGROUND: Preclinical and clinical studies suggest that a combination of enamel
+matrix derivative  EMD  with demineralized freeze dried bone allograft  DFDBA
+may improve periodontal wound healing and regeneration. To date, no single study
+has characterized the effects of this combination on in vitro cell behavior. The
+aim of this study is to test the ability of EMD to adsorb to the surface of DFDBA
+particles and determine the effect of EMD coating on downstream cellular pathways
+such as adhesion, proliferation, and differentiation of primary human osteoblasts
+and periodontal ligament  PDL  cells. METHODS: DFDBA particles were precoated
+with EMD or human blood and analyzed for protein adsorption patterns via scanning
+electron microscopy. Cell attachment and proliferation were quantified using a
+commercial assay. Cell differentiation was analyzed using real time polymerase
+chain reaction for genes encoding Runx2, alkaline phosphatase, osteocalcin, and
+collagen 1alpha1, and mineralization was assessed using alizarinred staining.
+RESULTS: Analysis of cell attachment revealed no significant differences among
+control, blood coated, and EMD coated DFDBA particles. EMD significantly
+increased cell proliferation at 3 and 5 days after seeding for both osteoblasts
+and PDL cells compared to control and blood coated samples. Moreover, there were
+significantly higher messenger ribonucleic acid levels of osteogenic
+differentiation markers, including collagen 1alpha1, alkaline phosphatase, and
+osteocalcin, in osteoblasts and PDL cells cultured on EMD coated DFDBA particles
+at 3, 7, and 14 days. CONCLUSION: The results suggest that the addition of EMD to
+DFDBA particles may influence periodontal regeneration by stimulating PDL cell
+and osteoblast proliferation and differentiation.

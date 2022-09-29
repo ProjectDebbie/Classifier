@@ -1,0 +1,2 @@
+Finding host targets for HIV therapy.
+A CRISPR screen conducted in a CD4+ T cell leukemia line has identified host factors required for HIV infection but dispensable for cellular survival. The results highlight sulfation on the HIV co-receptor CCR5 and cellular aggregation as potential targets for therapeutic intervention.

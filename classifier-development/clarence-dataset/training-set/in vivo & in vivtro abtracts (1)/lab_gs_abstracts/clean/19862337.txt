@@ -1,0 +1,43 @@
+2009 Oct 17
+Reconstruction of a human hemicornea through natural scaffolds compatible with
+the growth of corneal epithelial stem cells and stromal keratocytes.
+P PURPOSE: To reconstruct a human hemicornea in vitro by means of limbal stem cells
+cultured onto human keratoplasty lenticules  HKLs  and to obtain a natural
+corneal graft for clinical applications. METHODS: Limbal stem cells were seeded
+onto HKLs with or without the presence of feeder layers of lethally irradiated
+3T3 J2 cells and compared with the current "gold standard" scaffold, i.e., the
+fibrin glue. The effects of the scaffold on the preservation of stemness and/or
+induction of differentiation pathways were investigated through analysis of a
+variety of markers, including p63 and DeltaNp63alpha for stemness, 14 3 3sigma
+for early differentiation, keratins 3, 14, 12, and 19 to determine cell
+phenotype, and alpha6, beta1, and beta4 integrins to evaluate interactions with
+the stroma. Integrity of the stroma was assessed through analysis of keratan
+sulfate, CD 34 and aldehyde dehydrogenase 3A1  ALDH3A1   for keratocytes , visual
+system homeobox 1  VSX1 , and alpha smooth muscle actin  alpha SMA   for
+fibroblasts and myofibroblasts . The structural properties of the reconstructed
+"hemicornea" were investigated through scanning electron microscopy. To evaluate
+the preservation of the stemness potential, cells were trypsinized from each
+scaffold and clonogenic/proliferative characteristics analyzed. RESULTS: Limbal
+stem cells expanded onto HKLs gave rise to a stratified squamous keratinized
+epithelium morphologically similar to that of normal corneas. The resulting
+corneal epithelium was characterized by basal expression of p63 and
+DeltaNp63alpha, while expression of 14 3 3sigma, keratin 3, and keratin 12 was
+found in the upper cell layers. The basal cuboidal epithelial cells were anchored
+to the basement membrane and expressed keratin 14 and alpha6, beta1, and beta4
+integrins. In the stroma of HKLs, keratocytes maintained the biosynthetic and
+phenotypic appearances typical of resting/quiescent cells and expressed keratan
+sulfate, CD 34, and ALDH3A1. Fibroblastic transformation was observed with the
+appearance of VSX1 and alpha SMA. Scanning electron microscopy analysis showed
+that HKLs maintained their native conformation with collagen fibrils
+interconnected to the network and parallel to the corneal surface. HKLs did not
+alter the clonogenic/proliferative capacity of limbal stem cells. No differences
+were seen when HKL was compared to fibrin glue, one of the scaffolds currently
+used for limbal stem cell transplantation. CONCLUSIONS: Our findings demonstrate
+that HKL could be a suitable scaffold for corneal epithelial stem cells as they
+were shown to proliferate, express differentiation markers, and bind to the
+underlying stroma with no alterations in clonogenic potential. HKLs have some
+advantages over currently used scaffolds, such as the possibility to allow cell
+growth with no feeder layers, to be freeze dried, and to preserve the integrity
+and viability of stromal keratocytes. The development of a tissue engineered
+"hemicornea" might offer new therapeutic perspectives to patients affected by
+total limbal stem cell deficiency with stromal scarring.

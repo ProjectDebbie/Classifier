@@ -1,0 +1,31 @@
+2017 May
+Surface enrichment with hydroxyapatite nanoparticles in
+stereolithography fabricated composite polymer scaffolds promotes bone repair.
+P Fabrication of composite scaffolds using stereolithography  SLA  for bone tissue
+engineering has shown great promises. However, in order to trigger effective bone
+formation and implant integration, exogenous growth factors are commonly combined
+to scaffold materials. In this study, we fabricated biodegradable composite
+scaffolds using SLA and endowed them with osteopromotive properties in the
+absence of biologics. First we prepared photo crosslinkable poly trimethylene
+carbonate   PTMC  resins containing 20 and 40wt% of hydroxyapatite  HA
+nanoparticles and fabricated scaffolds with controlled macro architecture. Then,
+we conducted experiments to investigate how the incorporation of HA in
+photo crosslinked PTMC matrices improved human bone marrow stem cells osteogenic
+differentiation in vitro and kinetic of bone healing in vivo. We observed that
+bone regeneration was significantly improved using composite scaffolds containing
+as low as 20wt% of HA, along with difference in terms of osteogenesis and degree
+of implant osseointegration. Further investigations revealed that SLA process was
+responsible for the formation of a rich microscale layer of HA corralling
+scaffolds. To summarize, this work is of substantial importance as it shows how
+the fabrication of hierarchical biomaterials via surface enrichment of functional
+HA nanoparticles in composite polymer stereolithographic structures could impact
+in vitro and in vivo osteogenesis. STATEMENT OF SIGNIFICANCE: This study reports
+for the first time the enhance osteopromotion of composite biomaterials, with
+controlled macro architecture and microscale distribution of hydroxyapatite
+particles, manufactured by stereolithography. In this process, the hydroxyapatite
+particles are not only embedded into an erodible polymer matrix, as reported so
+far in the literature, but concentrated at the surface of the structures. This
+leads to robust in vivo bone formation at low concentration of hydroxyapatite.
+The reported 3D self corralling composite architecture provides significant
+opportunities to develop functional biomaterials for bone repair and tissue
+engineering.

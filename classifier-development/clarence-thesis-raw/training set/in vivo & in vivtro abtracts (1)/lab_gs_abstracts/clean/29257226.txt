@@ -1,0 +1,29 @@
+2018 Jan
+Effects of oral implants with miR122modified cell sheets on rat bone marrow
+mesenchymal stem cells.
+P The aim of the present study was to regulate the transformation of bone marrow
+mesenchymal stem cells  BMMSCs  to osteoblasts to promote bone formation and
+osseointegration surrounding oral implants. BMMSCs were cultured using the whole
+bone marrow adherence method. Cell surface markers were detected by flow
+cytometry, and multilineage differentiation potential was detected by osteogenic
+and adipogenic tests. miR122modified cell sheets were prepared by nonviral
+transfection and complexed with microarc titanium oxide implants to construct a
+genemodified tissueengineered implant, with its surface morphology observed by
+scanning electron microscopy  SEM . In vitro osteogenic activity of the implant
+was determined by alkaline phosphatase  ALP , Sirius Red, alizarin red staining,
+polymerase chain reaction and western blot analysis. The BMMSCs were spindle or
+triangularshaped. Surface markers, cluster of differentiation 29  CD29 , CD90 and
+CD105 were positively expressed, whereas blood cell markers CD34, CD45 and CD31
+were negatively expressed. Osteogenic staining exhibited deposition of calcified
+nodules, while adipogenic staining demonstrated the formation of lipid droplets.
+miR122 modification significantly enhanced the in vitro osteogenic activity of
+the sheets. On day 3 of osteogenic induction, runt related transcription factor
+2, osterix, osteocalcin, collagen I, ALP and bone morphogenetic protein 2
+expression levels of the experimental group were 2.0, 3.1, 4.6, 3.2, 10.5 and 4.5
+times those of the blank control group, respectively. SEM imaging of the modified
+sheet demonstrated close adhesion and fitting between abundant cellular and
+extracellular matrices, and the porous surface of the implant. In vitro
+osteogenesis of the complex was promoted and accelerated. Thus, miR122
+effectively promoted osteogenic differentiation of the BMMSC sheet. Therefore, it
+is feasible to construct genemodified tissueengineered implants by complexing
+miR122modified sheets with microarc titanium oxide implants.

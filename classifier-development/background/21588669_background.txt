@@ -1,0 +1,2 @@
+4-Phenyl-2,6-bis-(4-tol-yl)pyridine.
+The title mol-ecule, C(25)H(21)N, situated on the crystallographic twofold axis has a symmetry point group 2. The inter-planar angles between the central pyridyl ring and the phenyl and the methyl-phenyl rings are 32.8 (2) and 23.7 (2)°, respectively. In the crystal packing, the central pyridyl rings of adjacent mol-ecules are involved in π-π inter-actions, forming one-dimensional arrays along the c axis with centroid-centroid distances of 3.714 (1) Å.

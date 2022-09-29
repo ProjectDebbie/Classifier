@@ -1,0 +1,2 @@
+65-fs Yb-doped fiber laser system with gain-narrowing compensation.
+We report a broadband Yb-doped fiber laser system with a gain-narrowing compensator comprised of multiple dielectric layers. Utilizing this filter, we obtained broadband pulses over a bandwidth of 1020-1080 nm directly from the amplifier. After the dispersion compensation, the chirped pulse amplification system delivered 65-fs pulses with energies of 100 nJ and a repetition rate of 3 MHz. 

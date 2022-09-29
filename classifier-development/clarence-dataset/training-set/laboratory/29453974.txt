@@ -1,0 +1,30 @@
+2018 Jun 1
+Genetically modified bone mesenchymal stem cells with TGF beta3 improve wound
+healing and reduce scar tissue formation in a rabbit model.
+P Extensive scar tissue formation often occurs after severe burn injury, trauma, or
+as one of complications after surgical intervention. Despite significant
+therapeutic advances, it is still a significant challenge to manage massive scar
+tissue formation while also promoting normal wound healing. The goal of this
+study was to investigate the therapeutic effect of bone mesenchymal stem cells
+BMSCs  that were genetically modified to overexpress transforming growth
+factor beta 3  TGF beta3 , an inhibitor of myofibroblast proliferation and
+collagen type I deposition, on full thickness cutaneous wound healing in a rabbit
+model. Twenty four rabbits with surgically induced full thickness cutaneous
+wounds created on the external ear  1.5x1.5cm, two wounds/ear  were randomized
+into four groups:  G1 , wounds with no special treatment but common serum free
+culture medium as negative controls;  G2 , topically applied recombinant
+adenovirus, expressing TGF beta3/GFP;  G3 , topically applied BMSCs alone;  G4 ,
+topically applied BMSCs transfected with Ad TGF beta3/GFP  BMSCs TGF beta3  ; and
+G5 , an additional normal control  n= 2  with neither wound nor treatment on the
+external ear skin. The sizes of wounds on the ear tissues were grossly examined,
+and the scar depth and density of wounds were histologically evaluated 21, 45,
+and 90 days after surgical wound creation. Our results demonstrated that G4
+significantly reduced the wound scar depth and density, compared to G1~3. Numbers
+of cells expressing GFP significantly increased in G4, compared to G2. The
+protein expression of TGF beta3 and type III collagen in G4 significantly
+increased, while the ratio of type I to type III collagen was also significantly
+reduced, which is similar to the tissue architecture found in G5, as compared the
+other treatment groups. In conclusion, transplantation of BMSCs TGF beta3
+remarkably improves wound healing and reduces skin scar tissue formation in an
+animal model, which may potentially provide an alternative in the treatment of
+extensive scar tissue formation after soft tissue injury.

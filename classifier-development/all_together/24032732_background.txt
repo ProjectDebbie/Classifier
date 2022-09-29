@@ -1,0 +1,2 @@
+A new HLA-DPB1 allele, HLA-DPB1*142:01, identified in a Peruvian organ donor.
+The new HLA-DPB1*142:01 allele differs from DPB1*26:01:02 and DPB1*56:01 at codons 65 (I65>L65) and 35 (F35>Y35), respectively. 

@@ -1,0 +1,19 @@
+2013
+Hepatocyte growth factor loaded biomaterials for mesenchymal stem cell
+recruitment.
+P Human adult mesenchymal stem cells  MSC  can be readily harvested from bone
+marrow through aspiration. MSC are involved in tissue regeneration and repair,
+particularly in wound healing. Due to their high self renewal capacity and
+excellent differentiation potential in vitro, MSC are ideally suited for
+regenerative medicine. The complex interactions of MSC with their environment and
+their influence on the molecular and functional levels are widely studied but not
+completely understood. MSC secrete, for example, hepatocyte growth factor  HGF ,
+whose concentration is enhanced in wounded areas and which is shown to act as a
+chemoattractant for MSC. We produced HGF loaded biomaterials based on collagen
+and fibrin gels to develop a recruitment system for endogenous MSC to improve
+wound healing. Here, we report that HGF incorporated into collagen or fibrin gels
+leads to enhanced and directed MSC migration in vitro. HGF loaded biomaterials
+might be potentially used as in vivo wound dressings to recruit endogenous MSC
+from tissue specific niches towards the wounded area. This novel approach may
+help to reduce costly multistep procedures of cell isolation, in vitro culture,
+and transplantation usually used in tissue engineering.

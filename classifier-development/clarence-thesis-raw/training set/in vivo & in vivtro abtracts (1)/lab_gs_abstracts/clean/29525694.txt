@@ -1,0 +1,26 @@
+2018 Jun
+Gradient coatings of strontium hydroxyapatite/zinc beta tricalcium phosphate as a
+tool to modulate osteoblast/osteoclast response.
+P The chemistry, structure and morphology of the implant surface have a great
+influence on the integration of an implant material with bone tissue. In this
+work, we applied Combinatorial Matrix Assisted Pulsed Laser Evaporation  C MAPLE
+to deposit gradient thin films with variable compositions of Sr substituted
+hydroxyapatite  SrHA  and Zn substituted beta tricalcium phosphate  ZnTCP  on
+Titanium substrates. Five samples with different SrHA/ZnTCP composition ratios
+were fabricated by a single step laser procedure. SrHA was synthesized in aqueous
+medium, whereas ZnTCP was obtained by reaction at high temperature. Both powders
+were separately suspended in deionized water, frozen at liquid nitrogen
+temperature and used as targets for C MAPLE experiments, which proceed via
+simultaneous laser vaporization of two distinct material targets. X ray
+diffraction, scanning electron microscopy and energy dispersive X ray
+spectroscopy analyses confirmed that the coatings contain the same crystalline
+phases as the as prepared powder samples, with a homogeneous distribution of the
+two phosphates along deposited thin films. Human osteoclast precursor 2T 110 and
+human osteoblast like cells MG63 were co cultured on the coatings. The results
+indicate that osteoblast viability and production of osteocalcin were promoted by
+the presence of ZnTCP. On the other hand, SrHA inhibited osteoclastogenesis and
+osteoclast differentiation, as demonstrated by the observed increase of the
+osteoprotegerin/RANKL ratio and decrease of the number of TRAP positive
+multinucleated cells when increasing SrHA amount in the coatings. The results
+indicate that the possibility to tailor the composition of the coatings provides
+materials able to modulate bone growth and bone resorption.

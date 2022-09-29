@@ -1,0 +1,25 @@
+2017
+Osteogenic differentiation of mesenchymal stem cells cultured on PLLA scaffold
+coated with Wharton's Jelly.
+P Poly L lactic acid  PLLA  electrospun nanofiber scaffold is one of the most
+commonly used synthetic polymer scaffolds for bone tissue engineering
+application. However, PLLA is hydrophobic in nature, hence does not maintain
+proper cell adhesion and tissue formation, moreover, it cannot provide the
+osteo inductive environment due to inappropriate surface characteristic and the
+lack of surface motives participating in the first cellular events. To modify
+these shortcomings different approaches have been used, among those the most
+commonly used one is coating of the surface of the electrospun nanofiber with
+natural materials. In this work Wharton's jelly  WJ , a tissue which surrounds
+the umbilical cord vessels, reaches in high amounts of extracellular matrix  ECM
+components mainly; collagen, hyaluronic acid and several sulphated
+glycosaminoglycans  GAGs  were used to cover the surface of electrospun PLLA
+nanofiber scaffolds. The surface morphology of the nanofiber scaffold was
+evaluated via scanning electron microscope, and the in vitro osteogenic
+differentiation potential was determined by MTT assay and common osteogenic
+marker tests such as alkaline phosphatase  ALP  activity and calcium deposition
+tests. Coating of WJ could not change the surface morphology and diameter of the
+nanofibers. However, WJ PLLA scaffolds showed higher proliferation of human
+mesenchymal stem cells  MSC  than tissue culture plate  TCP  and pristine PLLA
+scaffolds, moreover, WJ PPLA scaffold demonstrated significant alkaline
+phosphatase activity and calcium mineralization than either TCP or PLLA nanofiber
+scaffolds.

@@ -1,0 +1,2 @@
+EPR detection and characterisation of a paramagnetic Mo(iii) dihydride intermediate involved in electrocatalytic hydrogen evolution.
+EPR spectroscopy and theoretical data show that the slow heterogeneous electron-transfer kinetics associated with the reduction of an 18-electron Mo(IV) acetato dihydride are a consequence of an η(2)-η(1) rearrangement of the carboxylate ligand which gives a unique paramagnetic 17-electron Mo(III) dihydride.

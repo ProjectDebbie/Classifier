@@ -1,0 +1,20 @@
+2006 Dec
+Viability study of HL60 cells in contact with commonly used microchip materials.
+P This paper presents a study in which different commonly used microchip materials
+silicon oxide, borosilicate glass, and PDMS  were analyzed for their effect on
+human promyelocytic leukemic  HL60  cells. Copper coated silicon was analyzed for
+its toxicity and therefore served as a positive control. With quantitative PCR,
+the expression of the proliferation marker Cyclin D1 and the apoptosis marker
+tissue transglutaminase were measured. Flow cytometry was used to analyze the
+distribution through the different phases of the cell cycle  propidium iodide,
+PI  and the apoptotic cascade  Annexin V in combination with PI . All microchip
+materials, with the exception of Cu, appeared to be suitable for HL60 cells,
+showing a ratio apoptosis/proliferation  R ap   comparable to materials used in
+conventional cell culture  polystyrene . These results were confirmed with cell
+cycle analysis and apoptosis studies. Precoating the microchip material surfaces
+with serum favor the proliferation, as demonstrated by a lower R ap  as compared
+to uncoated surfaces. The Cu coated surface appeared to be toxic for HL60 cells,
+showing over 90% decreased viability within 24 h. From these results, it can be
+concluded that the chosen protocol is suitable for selection of the cell culture
+material, and that the most commonly used microchip materials are compatible with
+HL60 culturing.

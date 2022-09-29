@@ -1,0 +1,2 @@
+[Research progress of joint kinematics and kinetics].
+The development process of joint kinematics and kinetics is expatiated from the aspects of technology and method. Firstly, the classical mechanics-based methods are introduced. Secondly, the computer assisted methods are analyzed from the technical aspects of video tracking, fluoroscopy and MR imaging separately. Then the assistance of robotic technique in this field is discussed. Finally the potential trend in the joint kinematics and kinetics is concluded.

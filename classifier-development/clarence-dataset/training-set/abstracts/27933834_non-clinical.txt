@@ -1,0 +1,30 @@
+2016 Nov 30
+Alginate Bead Based Hexagonal Close Packed 3D Implant for Bone Tissue
+Engineering.
+P Success of bone tissue engineering  BTE  relies on the osteogenic
+microarchitecture of the biopolymeric scaffold and appropriate spatiotemporal
+distribution of therapeutic molecules  growth factors and drugs  inside it.
+However, the existing technologies have failed to address both the issues
+together. Keeping this perspective in mind, we have developed a novel
+three dimensional  3D  implant prototype by stacking hexagonal close packed  HCP
+layers of calcium alginate beads. The HCP arrangement of the beads lead to a
+patterned array of interconnected tetrahedral and octahedral pores of average
+diameter of 142.9 and 262.9 mum, respectively, inside the implant. The swelling
+pattern of the implants changed from isotropic to anisotropic in the z direction
+in the absence of bivalent calcium ions  Ca 2+   in the swelling buffer.
+Incubation of the implant in simulated body fluid  SBF  resulted in a 2.7 fold
+increase in the compressive modulus. The variation in the relaxation times as
+derived from the Weichert viscoelasticity model predicted a gradual increase in
+the interactions among the alginate molecules in the matrix. We demonstrated the
+tunability of the spatiotemporal drug release from the implant in a tissue
+mimicking porous semisolid matrix as well as in conventional drug release set up
+by changing the spatial coordinates of the "drug loaded depot layer" inside the
+implant. The therapeutic potential of the implant was confirmed against
+Escherichia coli using metronidazole as the model drug. Detailed analysis of cell
+viability, cell cycle progression, and cytoskeletal reorganization using
+osteoblast cells  MG 63  proved the osteoconductive nature of the implant.
+Expression of differentiation markers such as alkaline phosphatase, runx2, and
+collagen type 1 in human mesenchymal stem cell in vitro confirmed the osteogenic
+nature of the implant. When tested in vivo, VEGF loaded implant was found capable
+of inducing angiogenesis in a mice model. In conclusion, the bead based implant
+may find its utility in non load bearing BTE.

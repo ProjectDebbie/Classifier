@@ -1,0 +1,32 @@
+2014
+Electrospun fibrous scaffolds combined with nanoscale hydroxyapatite induce
+osteogenic differentiation of human periodontal ligament cells.
+P Periodontal repair is a complex process in which regeneration of alveolar bone is
+a vital component. The aim of this study was to develop a biodegradable scaffold
+with good biocompatibility and osteoinductive ability. Two types of composite
+fibrous scaffolds were produced by electrospinning, ie, type I
+collagen/poly epsilon caprolactone   COL/PCL  and type I
+collagen/poly epsilon caprolactone /nanoscale hydroxyapatite  COL/PCL/nHA  with
+an average fiber diameter of about 377 nm. After a simulated body fluid  SBF
+immersion test, the COL/PCL/nHA SBF scaffold developed a rough surface because of
+the calcium phosphate deposited on the fibers, suggesting that the presence of
+nHA promoted the mineralization potential of the scaffold. Energy dispersive
+X ray spectroscopy clearly showed the calcium and phosphorus content in the
+COL/PCL/nHA and COL/PCL/nHA SBF scaffolds, confirming the findings of nHA and
+calcium phosphate precipitation on scanning electron micrographs. Water contact
+analysis revealed that nHA could improve the hydrophilic nature of the
+COL/PCL/nHA SBF scaffold. The morphology of periodontal ligament cells cultured
+on COL/PCL SBF and COL/PCL/nHA SBF was evaluated by scanning electron microscopy.
+The results showed that cells adhered to either type of scaffold and were
+slightly spindle shaped in the beginning, then extended gradually with stretched
+filopodia, indicating an ability to fill the fiber pores. A Cell Counting Kit 8
+assay showed that both scaffolds supported cell proliferation. However, real time
+quantitative polymerase chain reaction analysis showed that expression of the
+bone related markers, alkaline phosphatase and osteocalcin, was upregulated only
+on the COL/PCL/nHA SBF scaffold, indicating that this scaffold had the ability to
+induce osteogenic differentiation of periodontal ligament cells. In this study,
+COL/PCL/nHA SBF produced by electrospinning followed by biomimetic mineralization
+had combined electrospun fibers with nHA in it. This scaffold has good
+biocompatibility and osteoinductive ability as a result of the characteristics of
+nHA, so could be innovatively applied to periodontal tissue engineering as a
+potential scaffold.

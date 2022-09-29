@@ -1,0 +1,29 @@
+2014 Oct 2
+Human urine derived stem cells in combination with polycaprolactone/gelatin
+nanofibrous membranes enhance wound healing by promoting angiogenesis.
+P BACKGROUND: Despite advancements in wound healing techniques and devices, new
+treatments are needed to improve therapeutic outcomes. This study aimed to
+evaluate the potential use of a new biomaterial engineered from human
+urine derived stem cells  USCs  and polycaprolactone/gelatin  PCL/GT  for wound
+healing. METHODS: USCs were isolated from healthy individuals. To fabricate
+PCL/GT composite meshes, twin nozzle electrospinning were used to spin the PCL
+and gelatin solutions in normal organic solvents. The morphologies and
+hydrophilicity properties of PCL/GT membranes were investigated. After USCs were
+seeded onto a PCL/GT, cell adhesion, morphology, proliferation, and cytotoxicity
+were examined. Then, USCs were seeded on a PCL/GT blend nanofibrous membrane and
+transplanted into rabbit full thickness skin defects for wound repair. Finally,
+the effect of USCs condition medium on proliferation, migration, and tube
+formation of human umbilical vein endothelial cells  HUVECs  were performed in
+vitro. RESULTS: USCs were successfully isolated from urine samples and expressed
+specific mesenchymal stem cells markers and could differentiate into osteoblasts,
+adipocytes, and chondrocytes. PCL/GT membrane has suitable mechanical properties
+similar with skin tissue and has good biocompatibility. USCs PCL/GT significantly
+enhanced the healing of full thickness skin wounds in rabbits compared to wounds
+treated with PCL/GT membrane alone or untreated wounds. USCs PCL/GT treated
+wounds closed much faster, with increased re epithelialization, collagen
+formation, and angiogenesis. Moreover, USCs could secrete VEGF and TGF beta1, and
+USC conditioned medium enhanced the migration, proliferation, and tube formation
+of endothelial cells. CONCLUSION: USCs in combination with PCL/GT significantly
+prompted the healing of full thickness skin wounds in rabbits. USCs based therapy
+provides a novel strategy for accelerating wound closure and promoting
+angiogenesis.
