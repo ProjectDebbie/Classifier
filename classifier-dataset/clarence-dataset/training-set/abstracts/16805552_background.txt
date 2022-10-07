@@ -1,0 +1,2 @@
+Asymmetric gamma-deprotonation and homoaldol reaction of 1,3-dien-2-yl carbamates: stereo- and regiochemistry.
+[reaction: see text] Lithium compounds 7 are configurationally stable intermediates obtained by deprotonation of 1,3-dien-2-yl carbamates 6 with n-butyllithium/(-)-sparteine with a high degree of enantiotopic differentiation at the gamma-position. They react with electrophiles regioselectively giving highly enantioenriched products. Starting with different isomers or changing the double-bond geometries in 6 leads to either of the enantiomers.

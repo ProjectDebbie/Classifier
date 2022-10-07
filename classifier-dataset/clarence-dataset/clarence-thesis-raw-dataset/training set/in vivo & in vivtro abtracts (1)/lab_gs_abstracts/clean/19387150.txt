@@ -1,0 +1,25 @@
+2009 May
+Composite tissue engineering on polycaprolactone nanofiber scaffolds.
+P Tissue engineering has largely focused on single tissue type reconstruction  such
+as bone ; however, the basic unit of healing in any clinically relevant scenario
+is a compound tissue type  such as bone, periosteum, and skin . Nanofibers are
+submicron fibrils that mimic the extracellular matrix, promoting cellular
+adhesion, proliferation, and migration. Stem cell manipulation on nanofiber
+scaffolds holds significant promise for future tissue engineering. This work
+represents our initial efforts to create the building blocks for composite tissue
+reflecting the basic unit of healing. Polycaprolactone  PCL  nanofibers were
+electrospun using standard techniques. Human foreskin fibroblasts, murine
+keratinocytes, and periosteal cells  4 mm punch biopsy  harvested from children
+undergoing palate repair were grown in appropriate media on PCL nanofibers. Human
+fat derived mesenchymal stem cells were osteoinduced on PCL nanofibers. Cell
+growth was assessed with fluorescent viability staining; cocultured cells were
+differentiated using antibodies to fibroblast  and keratinocyte specific surface
+markers. Osteoinduction was assessed with Alizarin red S. PCL nanofiber scaffolds
+supported robust growth of fibroblasts, keratinocytes, and periosteal cells.
+Cocultured periosteal cells  with fibroblasts  and keratinocytes showed improved
+longevity of the keratinocytes, though growth of these cell types was randomly
+distributed throughout the scaffold. Robust osteoinduction was noted on PCL
+nanofibers. Composite tissue engineering using PCL nanofiber scaffolds is
+possible, though the major obstacles to the trilaminar construct are maintaining
+an appropriate interface between the tissue types and neovascularization of the
+composite structure.

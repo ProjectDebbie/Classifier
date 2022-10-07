@@ -1,0 +1,25 @@
+2013 Jul 1
+Fabrication and in vitro evaluation of a sponge like bioactive glass/gelatin
+composite scaffold for bone tissue engineering.
+P In this work a bioactive composite scaffold, comprised of bioactive glass and
+gelatin, is introduced. Through direct foaming a sponge like composite of a
+sol gel derived bioactive glass  70S30C; 70% SiO2, 30% CaO  and porcine gelatin
+was developed for use as a biodegradable scaffold for bone tissue engineering.
+The composite was developed to provide a suitable alternative to synthetic
+polymer based scaffolds, allowing directed regeneration of bone tissue. The
+fabricated scaffold was characterised through X ray microtomography, scanning
+electron and light microscopy demonstrating a three dimensionally porous and
+interconnected structure, with an average pore size  170 mum  suitable for
+successful cell proliferation and tissue ingrowth. Acellular bioactivity was
+assessed through apatite formation during submersion in simulated body fluid
+SBF  whereby the rate and onset of apatite nucleation was found to be comparable
+to that of bioactive glass. Modification of dehydrothermal treatment parameters
+induced varying degrees of crosslinking, allowing the degradation of the
+composite to be tailored to suit specific applications and establishing its
+potential for a wide range of applications. Use of genipin to supplement
+crosslinking by dehydrothermal treatment provided further means of modifying
+degradability. Biocompatibility of the composite was qualified through successful
+cultures of human dental pulp stem cells  HDPSCs  on samples of the composite
+scaffold. Osteogenic differentiation of HDPSCs and extracellular matrix
+deposition were confirmed through positive alkaline phosphatase staining and
+immunohistochemistry.

@@ -1,0 +1,51 @@
+2018 Jun 15
+[Effect of chitosan porous scaffolds combined with bone marrow mesenchymal stem
+cells in repair of neurological deficit after traumatic brain injury in rats].
+P Objective: To investigate the possibility and effect of chitosan porous scaffolds
+combined with bone marrow mesenchymal stem cells  BMSCs  in repair of
+neurological deficit after traumatic brain injury  TBI  in rats. Methods: BMSCs
+were isolated, cultured, and passaged by the method of bone marrow adherent
+culture. The 3rd generation BMSCs were identified by the CD29 and CD45 surface
+antigens and marked by 5 bromo 2 deoxyuridine  BrdU . The chitosan porous
+scaffolds were produced by the method of freeze drying. The BrdU labelled BMSCs
+were co cultured in vitro with chitosan porous scaffolds, and were observed by
+scanning electron microscopy. MTT assay was used to observe the cell growth
+within the scaffold. Fifty adult Sprague Dawley rats were randomly divided into 5
+groups with 10 rats in each group. The rat TBI model was made in groups A, B, C,
+and D according to the principle of Feeney's free fall combat injury. Orthotopic
+transplantation was carried out at 72 hours after TBI. Group A was the BMSCs and
+chitosan porous scaffolds transplantation group; group B was the BMSCs
+transplantation group; group C was the chitosan porous scaffolds transplantation
+group; group D was the complete medium transplantation group; and group E was
+only treated with scalp incision and skull window as sham operation group. Before
+TBI and at 1, 7, 14, and 35 days after TBI, the modified neurological severity
+scores  mNSS  was used to measure the rats' neurological function. The Morris
+water maze tests were used after TBI, including the positioning voyage test  the
+incubation period was detected at 31 35 days after TBI, once a day  and the space
+exploration test  the number of crossing detection platform was detected at 35
+days after TBI . At 36 days after TBI, HE staining and immunohistochemistry
+double staining [BrdU and neurofilament triplet H  NF H  immunohistochemistry
+double staining, and BrdU and glial fibrillary acidic protein  GFAP
+immunohistochemistry double staining] were carried out to observe the
+transplanted BMSCs' migration and differentiation in the damaged brain areas.
+Results: Flow cytometry test showed that the positive rate of CD29 of the 3rd
+generation BMSCs was 98.49%, and the positive rate of CD45 was only 0.85%. After
+co cultured with chitosan porous scaffolds in vitrofor 48 hours, BMSCs were
+spindle shaped and secreted extracellular matrix to adhere in the scaffolds. MTT
+assay testing showed that chitosan porous scaffolds had no adverse effects on the
+BMSCs' proliferation. At 35 days after TBI, the mNSS scores and the incubation
+period of positioning voyage test in group A were lower than those in groups B,
+C, and D, and the number of crossing detection platform of space exploration test
+in group A was higher than those in groups B, C, and D, all showing significant
+differences   P<0.05 ; but no significant difference was found between groups A
+and E in above indexes   P>0.05 . HE staining showed that the chitosan porous
+scaffolds had partially degraded, and they integrated with brain tissue well in
+group A; the degree of repair in groups B, C, and D were worse than that of group
+A. Immunohistochemical double staining showed that the transplanted BMSCs could
+survive and differentiate into neurons and glial cells, some differentiated
+neural cells had relocated at the normal brain tissue; the degree of repair in
+groups B, C, and D were worse than that of group A. Conclusion: The
+transplantation of chitosan porous scaffolds combined with BMSCs can improve the
+neurological deficit of rats following TBI obviously, and also inhabit the glial
+scar's formation in the brain damage zone, and can make BMSCs survive,
+proliferate, and differentiate into nerve cells in the brain damage zone.

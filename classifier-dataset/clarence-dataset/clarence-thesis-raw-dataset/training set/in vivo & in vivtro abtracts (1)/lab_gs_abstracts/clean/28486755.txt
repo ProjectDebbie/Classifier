@@ -1,0 +1,27 @@
+2018 Feb
+Mechanical stimulations on human bone marrow mesenchymal stem cells enhance cells
+differentiation in a three dimensional layered scaffold.
+P Scaffolds laden with stem cells are a promising approach for articular cartilage
+repair. Investigations have shown that implantation of artificial matrices,
+growth factors or chondrocytes can stimulate cartilage formation, but no existing
+strategies apply mechanical stimulation on stratified scaffolds to mimic the
+cartilage environment. The purpose of this study was to adapt a spraying method
+for stratified cartilage engineering and to stimulate the biosubstitute. Human
+mesenchymal stem cells from bone marrow were seeded in an alginate
+Alg /hyaluronic acid  HA  or Alg/hydroxyapatite  Hap  gel to direct cartilage
+and hypertrophic cartilage/subchondral bone differentiation, respectively, in
+different layers within a single scaffold. Homogeneous or composite stratified
+scaffolds were cultured for 28 days and cell viability and differentiation were
+assessed. The heterogeneous scaffold was stimulated daily. The mechanical
+behaviour of the stratified scaffolds were investigated by plane strain
+compression tests. Results showed that the spraying process did not affect cell
+viability. Moreover, cell differentiation driven by the microenvironment was
+increased with loading: in the layer with Alg/HA, a specific extracellular matrix
+of cartilage, composed of glycosaminoglycans and type II collagen was observed,
+and in the Alg/Hap layer more collagen X was detected. Hap seemed to drive cells
+to a hypertrophic chondrocytic phenotype and increased mechanical resistance of
+the scaffold. In conclusion, mechanical stimulations will allow for the
+production of a stratified biosubstitute, laden with human mesenchymal stem cells
+from bone marrow, which is capable in vivo to mimic all depths of chondral
+defects, thanks to an efficient combination of stem cells, biomaterial
+compositions and mechanical loading.

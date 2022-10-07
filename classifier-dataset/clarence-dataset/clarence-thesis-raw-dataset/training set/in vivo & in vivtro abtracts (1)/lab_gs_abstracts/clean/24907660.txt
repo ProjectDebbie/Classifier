@@ -1,0 +1,30 @@
+2014 Oct
+Evaluation of skeletal tissue repair, part 2: enhancement of skeletal tissue
+repair through dual growth factor releasing hydrogels within an ex vivo chick
+femur defect model.
+P There is an unmet need for improved, effective tissue engineering strategies to
+replace or repair bone damaged through disease or injury. Recent research has
+focused on developing biomaterial scaffolds capable of spatially and temporally
+releasing combinations of bioactive growth factors, rather than individual
+molecules, to recapitulate repair pathways present in vivo. We have developed an
+ex vivo embryonic chick femur critical size defect model and applied the model in
+the study of novel extracellular matrix  ECM  hydrogel scaffolds containing
+spatio temporal combinatorial growth factor releasing microparticles and skeletal
+stem cells for bone regeneration. Alginate/bovine bone ECM  bECM  hydrogels
+combined with poly d,l lactic co glycolic acid   PDLLGA /triblock copolymer
+10 30% PDLLGA PEG PLDLGA  microparticles releasing dual combinations of vascular
+endothelial growth factor  VEGF , chondrogenic transforming growth factor beta 3
+TGF beta3  and the bone morphogenetic protein BMP2, with human adult Stro 1+bone
+marrow stromal cells  HBMSCs , were placed into 2mm central segmental defects in
+embryonic day 11 chick femurs and organotypically cultured. Hydrogels loaded with
+VEGF combinations induced host cell migration and type I collagen deposition.
+Combinations of TGF beta3/BMP2, particularly with Stro 1+HBMSCs, induced
+significant formation of structured bone matrix, evidenced by increased Sirius
+red stained matrix together with collagen expression demonstrating birefringent
+alignment within hydrogels. This study demonstrates the successful use of the
+chick femur organotypic culture system as a high throughput test model for
+scaffold/cell/growth factor therapies in regenerative medicine. Temporal release
+of dual growth factors, combined with enriched Stro 1+HBMSCs, improved the
+formation of a highly structured bone matrix compared to single release
+modalities. These studies highlight the potential of a unique alginate/bECM
+hydrogel dual growth factor release platform for bone repair.

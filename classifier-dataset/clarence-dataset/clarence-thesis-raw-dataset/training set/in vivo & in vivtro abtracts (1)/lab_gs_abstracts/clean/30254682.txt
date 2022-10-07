@@ -1,0 +1,26 @@
+2018
+Osteogenic Potential of Human Umbilical Cord Mesenchymal Stem Cells on Coralline
+Hydroxyapatite/Calcium Carbonate Microparticles.
+P Coralline hydroxyapatite/calcium carbonate  CHACC  is a biodegradable and
+osteoconductive bone graft material with promising clinical performance. CHACC
+has been shown to support proliferation and osteogenic differentiation of human
+bone marrow mesenchymal stem cells  MSCs  in vitro and demonstrated to work as a
+functional scaffold for bone formation in vivo. Umbilical cord matrix is a more
+accessible and abundant tissue source of MSCs, but its osteogenic capacity in
+comparison to human bone marrow when cultured on CHACC has not yet been
+demonstrated. In this study, we assessed the osteogenic differentiation capacity
+of human MSCs, isolated from bone marrow and umbilical cord matrix and
+characterised by flow cytometry, when cultured on 200 300 mum CHACC granules. The
+3D cultures were characterised by brightfield and scanning electron microscopy
+SEM . Osteogenic potential was assessed by immunocytochemistry and qPCR for key
+markers of bone differentiation  alkaline phosphatase, runx2, type I collagen,
+and osteocalcin . By day 1, the MSCs had enveloped the surface of the CHACC
+granules to form organoids, and by day 7, cells had proliferated to bridge nearby
+organoids. Extracellular matrix deposition and osteogenic differentiation were
+demonstrated by MSCs from both tissue sources at day 21. However, MSCs from bone
+marrow demonstrated superior osteogenic differentiation capability compared to
+those from umbilical cord matrix. In conclusion, it is possible to culture and
+induce osteogenic differentiation of umbilical cord matrix MSCs on CHACC. Further
+research is required to optimise the osteogenicity of umbilical cord matrix MSCs
+to release their full potential as a readily available, accessible, and abundant
+tissue source for bone tissue engineering.

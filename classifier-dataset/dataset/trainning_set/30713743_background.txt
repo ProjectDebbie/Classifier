@@ -1,0 +1,2 @@
+Crystal structure of 4-[(adamantan-1-yl)amino]-naphthalene-1,2-dione.
+The title compound, C20H21NO2, an example of a stable 1,2-naphtho-quinone, was determined by single-crystal X-ray diffraction analysis at 100 K. This structure illustrates steric buttressing of the adamantanyl group, forcing the N-H group into the coplanar aromatic C-H. The presence of strong delocalization between the planar N atom at the 4-position and the carbonyl group at the 2-position is indicated. In the crystal, C-H⋯O and C-H⋯π inter-actions link the mol-ecules into a three-dimensional network.

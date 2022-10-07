@@ -1,0 +1,2 @@
+Automated extraction of free-text from pathology reports.
+Manually populating a cancer registry from free-text pathology reports is labor intensive and costly. This poster describes a method of automated text extraction to improve the efficiency of this process and reduce cost. FineTooth, a software company, provides an automated service to the Fred Hutchinson Cancer Research Center (FHCRC) to help populate their breast and prostate cancer clinical research database by electronically abstracting over 80 data fields from pathology text reports.

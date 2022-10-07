@@ -1,0 +1,23 @@
+2010 Jun
+Fabricating a pearl/PLGA composite scaffold by the low temperature deposition
+manufacturing technique for bone tissue engineering.
+P Here we developed a composite scaffold of pearl/poly lactic co glycolic acid
+pearl/PLGA  utilizing the low temperature deposition manufacturing  LDM . LDM
+makes it possible to fabricate scaffolds with designed microstructure and
+macrostructure, while keeping the bioactivity of biomaterials by working at a low
+temperature. Process optimization was carried out to fabricate a mixture of pearl
+powder, PLGA and 1,4 dioxane with the designed hierarchical structures, and
+freeze dried at a temperature of  40 degrees C. Scaffolds with square and
+designated bone shape were fabricated by following the 3D model. Marrow stem
+cells  MSCs  were seeded on the pearl/PLGA scaffold and then cultured in a
+rotating cell culture system. The adhesion, proliferation and differentiation of
+MSCs into osteoblasts were determined using scanning electronic microscopy, WST 1
+assay, alkaline phosphatase activity assay, immunofluorescence staining and
+real time reverse transcription polymerase chain reaction. The results showed
+that the composite scaffold had high porosity  81.98 +/  3.75% , proper pore size
+micropores: <10 microm; macropore: 495 +/  54 microm  and mechanical property
+compressive strength: 0.81 +/  0.04 MPa; elastic modulus: 23.14 +/  0.75 MPa .
+The pearl/PLGA scaffolds exhibited better biocompatibility and osteoconductivity
+compared with the tricalcium phosphate/PLGA scaffold. All these results indicate
+that the pearl/PLGA scaffolds fulfill the basic requirements of bone tissue
+engineering scaffold.

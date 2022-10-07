@@ -1,0 +1,31 @@
+2017 Dec
+*  Calvarial Bone Regeneration Is Enhanced by Sequential Delivery of FGF 2 and
+BMP 2 from Layer by Layer Coatings with a Biomimetic Calcium Phosphate Barrier
+Layer.
+P A drug delivery coating for synthetic bone grafts has been developed to provide
+sequential delivery of multiple osteoinductive factors to better mimic aspects of
+the natural regenerative process. The coating is composed of a biomimetic calcium
+phosphate  bCaP  layer that is applied to a synthetic bone graft and then covered
+with a poly l Lysine/poly l Glutamic acid polyelectrolyte multilayer  PEM  film.
+Bone morphogenetic protein 2  BMP 2  was applied before the coating process
+directly on the synthetic bone graft and then, bCaP PEM was deposited followed by
+adsorption of fibroblast growth factor 2  FGF 2  into the PEM layer. Cells access
+the FGF 2 immediately, while the bCaP PEM temporally delays the cell access to
+BMP 2. In vitro studies with cells derived from mouse calvarial bones
+demonstrated that Sca 1 and CD 166 positive osteoblast progenitor cells
+proliferated in response to media dosing with FGF 2. Coated scaffolds with BMP 2
+and FGF 2 were implanted in mouse calvarial bone defects and harvested at 1 and 3
+weeks. After 1 week in vivo, proliferation of cells, including Sca 1+
+progenitors, was observed with low dose FGF 2 and BMP 2 compared to BMP 2 alone,
+indicating that in vivo delivery of FGF 2 activated a similar population of cells
+as shown by in vitro testing. At 3 weeks, FGF 2 and BMP 2 delivery increased bone
+formation more than BMP 2 alone, particularly in the center of the defect,
+confirming that the proliferation of the Sca 1 positive osteoprogenitors by FGF 2
+was associated with increased bone healing. Areas of bone mineralization were
+positive for double fluorochrome labeling of calcium and alkaline phosphatase
+staining of osteoblasts, along with increased TRAP+ osteoclasts, demonstrating
+active bone formation distinct from the bone like collagen/hydroxyapatite
+scaffold. In conclusion, the addition of a bCaP layer to PEM delayed access to
+BMP 2 and allowed the FGF 2 stimulated progenitors to populate the scaffold
+before differentiating in response to BMP 2, leading to improved bone defect
+healing.
