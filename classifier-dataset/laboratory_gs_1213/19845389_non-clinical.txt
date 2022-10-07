@@ -1,2 +1,0 @@
-Nanowire biocompatibility in the brain--looking for a needle in a 3D stack.
-We investigated the brain-tissue response to nanowire implantations in the rat striatum after 1, 6, and 12 weeks using immunohistochemistry. The nanowires could be visualized in the scar by confocal microscopy (through the scattered laser light). For the nanowire-implanted animals, there is a significant astrocyte response at week 1 compared to controls. The nanowires are phagocytized by ED1 positive microglia, and some of them are degraded and/or transported away from the brain.

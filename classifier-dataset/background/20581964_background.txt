@@ -1,2 +1,0 @@
-Photodetector sensitivity control for weight setting in optoelectronic neural networks.
-In optoelectronic neural processors weights are set optically and neural states electrically. Reversing this arrangement allows weights to be set by adjusting photodetector sensitivity.

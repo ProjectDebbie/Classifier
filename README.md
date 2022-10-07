@@ -9,6 +9,9 @@ Since the goal of DEBBIE is to annotate biomaterial-specific research, a classif
 - [gold standard biomaterials clinical collection](https://github.com/ProjectDebbie/gold_standard_set/blob/master/clinical_gs_1092.txt)
 - [background set](https://github.com/ProjectDebbie/background_set). 
 
+The folder classifier-dataset contains the actual training and test set that was used for the development of the classifier.
+
+
 The components of the trained classifier are available for download as .pkl files. The classifer returns the relevant abstracts in a designated folder.    
 
 Parameters:
@@ -27,7 +30,7 @@ Parameters:
 
 ## Authors
 
-* **Osnat Hakimi** - **Austin McKitrick** - **Javier Corvi** 
+* **Osnat Hakimi** - **Javier Corvi**  - **Austin McKitrick** 
 
 
 ## License
