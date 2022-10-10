@@ -1,0 +1,57 @@
+2016 Oct 20
+[Effects of local transplantation of autologous adipose derived mesenchymal stem
+cells on the formation of hyperplastic scar on rabbit ears].
+P Objective: To investigate the effects of local transplantation of autologous
+adipose derived mesenchymal stem cells  ADSCs  on the formation of hyperplastic
+scar on rabbit ears. Methods: ADSCs were isolated from inguinal fat of six New
+Zealand rabbits and then sub cultured. ADSCs of the third passage of each rabbit
+were used in the following experiments. Six full thickness skin defect wounds
+with diameter of 6 mm on the ventral surface of every rabbit ear were made. Wound
+healing and local tissue proliferation were observed, and complete epithelization
+time of wounds and formation time of hyperplastic scar were recorded. The wounds
+on left ears were selected as group ADSCs, and the wounds on right ears were
+selected as control group, with 36 wounds in each group. After the complete
+epithelization of wounds  post injury day 25 , 0.2 mL bromodeoxyuridine  BrdU
+labeled autologous ADSCs with the concentration of 5x10 6  per milliliter were
+injected into each wound of the rabbit of group ADSCs, while the same amount of
+phosphate buffer solution was injected into each wound of the rabbit of control
+group. The frequency of injection was once every 5 days, totally for 3 times, and
+the latter 2 times were injected into scars generated from healed wound.
+Hyperplastic scars of rabbits of two groups were harvested on the fifth day after
+the third injection, then the morphology was observed by HE staining, and the
+arrangement of collagen in hyperplastic scar was observed by VG staining. The
+distribution of BrdU labeled ADSCs in the hyperplastic scar was observed with
+fluorescence microscope. The protein content of type collagen, type collagen,
+transforming growth factor beta1  TGF beta1 , and decorin in hyperplastic scar
+were detected by enzyme linked immunosorbent assay, and the mRNA expression of
+decorin and TGF beta1 in hyperplastic scar were tested by real time fluorescent
+quantitative reverse transcription polymerase chain reaction. Data were processed
+with paired t test. Results:  1  The complete epithelization time of wounds of
+rabbits' ears was  20.0+/ 2.0  d post injury, and hyperplastic scars were formed
+on post injury day 35.0+/ 2.2. On post injury day 40, hyperplastic scars of
+rabbits of control group were still obvious, while those of group ADSCs became
+smaller, flat, soft, and light colored.  2  Compared with those in control group,
+epithelial cell layers and the number of nucleated cells in corium layer of
+hyperplastic scars of rabbits of group ADSCs were increased, and epithelium foot
+like and dermal papilla like structures were observed. The collagen density of
+hyperplastic scars of rabbits of control group was tight and arranged disorderly,
+while that of group ADSCs were decreased significantly and arranged regularly as
+compared with that of control group.  3  On post injury day 40, BrdU labeled
+ADSCs were still observed in the hyperplastic scars of rabbits of group ADSCs.
+4  The protein content of type collagen, type collagen, TGF beta1, and decorin
+in hyperplastic scars of rabbits of group ADSCs were respectively  1.40+/ 0.04
+and  8.18+/ 0.23  mug/L,  25.1+/ 0.7  ng/L, and  4.872+/ 0.101  ng/mL, and those
+in hyperplastic scars of rabbits of control group were respectively  2.29+/ 0.05
+and  12.20+/ 0.38  mug/L,  37.2+/ 1.1  ng/L, and  4.143+/ 0.024  ng/mL. Compared
+with those in control group, the protein content of type collagen, type collagen,
+and TGF beta1 in hyperplastic scars of rabbit of group ADSCs were significantly
+decreased  with t values from  33.66 to  22.84, P values below 0.001 , while the
+protein content of decorin were significantly increased  t=10.41, P<0.001 .  5
+Compared with those in control group, the mRNA expression of TGF beta1 in
+hyperplastic scars of rabbits of group ADSCs was significantly decreased  t=4.45,
+P<0.01 , while the mRNA expression of decorin was significantly increased
+t=5.61, P<0.01 . Conclusions: Autologous transplantation of ADSCs into scar of
+rabbit at the early stage can inhibit the formation of hyperplastic scar, promote
+the quality of wound healing, and the mechanism may relate to the down regulation
+of TGF beta1, type collagen, and type collagen and the up regulation of decorin
+induced by ADSCs.

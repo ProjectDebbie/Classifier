@@ -1,0 +1,29 @@
+2013 Jul Aug
+Novel cell free regeneration of bone using stem cell derived growth factors.
+P PURPOSE: Tissue engineering and regenerative medicine may now be used for the
+treatment of maxillofacial defects, but the related procedures have several
+limitations, including high capital investment, expensive cell culture
+techniques, and complicated safety and quality management issues. Stem cells
+secrete many cytokines that can affect cell mobilization and differentiation that
+accumulate in conditioned media. This study investigated the effects of stem
+cell conditioned media from human bone marrow derived mesenchymal stem cells
+MSCs  on bone regeneration and its ability to induce endogeneous stem cell
+mobilization and bone regeneration. MATERIALS AND METHODS: Human MSCs that were
+70% to 80% confluent were refed with serum free Dulbecco's modified Eagle medium,
+and the cell cultured conditioned media were collected after 48 hours of
+incubation. The collected media were defined as cultured conditioned media from
+MSCs  MSC CM . Rat bone marrow derived stem cells  rMSCs  were cultured with
+MSC CM for 48 hours; then, cell mobilization and the expression of
+osteogenic related genes were investigated. The presence of cytokines in MSC CM
+was determined by enzyme linked immunosorbent assay. Collagen sponge was then
+soaked in MSC CM and grafted into rat calvarial bone defects. At 2 or 4 weeks
+after implantation of graft materials, implanted sections were evaluated by
+microcomputed tomography and histologic analysis. RESULTS: MSC CM enhanced the
+migration, proliferation, and expression of osteogenic marker genes, such as
+alkaline phosphatase, osteocalcin, and Runx2, of rMSCs in vitro. Cytokines such
+as insulinlike growth factor 1, vascular endothelial growth factor, transforming
+growth factor beta1, and hepatocyte growth factor were present in the MSC CM.
+MSC CM significantly increased the migration and expression of osteogenic related
+genes of rMSCs. Early bone regeneration in rat calvaria was also observed.
+CONCLUSION: These results suggest that MSC CM may have potential for novel
+cell free regeneration of bone.

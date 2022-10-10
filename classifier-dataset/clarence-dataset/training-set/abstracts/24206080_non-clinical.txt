@@ -1,0 +1,29 @@
+2014 Aug
+Guidance of in vitro migration of human mesenchymal stem cells and in vivo guided
+bone regeneration using aligned electrospun fibers.
+P Tissue regeneration is a complex process in which numerous chemical and physical
+signals are coordinated in a specific spatiotemporal pattern. In this study, we
+tested our hypothesis that cell migration and bone tissue formation can be guided
+and facilitated by microscale morphological cues presented from a scaffold. We
+prepared poly l lactic acid   PLLA  electrospun fibers with random and aligned
+structures and investigated their effect on in vitro migration of human
+mesenchymal stem cells  hMSCs  and in vivo bone growth using a critical sized
+defect model. Using a polydopamine coating on the fibers, we compared the
+synergistic effects of chemical signals. The adhesion morphology of hMSCs was
+consistent with the direction of fiber alignment, whereas the proliferation of
+hMSCs was not affected. The orientation of fibers profoundly affected cell
+migration, in which hMSCs cultured on aligned fibers migrated 10.46 fold faster
+along the parallel direction than along the perpendicular direction on
+polydopamine coated PLLA nanofibers. We implanted each fiber type into a mouse
+calvarial defect model for 2 months. The micro computed tomography  CT  imaging
+demonstrated that regenerated bone area was the highest when mice were implanted
+with aligned fibers with polydopamine coating, indicating a positive synergistic
+effect on bone regeneration. More importantly, scanning electron microscopy
+microphotographs revealed that the direction of regenerated bone tissue appeared
+to be consistent with the direction of the implanted fibers, and transmission
+electron microscopy images showed that the orientation of collagen fibrils
+appeared to be overlapped along the direction of nanofibers. Taken together, our
+results demonstrate that the aligned nanofibers can provide spatial guidance for
+in vitro cell migration as well as in vivo bone regeneration, which may be
+incorporated as major instructive cues for the stimulation of tissue
+regeneration.

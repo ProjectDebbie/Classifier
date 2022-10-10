@@ -1,0 +1,45 @@
+2018
+Increased recruitment of endogenous stem cells and chondrogenic differentiation
+by a composite scaffold containing bone marrow homing peptide for cartilage
+regeneration.
+P Even small cartilage defects could finally degenerate to osteoarthritis if left
+untreated, owing to the poor self healing ability of articular cartilage. Stem
+cell transplantation has been well implemented as a common approach in cartilage
+tissue engineering but has technical complexity and safety concerns. The stem
+cell homing based technique emerged as an alternative promising therapy for
+cartilage repair to overcome traditional limitations. In this study, we
+constructed a composite hydrogel scaffold by combining an oriented acellular
+cartilage matrix  ACM  with a bone marrow homing peptide  BMHP  functionalized
+self assembling peptide  SAP . We hypothesized that increased recruitment of
+endogenous stem cells by the composite scaffold could enhance cartilage
+regeneration. Methods: To test our hypothesis, in vitro proliferation, attachment
+and chondrogenic differentiation of rabbit mesenchymal stem cells  MSCs  were
+tested to confirm the bioactivities of the functionalized peptide hydrogel. The
+composite scaffold was then implanted into full thickness cartilage defects on
+rabbit knee joints for cartilage repair, in comparison with microfracture or
+other sample groups. Stem cell recruitment was monitored by dual labeling with
+CD29 and CD90 under confocal microcopy at 1 week after implantation, followed by
+chondrogenic differentiation examined by qRT PCR. Repaired tissue of the
+cartilage defects was evaluated by histological and immunohistochemistry
+staining, microcomputed tomography  micro CT  and magnetic resonance imaging
+MRI  at 3 and 6 months post surgery. Macroscopic and histological scoring was
+done to evaluate the optimal in vivo repair outcomes of this composite scaffold.
+Results: The functionalized SAP hydrogels could stimulate rabbit MSC
+proliferation, attachment and chondrogenic differentiation during in vitro
+culture. At 7 days after implantation, increased recruitment of MSCs based on
+CD29 +  /CD90 +  double positive cells was found in vivo in the composite
+hydrogel scaffold, as well as upregulation of cartilage associated genes
+aggrecan, Sox9 and type II collagen . After 3 and 6 months post surgery, the
+articular cartilage defect in the composite scaffold treated group was fully
+covered with cartilage like tissue with a smooth surface, which was similar to
+the surrounding native cartilage, according to the results of histological and
+immunohistochemistry staining, micro CT and MRI analysis. Macroscopic and
+histological scoring confirmed that the quality of cartilage repair was
+significantly improved with implantation of the composite scaffold at each
+timepoint, in comparison with microfracture or other sample groups. Conclusion:
+Our findings demonstrated that the composite scaffold could enhance endogenous
+stem cell homing and chondrogenic differentiation and significantly improve the
+therapeutic outcome of chondral defects. The present study provides a promising
+approach for in vivo cartilage repair without cell transplantation. Optimization
+of this strategy may offer great potential and benefits for clinical application
+in the future.

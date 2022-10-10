@@ -1,0 +1,2 @@
+A diverse family of Type III polyketide synthases in Eucalyptus species.
+Eucalyptus species synthesize a wealth of polyketide natural products, but no relevant biosynthetic enzyme has been identified. Degenerate primers designed from conserved regions of fourteen chalcone synthase superfamily enzymes were used to isolate gene fragments from at least five different Type III polyketide synthases (PKSs) in E. camaldulensis and E. robusta.

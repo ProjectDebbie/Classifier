@@ -1,0 +1,29 @@
+2016 Jan
+Evaluation of emulsion electrospun polycaprolactone/hyaluronan/epidermal growth
+factor nanofibrous scaffolds for wound healing.
+P Wound healing scaffolds provide cells with structural integrity and can also
+deliver biological agents to establish a skin tissue specific microenvironment to
+regulate cell functions and to accelerate the healing process. In this study, we
+fabricated biodegradable nanofibrous scaffolds with an emulsion electrospinning
+technique. The scaffolds were composed of polycaprolactone, hyaluronan and
+encapsulating epidermal growth factor. The morphology and core sheath structure
+of the nanofibers were characterized by scanning electron microscopy and
+transmission electron microscopy. The scaffolds were also characterized for
+chemical composition and hydrophilicity with a Fourier transform infrared
+analysis, energy dispersive spectroscopy and the water contact angle. An in vitro
+model protein bovine serum albumin and epidermal growth factor release study was
+conducted to evaluate the sustained release potential of the core sheath
+structured nanofibers with and without the hyaluronan component. Additionally, an
+in vitro cultivation of human skin keratinocytes  HaCaT  and fibroblasts on
+polycaprolactone/hyaluronan and polycaprolactone/hyaluronan epidermal growth
+factor scaffolds showed a significant synergistic effect of hyaluronan and
+epidermal growth factor on cell proliferation and infiltration. Furthermore,
+there was an up regulation of the wound healing related genes collagen I,
+collagen III and TGF beta in polycaprolactone/hyaluronan/epidermal growth factor
+scaffolds compared with control groups. In the full thickness wound model, the
+enhanced regeneration of fully functional skin was facilitated by epidermal
+regeneration in the polycaprolactone/hyaluronan/epidermal growth factor treatment
+group. Our findings suggest that bioactivity and hemostasis of the
+hyaluronan based nanofibrous scaffolds have the capability to encapsulate and
+control the release of growth factors that can serve as skin tissue engineering
+scaffolds for wound healing.

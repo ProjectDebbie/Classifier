@@ -1,0 +1,28 @@
+2017 Jul
+Electrospun nerve guide scaffold of
+poly epsilon caprolactone /collagen/nanobioglass: an in vitro study in peripheral
+nerve tissue engineering.
+P Among various methods, nerve tissue engineering  NTE  is one of the applicable
+methods to reconstruct damaged nerve tissues. Electrospinning technique and
+biomaterials are often considered to fabricate fibrous tissue engineered conduits
+which have great similarity to the extracellular matrix on fiber structure.
+Polymer blending is one of the most effective methods for the production of new
+materials with outstanding features. In this study, conduit structures as main
+part of the peripheral nerve regeneration based on polymer blend nanocomposites
+poly epsilon caprolactone /collagen/nanobioglass  PCL/collagen/NBG  were
+manufactured by electrospinning technique. Various properties of electrospun mats
+were investigated by using contact angle, tensile, degradation time, porosity,
+scanning electron microscopy  SEM , Fourier transform infrared  FTIR , and
+wide angle X ray scattering  WAXS . The SEM analysis was shown that size range
+and average pore size of polymer blend nanocomposite nanofibers were about
+250 400 nm and 0.7 microm, respectively, with an optimum porosity of 62.5%. The
+XRD result was shown that synthesized nanoparticles of NBG had amorphous
+structures. Also, FTIR analysis indicated that good interaction between
+polymer polymer macromolecules and polymer particles. The contact angle and
+tensile tests were indicated that electrospun webs showed good hydrophilicity and
+toughness properties. According to SEM, MTT assay and DAPI staining technique,
+the ability to support cell attachment and viability of samples were
+characterized. In vitro study indicated electrospun collagen/PCL/NBG nanofibrous
+conduit promoted Human Endometrial Stem cells  hEnSCs  adhesion and
+proliferation.  c  2016 Wiley Periodicals, Inc. J Biomed Mater Res Part A: 105A:
+1960 1972, 2017.

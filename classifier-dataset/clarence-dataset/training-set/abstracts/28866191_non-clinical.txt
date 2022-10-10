@@ -1,0 +1,26 @@
+2017 Nov 1
+Nanosized CaP silk fibroin PCL PEG PCL/PCL based bilayer membranes for guided
+bone regeneration.
+P Guided bone regeneration  GBR  concept has been developed to prevent the
+formation of non functional scar tissue layer on defect site by undertaking
+barrier role. In this study, a new bilayer membrane which consisted of one layer
+of electrospun silk fibroin/PCL PEG PCL incorporating nanocalcium phosphate
+SPCA  1  and one layer of PCL membrane was developed for GBR. To improve the
+osteoconductivity of membranes, nanosized calcium phosphate particles synthesized
+by Flame Spray Pyrolysis method were incorporated into membranes at 10%  wt
+SPCA10  and 20%  wt   SPCA20  of the polymer content. The structural and
+chemical analyses revealed the well integrated two layers of membranes with a
+total thickness of ca 100mum. In the regenerative layer, the highly porous mesh
+structure had a thickness of 12.6mum with randomly oriented fibers having
+diameters around 760nm, and nanoparticles dispersed homogenously. The mechanical
+test results showed remarkable improvement on the tensile strength of membranes
+with incorporation of nanoparticles. Higher water affinity of nanoCaP included
+membranes was proved by lower contact angle values and higher percent water
+uptake capacity. Biomineralization assay revealed that nucleation and growth of
+apatites around fibers of SPCA10 and SPCA20 were apparent while on SPCA0 apatite
+minerals were barely detected after 10days. Human dental pulp stem cells  DPSC
+were seeded on electrospun layer of the bilayer membranes for biocompatibility
+and osteo compatibility study. Increasing nanoCaP amount resulted in higher cell
+adhesion, proliferation, ALP activity and calcium deposition on membranes. These
+overall results confirmed the biocompatibility and potential applicability of
+proposed membranes for GBR treatments.

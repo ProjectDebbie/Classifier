@@ -1,0 +1,2 @@
+A biomimetic strategy to access the silybins: total synthesis of (-)-isosilybin A.
+We report the first asymmetric, total synthesis of (-)-isosilybin A. A late-stage catalytic biomimetic cyclization of a highly functionalized chalcone is employed to form the characteristic benzopyranone ring. A robust and flexible approach to this chalcone provides an entry to the preparation of the entire isomeric family of silybin natural products. 

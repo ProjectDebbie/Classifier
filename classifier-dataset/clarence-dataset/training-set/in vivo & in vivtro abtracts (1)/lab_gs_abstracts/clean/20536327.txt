@@ -1,0 +1,34 @@
+2011 Mar
+Deleterious effects of freezing on osteogenic differentiation of human
+adipose derived stromal cells in vitro and in vivo.
+P Human adipose derived stromal cells  hASCs  represent a multipotent stromal cell
+type with a proven capacity to undergo osteogenic differentiation. Many hurdles
+exist, however, between current knowledge of hASC osteogenesis and their
+potential future use in skeletal tissue regeneration. The impact of frozen
+storage on hASC osteogenic differentiation, for example, has not been studied in
+detail. To examine the effects of frozen storage, hASCs were harvested from
+lipoaspirate and either maintained in standard culture conditions or frozen for 2
+weeks under standard conditions  90% fetal bovine serum, 10% dimethyl sulfoxide .
+Next, in vitro parameters of cell morphology  surface electron microscopy [EM] ,
+cell viability and growth  trypan blue; bromodeoxyuridine incorporation ,
+osteogenic differentiation  alkaline phosphatase, alizarin red, and quantitative
+real time  RT  polymerase chain reaction , and adipogenic differentiation  Oil
+red O staining and quantitative RT polymerase chain reaction  were performed.
+Finally, in vivo bone formation was assessed using a critical sized cranial
+defect in athymic mice, utilizing a hydroxyapatite  HA  poly lactic co glycolic
+acid  scaffold for ASC delivery. Healing was assessed by serial microcomputed
+tomography scans and histology. Freshly derived ASCs differed significantly from
+freeze thaw ASCs in all markers examined. Surface EM showed distinct differences
+in cellular morphology. Proliferation, and osteogenic and adipogenic
+differentiation were all significantly hampered by the freeze thaw process in
+vitro  *P < 0.01 . In vivo, near complete healing was observed among calvarial
+defects engrafted with fresh hASCs. This was in comparison to groups engrafted
+with freeze thaw hASCs that showed little healing  *P < 0.01 . Finally,
+recombinant insulin like growth factor 1 or recombinant bone morphogenetic
+protein 4 was observed to increase or rescue in vitro osteogenic differentiation
+among frozen hASCs  *P < 0.01 . The freezing of ASCs for storage significantly
+impacts their biology, both in vitro and in vivo. The ability of ASCs to
+successfully undergo osteogenic differentiation after freeze thaw is
+substantively muted, both in vitro and in vivo. The use of recombinant proteins,
+however, may be used to mitigate the deleterious effects of the freeze thaw
+process.

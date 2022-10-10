@@ -1,0 +1,2 @@
+Facile preparation of carbon-dot-supported nanoflowers for efficient photothermal therapy of cancer cells.
+Herein, novel self-assembled red-emissive C-dots@Au nanoflowers were developed, and they demonstrated efficient photothermal properties under 750 nm laser irradiation. Moreover, C-dots@Au nanoflowers showed the ability of simultaneous photoacoustic and fluorescence imaging. Our study may provide a novel strategy for the efficient phototherapy of cancer cells based on C-dots.

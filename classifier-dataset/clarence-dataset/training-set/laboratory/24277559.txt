@@ -1,0 +1,24 @@
+2014 Oct
+Beta type calcium phosphates with and without magnesium: From hydrolysis of
+brushite powder to robocasting of periodic scaffolds.
+P Several approaches have attempted to replace extensive bone loss, but each of
+them has their limitation. Nowadays, additive manufacture techniques have shown
+great potential for bone engineering. The objective of this study was to
+synthesize beta tricalcium phosphate  beta TCP , beta tricalcium phosphate
+substituted by magnesium  beta TCMP , and biphasic calcium phosphate substituted
+by magnesium  BCMP  via hydrolysis and produce scaffolds for bone regeneration
+using robocasting technology. Calcium deficient apatites, with and without
+magnesium were obtained by hydrolysis, calcined and physico chemically
+characterized. Colorimetric cell viability assay, calcium nodule formation, and
+the expression of alkaline phosphatase, osteocalcin, transforming growth factor
+beta 1 and collagen were assessed using a mouse osteoblastic cell line
+MC3T3 E1 . Direct write assembly of cylindrical periodic scaffolds was done via
+robotic deposition using beta TCP, beta TCMP, and BCMP colloidal inks. The
+sintered scaffolds were characterized by X ray diffraction, Fourier transform
+infrared spectroscopy, scanning electron microscopy, Archimede's method, and
+uniaxial compression test. According to the cell viability assay, the powders
+induced cell proliferation. Calcium nodule formation and bone markers activity
+suggested that the materials present potential value in bone tissue engineering.
+The scaffolds built by robocasting presented interconnected porous and exhibited
+mean compressive strength between 7.63 and 18.67 MPa, compatible with trabecular
+bone.

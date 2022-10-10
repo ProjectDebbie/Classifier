@@ -1,0 +1,33 @@
+2017 Oct
+Bone Morphogenetic Protein 2 Alters Osteogenesis and Anti Inflammatory Profiles
+of Mesenchymal Stem Cells Induced by Microtextured Titanium In Vitro<sup/>.
+P OBJECTIVES: Microtextured titanium  Ti  induces osteoblast differentiation of
+mesenchymal stem cells  MSCs  in the absence of exogenous osteogenic factors; and
+high energy surface modifications speed healing of microrough Ti implants. Bone
+morphogenetic protein 2  BMP2  is used clinically to improve peri implant bone
+formation and osseointegration but can cause inflammation and bone related
+complications. In this study, we determined whether BMP2 alters human MSC
+differentiation, apoptosis, and inflammatory factor production when grown on Ti
+implants with different surface properties. MATERIALS AND METHODS: Human MSCs
+were cultured on Ti substrates  smooth [PT], sandblasted acid etched [SLA],
+hydrophilic SLA [modSLA] , or tissue culture polystyrene  TCPS . After 7 days,
+inflammatory mRNAs were measured by polymerase chain reaction array. In addition,
+7 day cultures were treated with exogenous BMP2 and osteogenic differentiation
+and production of local factors, proinflammatory interleukins, and
+anti inflammatory interleukins assessed. Finally, osteogenic markers and
+interleukins were measured in MSCs cultured for 48 h on BMP2 dip coated SLA and
+modSLA surfaces. RESULTS: Expression of interleukins, chemokines, cytokines, and
+growth factors was affected by surface properties, particularly on modSLA. MSCs
+on Ti produced fewer resorptive and more osteogenic/anti inflammatory factors
+than cells on TCPS. Addition of 100 ng/mL BMP2 not only increased differentiation
+but also increased proinflammatory and decreased anti inflammatory/antiresorptive
+factors. Two hundred nanograms per milliliter BMP2 abolished osteogenesis and
+dramatically increased pro osteoclastogenic factors. MSCs cultured on
+BMP2 dip coated disks produced similar proinflammatory profiles with inhibited
+osteogenic differentiation and had increased apoptotic markers at the highest
+doses. CONCLUSIONS: MSCs underwent osteogenesis and regulated inflammatory
+cytokines on microtextured Ti. Exogenous BMP2 inhibited MSC differentiation and
+stimulated a dose dependent proinflammatory and apoptotic response. Use of BMP2
+with microtextured metal implants may increase inflammation and possibly delay
+bone formation dependent on dose, suggesting that application of BMP2 clinically
+during implant insertion may need to be reevaluated.

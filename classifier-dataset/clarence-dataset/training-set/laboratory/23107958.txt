@@ -1,0 +1,25 @@
+2013 Feb 1
+Novel silicificated PVAc/POSS composite nanofibrous mat via facile
+electrospinning technique: potential scaffold for hard tissue engineering.
+P This study presents the fabrication of novel porous silicificated PVAc/POSS
+composite nanofibers by facile electrospinning technique and the interaction of
+synthesized mats with simulated body fluid  SBF . The physicochemical properties
+of the electrospun composites were determined by scanning electron microscopy,
+energy dispersive X ray spectroscopy, transmission electron microscopy, electron
+probe micro analysis, X ray diffraction and thermogravimetry analysis. To examine
+the in vitro cytotoxicity, mouse myoblast C2C12 cells were treated with pristine
+and composite nanofibrous mats and the viability of cells was analyzed by cell
+counting kit 8 assay at regular time intervals. Our results indicated the
+enhanced nucleation and the formation of apatite like structures at the surface
+of silicificated PVAc/POSS during the incubation of electrospun mats in SBF
+solution. Cytotoxicity experiments designated that the myoblasts could attach to
+the composite after being cultured. We observed in the present study that
+PVAc/POSS nanofibrous mat could support cell adhesion and guide the spreading
+behavior of myoblasts. We conclude that the new electrospun silicificated
+PVAc/POSS composite scaffold with unique porous morphology have excellent
+biocompatibility. Consequently, our investigation results showed that the as spun
+porous PVAc/POSS composite nanofibrous scaffold could be a potential substrate
+for the proliferation and mineralization of osteoblasts, enhancing bone
+regeneration. The biocomposite mats represent a promising biomaterial to be
+exploited for various tissue engineering applications such as guided bone
+regeneration.

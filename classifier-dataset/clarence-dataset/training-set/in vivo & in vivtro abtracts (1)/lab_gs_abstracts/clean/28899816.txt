@@ -1,0 +1,36 @@
+2017 Nov
+Enzyme crosslinked gene activated matrix for the induction of mesenchymal stem
+cells in osteochondral tissue regeneration.
+P The development of osteochondral tissue engineering is an important issue for the
+treatment of traumatic injury or aging associated joint disease. However, the
+different compositions and mechanical properties of cartilage and subchondral
+bone show the complexity of this tissue interface, making it challenging for the
+design and fabrication of osteochondral graft substitute. In this study, a
+bilayer scaffold is developed to promote the regeneration of osteochondral tissue
+within a single integrated construct. It has the capacity to serve as a gene
+delivery platform to promote transfection of human mesenchymal stem cells  hMSCs
+and the functional osteochondral tissues formation. For the subchondral bone
+layer, the bone matrix with organic  type I collagen, Col  and inorganic
+hydroxyapatite, Hap  composite scaffold has been developed through
+mineralization of hydroxyapatite nanocrystals oriented growth on collagen
+fibrils. We also prepare multi shell nanoparticles in different layers with a
+calcium phosphate core and DNA/calcium phosphate shells conjugated with
+polyethyleneimine to act as non viral vectors for delivery of plasmid DNA
+encoding BMP2 and TGF beta3, respectively. Microbial transglutaminase is used as
+a cross linking agent to crosslink the bilayer scaffold. The ability of this
+scaffold to act as a gene activated matrix is demonstrated with successful
+transfection efficiency. The results show that the sustained release of plasmids
+from gene activated matrix can promote prolonged transgene expression and
+stimulate hMSCs differentiation into osteogenic and chondrogenic lineages by
+spatial and temporal control within the bilayer composite scaffold. This improved
+delivery method may enhance the functionalized composite graft to accelerate
+healing process for osteochondral tissue regeneration. STATEMENT OF SIGNIFICANCE:
+In this study, a gene activated matrix  GAM  to promote the growth of both
+cartilage and subchondral bone within a single integrated construct is developed.
+It has the capacity to promote transfection of human mesenchymal stem cells
+hMSCs  and the functional osteochondral tissues formation. The results show that
+the sustained release of plasmids including TGF beta and BMP 2 from GAM could
+promote prolonged transgene expression and stimulate hMSCs differentiation into
+the osteogenic and chondrogenic lineages by spatial control manner. This improved
+delivery method should enhance the functionalized composite graft to accelerate
+healing process in vitro and in vivo for osteochondral tissue regeneration.

@@ -1,0 +1,34 @@
+2016 Aug
+Stepwise Differentiation of Mesenchymal Stem Cells Augments Tendon Like Tissue
+Formation and Defect Repair In Vivo.
+P UNLABELLED: : Tendon injuries are common and present a clinical challenge, as
+they often respond poorly to treatment and result in long term functional
+impairment. Inferior tendon healing responses are mainly attributed to
+insufficient or failed tenogenesis. The main objective of this study was to
+establish an efficient approach to induce tenogenesis of bone marrow derived
+mesenchymal stem cells  BMSCs , which are the most common seed cells in tendon
+tissue engineering. First, representative reported tenogenic growth factors were
+used as media supplementation to induce BMSC differentiation, and the expression
+of teno lineage transcription factors and matrix proteins was compared. We found
+that transforming growth factor  TGF  beta1 significantly induced
+teno lineage specific gene scleraxis expression and collagen production.
+TGF beta1 combined with connective tissue growth factor  CTGF  elevated
+tenomodulin and Egr1 expression at day 7. Hence, a stepwise tenogenic
+differentiation approach was established by first using TGF beta1 stimulation,
+followed by combination with CTGF for another 7 days. Gene expression analysis
+showed that this stepwise protocol initiated and maintained highly efficient
+tenogenesis of BMSCs. Finally, regarding in situ rat patellar tendon repair,
+tendons treated with induced tenogenic BMSCs had better structural and mechanical
+properties than those of the control group, as evidenced by histological scoring,
+collagen I and tenomodulin immunohistochemical staining, and tendon mechanical
+testing. Collectively, these findings demonstrate a reliable and practical
+strategy of inducing tenogenesis of BMSCs for tendon regeneration and may enhance
+the effectiveness of cell therapy in treating tendon disorders. SIGNIFICANCE: The
+present study investigated the efficiency of representative tenogenic factors on
+mesenchymal stem cells' tenogenic differentiation and established an optimized
+stepwise tenogenic differentiation approach to commit tendon lineage
+differentiation for functional tissue regeneration. The reliable tenogenic
+differentiation approach for stem cells not only serves as a platform for further
+studies of underlying molecular mechanisms but also can be used to enhance cell
+therapy outcome in treating tendon disorders and develop novel therapeutics for
+tendon injury.

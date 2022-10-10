@@ -1,0 +1,26 @@
+2015
+Enhanced adherence of mouse fibroblast and vascular cells to plasma modified
+polyethylene.
+P Since the last decade, tissue engineering has shown a sensational promise in
+providing more viable alternatives to surgical procedures for harvested tissues,
+implants and prostheses. Biomedical polymers, such as low density polyethylene
+LDPE , high density polyethylene  HDPE  and ultra high molecular weight
+polyethylene  UHMWPE , were activated by Ar plasma discharge. Degradation of
+polymer chains was examined by determination of the thickness of ablated layer.
+The amount of an ablated polymer layer was measured by gravimetry. Contact angle,
+measured by goniometry, was studied as a function of plasma exposure and
+post exposure aging times. Chemical structure of modified polymers was
+characterized by angle resolved X ray photoelectron spectroscopy. Surface
+chemistry and polarity of the samples were investigated by electrokinetic
+analysis. Changes in surface morphology were followed using atomic force
+microscopy. Cytocompatibility of plasma activated polyethylene foils was studied
+using two distinct model cell lines; VSMCs  vascular smooth muscle cells  as a
+model for vascular graft testing and connective tissue cells L929  mouse
+fibroblasts  approved for standardized material cytotoxicity testing.
+Specifically, the cell number, morphology, and metabolic activity of the adhered
+and proliferated cells on the polyethylene matrices were studied in vitro. It was
+found that the plasma treatment caused ablation of the polymers, resulting in
+dramatic changes in their surface morphology and roughness. ARXPS and
+electrokinetic measurements revealed oxidation of the polymer surface. It was
+found that plasma activation has a positive effect on the adhesion and
+proliferation of VSMCs and L929 cells.

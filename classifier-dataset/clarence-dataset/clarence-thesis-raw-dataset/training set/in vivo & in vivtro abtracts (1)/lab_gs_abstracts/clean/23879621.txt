@@ -1,0 +1,32 @@
+2014 Jan
+Comparison of uncultured marrow mononuclear cells and culture expanded
+mesenchymal stem cells in 3D collagen chitosan microbeads for orthopedic tissue
+engineering.
+P Stem cell based therapies have shown promise in enhancing repair of bone and
+cartilage. Marrow derived mesenchymal stem cells  MSC  are typically expanded in
+vitro to increase cell number, but this process is lengthy, costly, and there is
+a risk of contamination and altered cellular properties. Potential advantages of
+using fresh uncultured bone marrow mononuclear cells  BMMC  include heterotypic
+cell and paracrine interactions between MSC and other marrow derived cells
+including hematopoietic, endothelial, and other progenitor cells. In the present
+study, we compared the osteogenic and chondrogenic potential of freshly isolated
+BMMC to that of cultured expanded MSC, when encapsulated in three dimensional
+3D  collagen chitosan microbeads. The effect of low and high oxygen tension on
+cell function and differentiation into orthopedic lineages was also examined.
+Freshly isolated rat BMMC  25 x 10 6  cells/mL, containing an estimated 5 x 10 4
+MSC/mL  or purified and culture expanded rat bone marrow derived MSC  2 x 10 5
+cells/mL  were added to a 65 35 wt% collagen chitosan hydrogel mixture and
+fabricated into 3D microbeads by emulsification and thermal gelation. Microbeads
+were cultured in control MSC growth media in either 20% O2  normoxia  or 5% O2
+hypoxia  for an initial 3 days, and then in control, osteogenic, or chondrogenic
+media for an additional 21 days. Microbead preparations were evaluated for
+viability, total DNA content, calcium deposition, and osteocalcin and sulfated
+glycosaminoglycan expression, and they were examined histologically. Hypoxia
+enhanced initial progenitor cell survival in fresh BMMC microbeads, but it did
+not enhance osteogenic potential. Fresh uncultured BMMC microbeads showed a
+similar degree of osteogenesis as culture expanded MSC microbeads, even though
+they initially contained only 1/10th the number of MSC. Chondrogenic
+differentiation was not strongly supported in any of the microbead formulations.
+This study demonstrates the microbead based approach to culturing and delivering
+cells for tissue regeneration, and suggests that fresh BMMC may be an alternative
+to using culture expanded MSC for bone tissue engineering.

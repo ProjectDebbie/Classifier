@@ -1,0 +1,27 @@
+2013 Sep
+New biotextiles for tissue engineering: development, characterization and in
+vitro cellular viability.
+P This work proposes biodegradable textile based structures for tissue engineering
+applications. We describe the use of two polymers, polybutylene succinate  PBS
+proposed as a viable multifilamentand silk fibroin  SF , to produce fibre based
+finely tuned porous architectures by weft knitting. PBS is here proposed as a
+viable extruded multifilament fibre to be processed by a textile based
+technology. A comparative study was undertaken using a SF fibre with a similar
+linear density. The knitted constructs obtained are described in terms of their
+morphology, mechanical properties, swelling capability, degradation behaviour and
+cytotoxicity. The weft knitting technology used offers superior control over the
+scaffold design  e.g. size, shape, porosity and fibre alignment , manufacturing
+and reproducibility. The presented fibres allow the processing of a very
+reproducible intra architectural scaffold geometry which is fully interconnected,
+thus providing a high surface area for cell attachment and tissue in growth. The
+two types of polymer fibre allow the generation of constructs with distinct
+characteristics in terms of the surface physico chemistry, mechanical performance
+and degradation capability, which has an impact on the resulting cell behaviour
+at the surface of the respective biotextiles. Preliminary cytotoxicity screening
+showed that both materials can support cell adhesion and proliferation. These
+results constitute a first validation of the two biotextiles as viable matrices
+for tissue engineering prior to the development of more complex systems. Given
+the processing efficacy and versatility of the knitting technology and the
+interesting structural and surface properties of the proposed polymer fibres it
+is foreseen that the developed systems could be attractive for the functional
+engineering of tissues such as skin, ligament, bone or cartilage.

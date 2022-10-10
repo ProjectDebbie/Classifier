@@ -1,0 +1,35 @@
+2015 Sep 9
+In Situ Generation of Cellulose Nanocrystals in Polycaprolactone Nanofibers:
+Effects on Crystallinity, Mechanical Strength, Biocompatibility, and Biomimetic
+Mineralization.
+P Post electrospinning treatment is a facile process to improve the properties of
+electrospun nanofibers for various applications. This technique is commonly used
+when direct electrospinning is not a suitable option to fabricate a nonwoven
+membrane of the desired polymer in a preferred morphology. In this study, a
+representative natural synthetic hybrid of cellulose acetate  CA  and
+polycaprolactone  PCL  in different ratios was fabricated using an
+electrospinning process, and CA in the hybrid fiber was transformed into
+cellulose  CL  by post electrospinning treatment via alkaline saponification.
+Scanning electron microscopy was employed to study the effects of polymer
+composition and subsequent saponification on the morphology of the nanofibers.
+Increasing the PCL content in the PCL/CA blend solution caused a gradual decrease
+in viscosity, resulting in smoother and more uniform fibers. The saponification
+of fibers lead to pronounced changes in the physicochemical properties. The
+crystallinity of the PCL in the composite fiber was varied according to the
+composition of the component polymers. The water contact angle was considerably
+decreased  from 124 degrees to less than 20 degrees  , and the mechanical
+properties were greatly enhanced  Young's Modulus was improved by approximately
+20 30 fold, tensile strength by 3 4 fold, and tensile stress by approximately 2 4
+fold  compared to those of PCL and PCL/CA membranes. Regeneration of cellulose
+chains in the nanofibers increased the number of hydroxyl groups, which increased
+the hydrogen bonding, thereby improving the mechanical properties and wettability
+of the composite nanofibers. The improved wettability and presence of surface
+functional groups enhanced the ability to nucleate bioactive calcium phosphate
+crystals throughout the matrix when exposed to a simulated body fluid solution.
+Experimental results of cell viability assay, confocal microscopy, and scanning
+electron microscopy imaging showed that the fabricated nanofibrous membranes have
+excellent ability for MC3T3 E1 cell proliferation and growth. Given the
+versatility and widespread use of cellulose synthetic hybrid systems in the
+construction of tissue engineered scaffolds, this work provides a novel strategy
+to fabricate the biopolymer based materials for applications in tissue
+engineering and regenerative medicine.

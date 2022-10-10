@@ -1,0 +1,26 @@
+2014 Feb
+Design, fabrication and in vitro evaluation of a novel polymer hydrogel hybrid
+scaffold for bone tissue engineering.
+P The development of a bone mechanically compatible and osteoinductive scaffold is
+important for bone tissue engineering applications, particularly for the repair
+and regeneration of large area critically sized bone defects. Although previous
+studies with weight bearing scaffolds have shown promising results, there is a
+clear need to develop better osteoinductive strategies for effective
+scaffold based bone regeneration. In this study, we designed and fabricated a
+novel polymer hydrogel hybrid scaffold system in which a load bearing polymer
+matrix and a peptide hydrogel allowed for the synergistic combination of
+mechanical strength and great potential for osteoinductivity in a single
+scaffold. The hybrid scaffold system promoted increased pre osteoblastic cell
+proliferation. Further, we biotinylated human recombinant bone morphogenetic
+protein 2  rhBMP2 , and characterized the biotin addition and its effect on
+rhBMP2 biological activity. The biotinylated rhBMP2 was tethered to the hybrid
+scaffold using biotin streptavidin complexation. Controlled release studies
+demonstrated increased rhBMP2 retention with the tethered rhBMP2 hybrid scaffold
+group. In vitro evaluation of the hybrid scaffold was performed with rat bone
+marrow stromal cells and mouse pre osteoblast cell line MC3T3 E1 cells. Gene
+expression of alkaline phosphatase  ALP , collagen I  Col I , osteopontin  OPN ,
+bone sialoprotein  BSP , Runx 2 and osteocalcin  OC  increased in MC3T3 E1 cells
+seeded on the rhBMP2 tethered hybrid scaffolds over the untethered counterparts,
+demonstrating osteoinductive potential of the hybrid graft. These findings
+suggest the possibility of developing a novel polymer hydrogel hybrid system that
+is weight bearing and osteoinductive for effective bone tissue engineering.

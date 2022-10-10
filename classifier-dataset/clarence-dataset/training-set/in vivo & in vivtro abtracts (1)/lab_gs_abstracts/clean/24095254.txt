@@ -1,0 +1,34 @@
+2013 Dec
+The effect of the coumarin like derivative osthole on the osteogenic properties
+of human periodontal ligament and jaw bone marrow mesenchymal stem cell sheets.
+P Cell sheet engineering is a scaffold free delivery concept that has been shown to
+improve mesenchymal stem cell mediated regeneration of injured or pathologically
+damaged periodontal tissues in preclinical studies and several clinical trials.
+However, the best strategy for cell sheet production remains to be identified.
+The aim of this study was to investigate the biological effects of osthole, a
+coumarin like derivative extracted from Chinese herbs, on the cell sheet
+formation and osteogenic properties of human periodontal ligament stem cells
+PDLSCs  and jaw bone marrow mesenchymal stem cells  JBMMSCs . Patient matched
+PDLSCs and JBMMSCs were isolated, and an appropriate concentration of osthole for
+cell culture was screened for both cell types in terms of cell proliferation and
+alkaline phosphatase  ALP  activity. Next, the best mode of osthole stimulation
+for inducing the formation of sheets by each cell type was selected by evaluating
+the amount of their extracellular matrix  ECM  protein production as well as
+osteogenic related gene expression. Furthermore, both PDLSC and JBMMSC sheets
+obtained from each optimized technique were transplanted subcutaneously into nude
+mice to evaluate their capacity for ectopic bone regeneration. The results
+revealed that 10  5  m/L osthole significantly enhanced the proliferation of both
+PDLSCs and JBMMSCs  P < 0.05 , although for JBMMSCs, there was no
+concentration related change among the four established osthole groups  P >
+0.05 . In addition, 10  5  m/L osthole was the best concentration to promote the
+ALP activities of both cells  P < 0.01 . Based on both the production of ECM
+proteins  collagen type I, integrin beta1, and fibronectin  and the expression of
+osteogenic genes  ALP, Runt related transcription factor 2  RUNX2 , and
+osteocalcin  OCN  , the provision of 10  5  m/L osthole throughout the entire
+culture stage  10 days  for PDLSCs or at the early stage  first 3 days  for
+JBMMSCs was the most effective osthole administration mode for cell sheet
+formation  P < 0.05 . The results of in vivo transplantation showed that
+osthole mediated PDLSC and JBMMSC sheets formed more new bone than those obtained
+without osthole intervention  P < 0.001 . Our data suggest that a suitable
+concentration and mode of osthole stimulation may enhance ECM production and
+positively affect cell behavior in cell sheet engineering.

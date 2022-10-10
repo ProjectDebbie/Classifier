@@ -1,0 +1,24 @@
+2013 Apr
+Fabrication of electrospun poly  lactide co glycolide  fibrin multiscale scaffold
+for myocardial regeneration in vitro.
+P Myocardial tissue engineering is one of the most promising treatment strategies
+to restore heart function after a massive heart attack. The biomaterials, cells,
+and scaffold design play important roles in engineering of heart tissue. In this
+study, we have developed a fibrin based multiscale electrospun composite scaffold
+for myocardial regeneration. Fibrin is the natural wound healing matrix having
+angiogenic potential and comprehensively used for tissue engineering
+applications. It provides a natural environment for cell attachment, migration,
+and proliferation. Morphological, chemical, and mechanical characterization of
+the scaffolds was done by scanning electron microscopy, fibrin specific
+phosphotungstic acid hematoxylin staining, and mechanical testing. The fiber
+diameters of fibrin nanofibers range from 50 to 300 nm and that of poly
+lactide co glycolide  microfibers range from 2 to 4 mum, which mimics the
+structural hierarchy of native myocardial tissue. Our results indicate that this
+scaffold enhances the differentiation of mesenchymal stem cells into
+cardiomyocytes. The cardiac phenotype of the cells was confirmed by the presence
+of cardiac specific proteins like alpha sarcomeric actinin, troponin,
+tropomyosin, desmin, and atrial natriuretic peptide Estimation of D Dimer in the
+culture supernatant for 2 weeks and analysis of scaffold for 3 weeks of in vitro
+culture of cardiomyocytes indicated the degradation of fibrin and presence of
+newly synthesized collagen respectively. Our results demonstrate the promising
+potential of this scaffold for myocardial tissue engineering applications.

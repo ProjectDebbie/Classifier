@@ -1,0 +1,28 @@
+2011 Nov Dec
+Surface modification and its effect on attachment, spreading, and proliferation
+of human gingival fibroblasts.
+P PURPOSE: The purpose of this study was to exploit potential methods of surface
+modification for improving the seal between the neck portion of a dental implant
+and the surrounding soft tissue. MATERIALS AND METHODS: Titanium surfaces were
+modified by machining  SM Ti group ; machining and acid etching  AE Ti group ; or
+machining, acid etching, and depositing 4.5 collagen/hyaluronic acid  col/HA
+polyelectrolyte bilayers  CHC Ti group . These were analyzed using scanning
+electron microscopy, scanning force microscopy, x ray photoelectron spectroscopy,
+contact angle measurement, and quartz crystal microbalance measurement. The
+degradation behavior of the col/HA multilayer coating was measured. Next, human
+gingival fibroblasts  HGFs  were cultured on the different surfaces, and cell
+morphology and spreading were observed using fluorescence microscopy and a shape
+factor measurement. Cell proliferation was examined by fluorometric
+quantification of the amount of cellular DNA. Matrix formation of HGFs was
+determined via enzyme linked immunosorbent assay. Gene expression was analyzed
+via reverse transcriptase polymerase chain reaction. RESULTS: Similar surface
+topology for these three groups was observable on a microscopic scale, and
+morphologic differences were apparent on the nanoscale. Both acid etching and
+col/HA deposition improved the hydrophilicity of the titanium surface, in
+contrast to machining alone. Each col/HA bilayer was about 5 nm thick. The col/HA
+coating degraded in about a week. Attachment and spreading of HGFs was better on
+the CHC Ti surface than on the SM Ti or AE Ti surfaces. Moreover, the
+proliferation and differentiation of HGFs were greatly stimulated when cultured
+on CHC Ti. CONCLUSION: In contrast to two control surfaces  one machined, one
+machined and acid etched , col/HA treatment of Ti improved the attachment,
+spreading, proliferation, and differentiation of HGFs.

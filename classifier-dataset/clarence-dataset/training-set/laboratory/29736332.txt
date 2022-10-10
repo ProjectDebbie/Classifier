@@ -1,0 +1,31 @@
+2018
+Behavior and biocompatibility of rabbit bone marrow mesenchymal stem cells with
+bacterial cellulose membrane.
+P Background: Tissue engineering has been shown to exhibit great potential for the
+creation of biomaterials capable of developing into functional tissues. Cellular
+expansion and integration depends on the quality and surface determinant factors
+of the scaffold, which are required for successful biological implants. The
+objective of this research was to characterize and evaluate the in vitro
+characteristics of rabbit bone marrow mesenchymal stem cells  BM MSCs  associated
+with a bacterial cellulose membrane  BCM . We assessed the adhesion, expansion,
+and integration of the biomaterial as well as its ability to induce macrophage
+activation. Finally, we evaluated the cytotoxicity and toxicity of the BCM.
+Methods: Samples of rabbit bone marrow were collected. Mesenchymal stem cells
+were isolated from medullary aspirates to establish fibroblast colony forming
+unit assay. Osteogenic, chondrogenic, and adipogenic differentiation was
+performed. Integration with the BCM was assessed by scanning electron microscopy
+at 1, 7, and 14 days. Cytotoxicity was assessed via the production of nitric
+oxide, and BCM toxicity was assessed with the MTT assay; phagocytic activity was
+also determined. Results: The fibroblastoid colony forming unit  CFU F  assay
+showed cells with a fibroblastoid morphology organized into colonies, and
+distributed across the culture area surface. In the growth curve, two distinct
+phases, lag and log phase, were observed at 15 days. Multipotentiality of the
+cells was evident after induction of osteogenic, chondrogenic, and adipogenic
+lineages. Regarding the BM MSCs' bioelectrical integration with the BCM, BM MSCs
+were anchored in the BCM in the first 24 h. On day 7 of culture, the cytoplasm
+was scattered, and on day 14, the cells were fully integrated with the
+biomaterial. We also observed significant macrophage activation; analysis of the
+MTT assay and the concentration of nitric oxide revealed no cytotoxicity of the
+biomaterial. Conclusion: The BCM allowed the expansion and biointegration of bone
+marrow progenitor cells with a stable cytotoxic profile, thus presenting itself
+as a biomaterial with potential for tissue engineering.

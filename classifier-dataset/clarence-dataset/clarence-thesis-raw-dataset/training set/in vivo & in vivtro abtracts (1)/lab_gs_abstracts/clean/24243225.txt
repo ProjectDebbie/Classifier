@@ -1,0 +1,23 @@
+2014 Feb
+Characterization and bioactive properties of zirconia based polymeric hybrid for
+orthopedic applications.
+P Zirconia is a transition metal oxide with current applications to orthopedic
+implants. It has been shown to up regulate specific genes involved in
+bio integration and injury repair. This study examines the effects of zirconia
+and polydimethylsiloxane  PDMS  hybrids on the proliferation and viability of
+human primary osteoblast and fibroblast cells. In this study, zirconia PDMS
+hybrid coatings were synthesized using a modified sol gel process. The hybrid
+material was characterized using optical microscopy, scanning electron
+microscopy, X ray photoelectron spectroscopy, and contact angle analysis. This
+study demonstrates that Zr PMDS surface materials display hydrophobic surface
+properties coupled with a preferential deposition of polymer near the surface.
+Primary osteoblast and fibroblast proliferation and viability on hybrid coated
+surfaces were evaluated via a rapid screening methodology using WST 1 and calcein
+AM assays. The cells were seed at 5,000 cells per well in 96 well plates coated
+with various composition of Zr PDMS hybrids. The results showed increasing cell
+proliferation with increasing zirconia concentration, which peaked at 90 % v/v
+zirconia. Proliferation of osteoblasts and fibroblasts displayed similar trends
+on the hybrid material, although osteoblasts displayed a bi phasic dose response
+by the calcein AM assay. The results of this current study show that Zr PDMS may
+be used to influence tissue implant integration, supporting the use of the hybrid
+as a promising coating for orthopedic trauma implants.

@@ -1,0 +1,26 @@
+2011 Nov
+Osteogenic evaluation of calcium/magnesium doped mesoporous silica scaffold with
+incorporation of rhBMP 2 by synchrotron radiation based muCT.
+P The regenerative treatment of large osseous defects remains a formidable
+challenge in orthopedic surgery today. In the present study, we have synthesized
+biodegradable calcium/magnesium doped silica based scaffolds with hierarchically
+macro/mesoporous structure  CMMS , and incorporated recombinant human bone
+morphogenetic protein 2  rhBMP 2  into the scaffolds to obtain a hybrid system
+for osteogenic factor delivery in the functional repair of bone defects. The
+developed CMMS/rhBMP 2 scaffolds presented interconnected porous network,
+macropores  200 500 mum  and mesopores  5.7 nm , as well as good bioactivity and
+biocompatibility and proper degradation rate. Combined with the capacity to
+deliver ions and growth factors, the CMMS/rhBMP 2 scaffolds significantly
+promoted the in vitro osteogenic differentiation of bone marrow stromal cells
+bMSCs , as evidenced by the enhanced expression of Runx 2, osteopontin,
+osteocalcin and bone sialoprotein, and induced the ectopic bone formation in the
+thigh muscle pouches of mice. We further assessed the in vivo effects of
+CMMS/rhBMP 2 scaffolds in a rabbit femur cavity defect model by using synchrotron
+radiation based muCT  SRmuCT  imaging and histological analysis, indicating that
+the CMMS/rhBMP 2 scaffolds resulted in more bone regeneration compared to that
+observed with the CMMS scaffolds without rhBMP 2. Moreover, scaffolds with or
+without rhBMP 2 underwent gradual resorption and replacement with bone and almost
+disappeared at 12 weeks, while the dense CMMS/rhBMP 2 material showed slower
+degradation rate and promoted the least extensive neo bone formation. This study
+suggested that the hybrid CMMS/rhBMP 2 scaffolds system demonstrates promise for
+bone regeneration in clinical case of large bone defects.

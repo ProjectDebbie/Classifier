@@ -1,0 +1,31 @@
+2011 Dec
+Peripheral blood fibrocytes: enhancement of wound healing by cell proliferation,
+re epithelialization, contraction, and angiogenesis.
+P OBJECTIVE: To identify the in vitro characteristics and functional properties of
+fibrocytes and investigate the in vivo mechanism of action of fibrocytes
+injection in accelerating the cutaneous healing process in diabetic mice.
+BACKGROUND: Fibrocytes are hematopoietic derived stem cells that may have a role
+in tissue repair, perhaps as the precursors of fibroblast  or myofibroblast like
+cells. METHODS: In vitro, the time dependent phenotypic expression of peripheral
+blood  PB  fibrocytes was stained with anti CD11b, anti CD45, anti Col I, and
+anti alpha SMA antibodies. The functional properties of fibrocytes and dermal
+fibroblasts were tested by using reverse transcriptase polymerase chain reaction.
+In vivo, full thickness wounds in diabetic mice were treated either with
+fibrocytes, dermal fibroblasts, or phosphate buffered saline  PBS  through tail
+vein injection. Wound healing kinetics, including wound contraction,
+re epithelialization, and microscopic metrics such as cell proliferation,
+angiogenesis, and granulation growth were investigated. Expression of
+proinflammatory factors, profibrotic factors, growth factors, and extracellular
+matrix components were measured in wound tissues. RESULTS: Fibrocytes gradually
+lose their hematopoietic cell markers and increase mesenchymal cell markers
+during differentiation in vitro. Fibrocytes stimulate wound healing by dermal
+cell proliferation, keratinocyte proliferation with re epithelialization, and
+angiogenesis compared with dermal fibroblast and PBS treated wounds. Expression
+of angiogenesis markers  VEGF and b FGF , growth factors  TGF beta, PDGF A, and
+FGF 7 , chemokines  MCP 1 and MIP 1alpha , and extracellular matrix  collagen I
+and alpha SMA  were upregulated in fibrocyte treated wounds. CONCLUSION:
+Peripheral blood fibrocytes can accelerate wound healing by stimulating cell
+proliferation, re epithelialization, and angiogenesis in a diabetic mice
+experimental model. The application of fibrocytes may represent a potential
+clinical solution for the treatment of chronic wounds across all fields of
+surgery.

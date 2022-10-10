@@ -1,0 +1,22 @@
+2015 Feb 10
+The promising application of graphene oxide as coating materials in orthopedic
+implants: preparation, characterization and cell behavior.
+P To investigate the potential application of graphene oxide  GO  in bone repair,
+this study is focused on the preparation, characterization and cell behavior of
+graphene oxide coatings on quartz substrata. GO coatings were prepared on the
+substrata using a modified dip coating procedure. Atomic force microscopy  AFM ,
+scanning electron microscopy  SEM  and Raman spectroscopy results demonstrated
+that the as prepared coatings in this study were homogeneous and had an average
+thickness of ~67 nm. The rapid formation of a hydroxyapatite  HA  layer in the
+simulated body fluid  SBF  on GO coated substrata at day 14, as proved by SEM and
+x ray diffraction  XRD , strongly indicated the bioactivity of coated substrata.
+In addition, MC3T3 E1 cells were cultured on the coated substrata to evaluate
+cellular activities. Compared with the non coated substrata and tissue culture
+plates, no significant difference was observed on the coated substrata in terms
+of cytotoxicity, viability, proliferation and apoptosis. However, interestingly,
+higher levels of alkaline phosphatase  ALP  activity and osteocalcin  OC
+secretion were observed on the coated substrata, indicating that GO coatings
+enhanced cell differentiation compared with non coated substrata and tissue
+culture plates. This study suggests that GO coatings had excellent
+biocompatibility and more importantly promoted MC3T3 E1 cell differentiation and
+might be a good candidate as a coating material for orthopedic implants.

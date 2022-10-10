@@ -1,0 +1,24 @@
+2009 Dec
+Fabrication of polycaprolactone collagen hydrogel constructs seeded with
+mesenchymal stem cells for bone regeneration.
+P The osteogenic differentiation of bone marrow derived human mesenchymal stem
+cells  MSCs  in a collagen I hydrogel was investigated. Collagen hydrogels with
+7.5 x 10 5  MSCs ml  1  were fabricated and cultured for 6 weeks in a defined,
+osteogenic differentiation medium. Histochemistry revealed morphologically
+distinct, chondrocyte like cells, surrounded by a sulfated proteoglycan rich
+extracellular matrix in the group treated with bone morphogenetic protein 2
+BMP 2 , while cells cultured with dexamethasone, ascorbate 2 phosphate, and
+beta glycerophosphate displayed a spindle shaped morphology and deposited a
+mineralized matrix. Real time polymerase chain reaction  RT PCR  analyses
+revealed a specific chondrogenic differentiation with the expression of
+cartilage specific markers in the BMP 2 treated group and a distinct expression
+pattern of the osteogenic markers alkaline phosphatase  ALP , type I collagen,
+osteocalcin  OC , and cbfa 1 in the group treated with an osteogenic standard
+medium. The collagen gels were used to engineer a cell laden medical grade
+epsilon polycaprolactone  PCL  hydrogel construct for segmental bone repair
+showing good bonding at the scaffold hydrogel interface and even cell
+distribution. The results show that MSCs cultured in a collagen I hydrogel are
+able to undergo a distinct osteogenic differentiation pathway when stimulated
+with specific differentiation factors and suggest that collagen I hydrogels are a
+suitable means to facilitate cell seeding of scaffolds for bone tissue
+engineering applications.

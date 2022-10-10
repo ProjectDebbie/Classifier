@@ -1,0 +1,2 @@
+Proteolytic adaptor for transfer-messenger RNA-tagged proteins from alpha-proteobacteria.
+We have identified an analog of SspB, the proteolytic adaptor for transfer-messenger RNA (tmRNA)-tagged proteins, in Caulobacter crescentus. C. crescentus SspB shares limited sequence similarity with Escherichia coli SspB but binds the tmRNA tag in vitro and is required for optimal proteolysis of tagged proteins in vivo.

@@ -1,0 +1,29 @@
+2016 Feb 17
+Enhanced Osseointegration of Hierarchical Micro/Nanotopographic Titanium
+Fabricated by Microarc Oxidation and Electrochemical Treatment.
+P Rapid osseointegration is recognized as a critical factor in determining the
+success rate of orthopedic and dental implants. Microarc oxidation  MAO
+fabricated titanium oxide coatings with a porous topography have been proven to
+be a potent approach to enhance osteogenic capacity. Now we report two kinds of
+new hierarchical coatings with similar micromorphologies but different
+nanotopographies  i.e., MAO and MAO AK coatings , and both coatings significantly
+promote cell attachment and osteogenic differentiation through mediating the
+integrin beta1 signaling pathway. In this study, titanium with a unique
+hierarchical micro/nanomorphology surface was fabricated by a novel duplex
+coating process, that is, the first a titanium oxide layer was coated by MAO, and
+then the coating was electrochemically reduced in alkaline solution  MAO AK . A
+series of in vitro stem cell differentiation and in vivo osseointegration
+experiments were carried out to evaluate the osteogenic capacity of the resulting
+coatings. In vitro, the initial adhesion of the canine bone marrow stem cells
+BMSCs  seeded on the MAO and MAO AK coatings was significantly enhanced, and
+cell proliferation was promoted. In addition, the expression levels of
+osteogenesis related genes, osteorix, alkaline phosphates  ALP , osteopontin, and
+osteocalcin, in the canine BMSCs, were all up regulated after incubation on these
+coatings, especially on the MAO AK coating. Also, the in vitro ALP activity and
+mineralization capacity of canine BMSC cultured on the MAO AK group was better
+than that on the MAO group. Furthermore, 6 weeks after insertion of the titanium
+implants into canine femurs, both the bone formation speed and the bone implant
+contact ratio of the MAO AK group were significantly higher than those of the MAO
+group. All these results suggest that this duplex coating process is promising
+for engineering titanium surfaces to promote osseointegration for dental and
+orthopedic applications.

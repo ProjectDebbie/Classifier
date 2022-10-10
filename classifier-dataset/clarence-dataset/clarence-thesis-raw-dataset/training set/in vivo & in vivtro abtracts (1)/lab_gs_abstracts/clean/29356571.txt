@@ -1,0 +1,27 @@
+2018 Apr
+A Biomimetic Emu Oil Blended Electrospun Nanofibrous Mat for Maintaining Stemness
+of Adipose Tissue Derived Stem Cells.
+P BACKGROUND: Emu oil  EO  with anti inflammatory, antioxidative, and wound healing
+properties can be blended for preparing bioactive nanofibrous scaffold. Adipose
+tissue derived stem cells  ADSCs  are promising candidates for tissue
+engineering, and preserving their stemness potential is vital for further
+therapeutic applications. AIM: The aim of this study was to fabricate EO blended
+nanofiber and investigate its effect on proliferation, survival, and stemness
+preservation of ADSCs. MATERIALS AND METHODS: Pure EO composition was
+characterized using a gas chromatograph mass spectrometer. EO PCL polyethylene
+glycol  PEG  nanofibers were successfully fabricated using an electrospinning
+technique and characterized by field emission scanning electron microscopy
+FE SEM  and fourier transform infrared spectroscopy  FTIR . Cell viability and
+adhesion were measured using the MTT assay and FE SEM. Finally, quantitative PCR
+qPCR  was used to quantify the expression level of cell cycle regulated genes
+and pluripotency associated transcription factors. RESULTS: Findings showed that
+20%  w/w  of EO is the optimum oil content in the electrospun solution to achieve
+good morphology and ultrafine fibers. The relatively high optical densities and
+FE SEM images indicated that EO highly supported cell adhesion and proliferation
+on the matrices. In addition, EO PCL PEG electrospun nanofibrous mats
+significantly upregulated the expression levels of cell cycle regulated genes
+Cyclin D1, pRb, and P53  and stemness markers  Nanog, OCT 4, Rex 1, and Sox 2
+than PCL PEG nanofiber and tissue culture polystyrene in 7 and 14 days of cell
+culture. CONCLUSION: These results demonstrate that the EO blended nanofibrous
+mat can be used as a bioactive scaffold to support cell adhesion and
+proliferation while simultaneously maintaining the stemness of ADSCs.

@@ -1,0 +1,27 @@
+2018 Mar
+Composite Scaffolds of Mineralized Natural Extracellular Matrix on True Bone
+Ceramic Induce Bone Regeneration Through Smad1/5/8 and ERK1/2 Pathways.
+P A stem cell derived mineralized extracellular matrix  ECM  may be a good strategy
+to endow scaffolds with a bone microenvironment, thus inducing bone regeneration.
+However, it also faces some challenges, such as limited number of cells,
+additional wound for autologous cell isolation, and time consumption of cell
+expansion. In this study, we designed a novel tissue derived ECM scaffold
+fabricated by depositing porcine small intestinal submucosa  SIS  ECM on true
+bone ceramic  TBC , which was followed by mineralization treatment  mSIS/TBC . In
+vitro, compared with pure TBC, mSIS/TBC promoted cell proliferation, cell
+viability, and osteoblastic differentiation of the newly seeded rat bone marrow
+mesenchymal stem cells  BMSCs , and upregulation of the messenger RNA  mRNA
+level of osteogenesis related genes. Western blot assay revealed that mSIS/TBC
+enhanced osteoblastic differentiation through activation of phosphorylated
+Smad1/5/8 and phosphorylated extracellular signal regulated kinase  ERK , as an
+underlying mechanism. In vivo, in a rat cranial critical size defect model,
+mSIS/TBC scaffolds induced greater bone formation than pure TBC scaffolds.
+Meanwhile, a comparative study on the capacity of bone regeneration was also
+carried out between mSIS/TBC and BMSC derived ECM deposited on TBC scaffold in
+vivo and in vitro. The results demonstrated that mSIS/TBC scaffolds acquired a
+comparable bone regeneration efficacy to that of BMSC derived ECM deposited on
+TBC scaffolds. Collectively, our results demonstrated that mSIS/TBC enhanced bone
+regeneration by supporting cell proliferation and cell viability, and by
+activating Smad1/5/8 and ERK1/2 signal pathways of BMSC in vitro and in vivo;
+thus, mSIS/TBC is an excellent alternative to stem cell derived ECM scaffold for
+bone regeneration.

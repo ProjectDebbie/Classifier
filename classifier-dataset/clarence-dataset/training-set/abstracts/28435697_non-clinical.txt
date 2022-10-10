@@ -1,0 +1,26 @@
+2017
+Calcium phosphates and silicon: exploring methods of incorporation.
+P BACKGROUND: Bioinorganics have been explored as additives to ceramic bone graft
+substitutes with the aim to improve their performance in repair and regeneration
+of large bone defects. Silicon  Si , an essential trace element involved in the
+processes related to bone formation and remodeling, was shown not only to enhance
+osteoblasts proliferation but also to stimulate the differentiation of
+mesenchymal stem cells  MSCs  and preosteoblasts into the osteogenic lineage. In
+this study, the added value of Si to calcium phosphate  CaP  coatings was
+evaluated. METHODS: Tissue culture plastic well plates were coated with a thin
+CaP layer to which traces amounts of Si were added, either by adsorption or by
+incorporation through coprecipitation. The physicochemical and structural
+properties of the coatings were characterized and the dissolution behavior was
+evaluated. The adsorption/incorporation of Si was successfully achieved and
+incorporated ions were released from the CaP coatings. Human MSCs were cultured
+on the coatings to examine the effects of Si on cell proliferation and osteogenic
+differentiation. For the statistical analysis, a one way ANOVA with Bonferroni
+post hoc test was performed. RESULTS: The results showed that human MSCs  hMSCs
+responded to the presence of Si in the CaP coatings, in a dose dependent manner.
+An increase in the expression of markers of osteogenic differentiation by human
+MSCs was observed as a result of the increase in Si concentration. CONCLUSIONS:
+The incorporation/adsorption of Si into CaP coatings was successfully achieved
+and hMSCs responded with an increase in osteogenic genes expression with the
+increase of Si concentration. Furthermore, hMSCs cultured on CaP I coatings
+expressed higher levels of ALP and OP, indicating that this may be the preferred
+method of incorporation of bioinorganics into CaPs.

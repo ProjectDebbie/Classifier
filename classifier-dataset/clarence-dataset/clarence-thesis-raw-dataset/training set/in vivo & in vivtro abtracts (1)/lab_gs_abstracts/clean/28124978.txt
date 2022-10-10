@@ -1,0 +1,32 @@
+2017 Jan 23
+Surface Modification of Titanium with BMP 2/GDF 5 by a Heparin Linker and Its
+Efficacy as a Dental Implant.
+LID   E229 [pii]
+LID   10.3390/ijms18010229 [doi]
+A In this study, we prepared human bone morphogenetic protein 2  hBMP 2 /human
+growth and differentiation factor 5  hGDF 5  coated titanium  Ti  disc and screw
+types for controlled release of the growth factors  GFs . The two growth factors
+were coated onto Ti with a smooth surface using their specific interaction with
+heparin, because they have heparin binding sites in their molecular structures.
+Efficacy of the two growth factor coated Ti for enhancement of bone formation and
+osseointegration was compared to pristine Ti, and hBMP 2  and hGDF 5 coated Ti in
+vivo. The surface chemical composition, surface morphology, and wettability
+characteristics of the metal samples were determined by X ray photoelectron
+spectroscopy  XPS , scanning electron microscopy  SEM , and contact angle
+measurement, respectively. The initial burst of hBMP 2, hGDF 5, and their
+combination, occurred within one day of the release study, resulting in 12.5%,
+4.5%, and 13.5%/3.2%, and then there was a sustained, even release of these two
+growth factors from the coated metal for 30 days. In vitro tests revealed that
+MC3T3 E1 cells cultured on the two growth factor coated Ti had a higher
+proliferation rate and a higher activity for alkaline phosphatase  ALP , which
+led to a larger amount of calcium deposition and larger expressions of type I
+collagen  COL 1 , ALP, and osteocalcin  OCN  mRNAs. In vivo animal tests using
+ten white New Zealand rabbits showed that the two growth factor coated Ti
+enhanced bone formation and osseointegration at the interface between the
+implants and host bone. In addition, histological evaluation showed that bone
+remodeling, including bone formation by osteoblasts and bone resorption by
+osteoclasts, actively occurred between the two growth factor coated Ti and host
+bone. Consequently, it is suggested that Ti surface modification with the
+combination of hBMP 2 and hGDF 5 for the two growth factor coated Ti implants can
+improve the clinical properties of implants for orthopedic and dental
+applications.

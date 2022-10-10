@@ -1,0 +1,35 @@
+2013 Aug
+In vitro cartilage production using an extracellular matrix derived scaffold and
+bone marrow derived mesenchymal stem cells.
+P BACKGROUND: Cartilage repair is a challenging research area because of the
+limited healing capacity of adult articular cartilage. We had previously
+developed a natural, human cartilage extracellular matrix  ECM  derived scaffold
+for in vivo cartilage tissue engineering in nude mice. However, before these
+scaffolds can be used in clinical applications in vivo, the in vitro effects
+should be further explored. METHODS: We produced cartilage in vitro using a
+natural cartilage ECM derived scaffold. The scaffolds were fabricated by
+combining a decellularization procedure with a freeze drying technique and were
+characterized by scanning electron microscopy  SEM , micro computed tomography
+micro CT , histological staining, cytotoxicity assay, biochemical and
+biomechanical analysis. After being chondrogenically induced, the induction
+results of BMSCs were analyzed by histology and Immunohisto chemistry. The
+attachment and viability assessment of the cells on scaffolds were analyzed using
+SEM and LIVE/DEAD staining. Cell scaffold constructs cultured in vitro for 1 week
+and 3 weeks were analyzed using histological and immunohistochemical methods.
+RESULTS: SEM and micro CT revealed a 3 D interconnected porous structure. The
+majority of the cartilage ECM was found in the scaffold following the removal of
+cellular debris, and stained positive for safranin O and collagen II. Viability
+staining indicated no cytotoxic effects of the scaffold. Biochemical analysis
+showed that collagen content was  708.2 44.7  microg/mg, with GAG  254.7 +/
+25.9  microg/mg. Mechanical testing showed the compression moduli  E  were  1.226
++/  0.288  and  0.052 +/  0.007  MPa in dry and wet conditions, respectively.
+Isolated canine bone marrow derived stem cells  BMSCs  were induced down a
+chondrogenic pathway, labeled with PKH26, and seeded onto the scaffold.
+Immunofluorescent staining of the cell scaffold constructs indicated that
+chondrocyte like cells were derived from seeded BMSCs and excreted ECM. The
+cell scaffold constructs contained pink, smooth and translucent cartilage like
+tissue after 3 weeks of culture. We observed evenly distributed cartilage ECM
+proteoglycans and collagen type II around seeded BMSCs on the surface and inside
+the pores throughout the scaffold. CONCLUSION: This study suggests that a
+cartilage ECM scaffold holds much promise for in vitro cartilage tissue
+engineering.

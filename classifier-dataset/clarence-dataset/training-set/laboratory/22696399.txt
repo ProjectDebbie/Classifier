@@ -1,0 +1,26 @@
+2014 May
+Cytomodulin functionalized porous PLGA particulate scaffolds respond better to
+cell migration, actin production and wound healing in rodent model.
+P In the present study, porous PLGA microparticulate scaffolds  PMS_P ,
+surface hydrolysed scaffolds  PMS_Hyd  and cytomodulin coupled scaffolds  PMS_CM
+were prepared and characterized. After coupling the particles with cytomodulin,
+the size was reduced from 334 microm  span 0.53  to 278 microm due to hydrolysis,
+and contact angle also decreased from 70.87 +/  8.56 to 31.43 +/  7.43,
+indicating an increase in hydrophilicity. Surface roughness and pore density
+increased, along with an increase in surface area from 9.59 +/  0.36 to 16.82 +/
+0.064 m 2  /g after attaching the biomolecule CM onto the PLGA particles. In
+vitro cell culture experiments on human dermal fibroblasts  HDFs  were performed
+for 21 days, in which MTT assay indicated two fold higher cell proliferation on
+PMS_Hyd than on PMS_CM; however, cell distribution, cell spreading and actin
+production were significantly higher on PMS_CM than on other scaffolds. Migration
+of cells from PMS_CM to a 2D plate was gradual but the migrated cells attained
+early confluence, indicating the preservation of normal cellular functions. In a
+full thickness wound mouse model, PMS_CM exhibited 80% wound closure within 2
+weeks. Further, at the end of week 3, the inflammatory cell count in the PMS_CM
+group was reduced to one third of the control group, while in PMS_P and PMS_Hyd
+the extent of inflammation was much higher and more severe. In the case of
+PMS_CM, abundant fibroblast proliferation, early formation of the scar tissue,
+eschar formation and inward movement of the wound margins  a zipper like
+movement  towards the deeper layers of the skin suggested advanced wound healing.
+Cytomodulin coupled scaffolds ensured better cell spreading and migration and
+thus enabled rapid wound healing  see Supporting information, Figure S1 .

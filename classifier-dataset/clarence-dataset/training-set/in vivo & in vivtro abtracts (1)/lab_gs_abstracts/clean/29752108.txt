@@ -1,0 +1,27 @@
+2018 Aug 1
+Surface decorated hydroxyapatite scaffold with on demand delivery of
+dexamethasone and stromal cell derived factor 1 for enhanced osteogenesis.
+P In the process of bone regeneration, relatively early biological events including
+inflammatory response, angiogenesis, or stem cell homing, help the accompanying
+target actions of cell differentiation and calcification. Herein, we proposed a
+novel cell guided tissue engineering system based on a surface functionalized
+porous hydroxyapatite  HA  scaffolds with the ability to recruit cells and
+accelerate the differentiation of them along the osteoblastic lineage for
+optimizing large sized bone defect repair. Inspired by microstructural properties
+of natural bone, HA scaffolds similar to the trabecular bone structure were
+prepared via a sugar sphere leaching technique, in which the inter pore opening
+size was controllable. Dexamethasone  Dex  loaded hydroxypropyl beta cyclodextrin
+microspheres  Dex@CDMs  and stromal cell derived factor 1  SDF 1  were uniformly
+immobilized onto HA surface by a cross linked alginate coating. The resulting
+scaffold  SDF 1/Dex@CDMs HA  enabled the on demand dual delivery of SDF 1 and
+Dex. In vitro cell culture assays showed that initially released SDF 1 markedly
+stimulated the migration of mesenchymal stem cells  MSCs  to the deep interior of
+the scaffold, providing abundant target cells for the function of Dex which was
+subsequently released. Osteogenic differentiation potential of these cells was
+also further facilitated via a synergistic action of SDF 1 and Dex. Additionally,
+in vivo studies demonstrated that the cell guided system effectively improved the
+early cell recruitment and vascularization within the deep interior of scaffold
+and significantly accelerated the extensive formation of osteoid and mineralized
+tissue compared with the controls. Accordingly, such a microsphere
+coating decorated multifunctional scaffold shows a promising potential for
+cell free bone tissue engineering applications.

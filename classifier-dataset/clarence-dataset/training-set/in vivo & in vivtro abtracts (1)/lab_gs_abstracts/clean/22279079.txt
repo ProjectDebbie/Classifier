@@ -1,0 +1,48 @@
+2012
+Cell based therapies for lung disease.
+P INTRODUCTION OR BACKGROUND: The adult lung is a complex organ whose large surface
+area interfaces extensively with both the environment and circulatory system.
+Yet, in spite of the high potential for exposure to environmental or systemic
+harm, epithelial cell turnover in adult lung is comparatively slow. Moreover,
+loss of lung function with advancing age is becoming an increasingly costly
+healthcare problem. Cell based therapies stimulating endogenous stem/progenitor
+cells or supplying exogenous ones have therefore become a prime translational
+goal. Alternatively when lung repair becomes impossible, replacement with
+tissue engineered lung is an attractive emerging alternative using a
+decellularized matrix or bioengineered scaffold. SOURCES OF DATA: Endogenous and
+exogenous stem cells for lung therapy are being characterized by defining
+developmental lineages, surface marker expression, functions within the lung and
+responses to injury and disease. Seeding decellularized lung tissue or
+bioengineered matrices with various stem and progenitor cells is an approach that
+has already been used to replace bronchus and trachea in human patients and
+awaits further development for whole lung tissue. AREAS OF AGREEMENT: Cellular
+therapies have clear potential for respiratory disease. However, given the
+surface size and complexity of lung structure, the probability of a single
+cellular population sufficing to regenerate the entire organ, as in the bone
+marrow, remains low. Hence, lung regenerative medicine is currently focused
+around three aims:  i  to identify and stimulate resident cell populations that
+respond to injury or disease,  ii  to transplant exogenous cells which can
+ameliorate disease and  iii  to repopulate decellularized or bioengineered lung
+matrix creating a new implantable organ. AREAS OF CONTROVERSY: Lack of consensus
+on specific lineage markers for lung stem and progenitor cells in development and
+disease constrains transferability of research between laboratories and sources
+of cellular therapy. Furthermore, effectiveness of individual cellular therapies
+to correct gas exchange and provide other critical lung functions remains
+unproven. Finally, feasibility of autologous whole organ replacement has not been
+confirmed as a durable therapy. Growing points Cellular therapies for lung
+regeneration would be enhanced by better lineage tracing within the lung, the
+ability to direct differentiation of exogenous stem or progenitor cells, and the
+development of functional assays for cellular viability and regenerative
+properties. Whether endogenous or exogeneous cells will ultimately play a greater
+therapeutic role remains to be seen. Reducing the need for lung replacement via
+endogenous cell mediated repair is a key goal. Thereafter, improving the
+potential of donor lungs in transplant recipients is a further area where
+cell based therapies may be beneficial. Ultimately, lung replacement with
+autologous tissue engineered lungs is another goal for cell based therapy. Areas
+timely for developing research Defining 'lung stem or progenitor cell'
+populations in both animal models and human tissue may help. Additionally,
+standardizing assays for assessing the potential of endogenous or exogenous cells
+within the lung is important. Understanding cell matrix interactions in real time
+and with biomechanical insight will be central for lung engineering. Cautionary
+note Communicating the real potential for cell based lung therapy needs to remain
+realistic, given the keen expectations of patients with end stage lung disease.

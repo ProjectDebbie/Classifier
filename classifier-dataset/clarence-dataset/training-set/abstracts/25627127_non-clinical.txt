@@ -1,0 +1,26 @@
+2015 Jan
+Development of resorbable nanocomposite tracheal and bronchial scaffolds for
+paediatric applications.
+P BACKGROUND: Congenital tracheal defects and prolonged intubation following
+premature birth have resulted in an unmet clinical need for tracheal replacement.
+Advances in stem cell technology, tissue engineering and material sciences have
+inspired the development of a resorbable, nanocomposite tracheal and bronchial
+scaffold. METHODS: A bifurcated scaffold was designed and constructed using a
+novel, resorbable nanocomposite polymer, polyhedral oligomeric silsesquioxane
+poly  caprolactone  urea urethane  POSS PCL . Material characterization studies
+included tensile strength, suture retention and surface characteristics. Bone
+marrow derived mesenchymal stem cells  bmMSCs  and human tracheobronchial
+epithelial cells  HBECs  were cultured on POSS PCL for up to 14 days, and
+metabolic activity and cell morphology were assessed. Quantum dots conjugated to
+RGD  l arginine, glycine and l aspartic acid  tripeptides and anticollagen type I
+antibody were then employed to observe cell migration throughout the scaffold.
+RESULTS: POSS PCL exhibited good mechanical properties, and the relationship
+between the solid elastomer and foam elastomer of POSS PCL was comparable to that
+between the cartilaginous U shaped rings and interconnective cartilage of the
+native human trachea. Good suture retention was also achieved. Cell attachment
+and a significant, steady increase in proliferation were observed for both cell
+types  bmMSCs, P = 0.001; HBECs, P = 0.003 . Quantum dot imaging illustrated
+adequate cell penetration throughout the scaffold, which was confirmed by
+scanning electron microscopy. CONCLUSION: This mechanically viable scaffold
+successfully supports bmMSC and HBEC attachment and proliferation, demonstrating
+its potential as a tissue engineered solution to tracheal replacement.

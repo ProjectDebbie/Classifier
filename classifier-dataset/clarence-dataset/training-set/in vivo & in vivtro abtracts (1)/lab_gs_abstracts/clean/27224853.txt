@@ -1,0 +1,25 @@
+2016 Jun 28
+Conformal Nanoencapsulation of Allogeneic T Cells Mitigates Graft versus Host
+Disease and Retains Graft versus Leukemia Activity.
+P Allogeneic transplantation of hematopoietic stem cells  HSC  in combination with
+T cells has a curative potential for hematopoietic malignancies through
+graft versus leukemia  GVL  effects, but is often compromised by the notorious
+side effect of graft versus host disease  GVHD  resulting from alloreactivity of
+the donor T cells. Here, we tested if temporary immunoisolation achieved by
+conformally encapsulating the donor T cells within a biocompatible and
+biodegradable porous film   approximately 450 nm in thickness  of chitosan and
+alginate could attenuate GVHD without compromising GVL. The nanoencapsulation was
+found not to affect the phenotype of T cells in vitro in terms of size,
+viability, proliferation, cytokine secretion, and cytotoxicity against tumor
+cells. Moreover, the porous nature of the nanoscale film allowed the encapsulated
+T cells to communicate with their environment, as evidenced by their intact
+capability of binding to antibodies. Lethally irradiated mice transplanted with
+bone marrow cells  BMCs  and the conformally encapsulated allogeneic T cells
+exhibited significantly improved survival and reduced GVHD together with minimal
+liver damage and enhanced engraftment of donor BMCs, compared to the
+transplantation of BMCs and non encapsulated allogeneic T cells. Moreover, the
+conformal nanoencapsulation did not compromise the GVL effect of the donor T
+cells. These data show that conformal nanoencapsulation of T cells within
+biocompatible and biodegradable nanoscale porous materials is a potentially safe
+and effective approach to improve allogeneic HSC transplantation for treating
+hematological malignancies and possibly other diseases.

@@ -1,0 +1,25 @@
+2015 Mar 18
+Improving osteointegration and osteogenesis of three dimensional porous Ti6Al4V
+scaffolds by polydopamine assisted biomimetic hydroxyapatite coating.
+P Titanium alloys with various porous structures can be fabricated by advanced
+additive manufacturing techniques, which are attractive for use as scaffolds for
+bone defect repair. However, modification of the scaffold surfaces, particularly
+inner surfaces, is critical to improve the osteointegration of these scaffolds.
+In this study, a biomimetic approach was employed to construct
+polydopamine assisted hydroxyapatite coating  HA/pDA  onto porous Ti6Al4V
+scaffolds fabricated by the electron beam melting method. The surface
+modification was characterized with the field emission scanning electron
+microscopy, energy dispersive spectroscopy, water contact angle measurement, and
+confocal laser scanning microscopy. Attachment and proliferation of MC3T3 E1
+cells on the scaffold surface were significantly enhanced by the HA/pDA coating
+compared to the unmodified surfaces. Additionally, MC3T3 E1 cells grown on the
+HA/pDA coated Ti6Al4V scaffolds displayed significantly higher expression of
+runt related transcription factor 2, alkaline phosphatase, osteocalcin,
+osteopontin, and collagen type 1 compared with bare Ti6Al4V scaffolds after
+culture for 14 days. Moreover, microcomputed tomography analysis and Van Gieson
+staining of histological sections showed that HA/pDA coating on surfaces of
+porous Ti6Al4V scaffolds enhanced osteointegration and significantly promoted
+bone regeneration after implantation in rabbit femoral condylar defects for 4 and
+12 weeks. Therefore, this study provides an alternative to biofunctionalized
+porous Ti6Al4V scaffolds with improved osteointegration and osteogenesis
+functions for orthopedic applications.

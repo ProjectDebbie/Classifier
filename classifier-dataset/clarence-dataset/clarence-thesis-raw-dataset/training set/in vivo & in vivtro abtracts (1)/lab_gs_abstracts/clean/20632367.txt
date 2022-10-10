@@ -1,0 +1,29 @@
+2010 Nov 1
+Lentivirus mediated knockdown of aggrecanase 1 and  2 promotes
+chondrocyte engineered cartilage formation in vitro.
+P Chondrocyte based tissue engineering has emerged as a promising approach for
+repair of injured cartilage tissues that have a poor self healing capacity.
+However, this technique faces a major limitation: dedifferentiation of
+chondrocytes occurs following several passages in culture. Aggrecan, a major
+component of cartilage extracellular matrix, plays an essential role in
+chondrocyte differentiation. The aim of this study is to determine whether
+inhibition of chondrocyte aggrecanases, key degradative enzymes for aggrecan in
+cartilage, could benefit chondrocyte differentiation and the preservation of
+chondrocyte phenotype within a long term period. Lentivirus mediated RNA
+interference  RNAi  was employed to target both aggrecanase 1 and  2 in primary
+rat chondrocytes, and the transduced cells were seeded into chitosan gelatin
+three dimensional scaffolds. Histological, morphological, and biochemical
+analyses were performed at 1 8 weeks post implantation to study chondrocyte
+survival, differentiation, and function. We found that lentivirus mediated RNAi
+notably decreased the abundance of aggrecanase transcripts in chondrocytes but
+did not affect cell viability. Most importantly, compared to the control
+constructs seeded with untransduced chondrocytes, the aggrecanase inhibition
+increased chondrocyte proliferation and reinforced the production of
+glycosaminoglycans and total collagen, indicative of chondrocyte differentiation.
+The mRNA expression of chondrocyte marker genes  collagen II and aggrecan  was
+enhanced by aggrecanase silencing relative to the control. Together our data
+demonstrate that inhibition of endogenous aggrecanases facilitates chondrocyte
+differentiation and chondrocyte engineered cartilage formation in vitro. The
+combination of lentiviral delivery system and genetic manipulation techniques
+provides a useful tool for modulation of chondrocyte phenotype in cartilage
+engineering.

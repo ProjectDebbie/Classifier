@@ -1,0 +1,23 @@
+2018 Apr 11
+Influence of Mussel Derived Bioactive BMP 2 Decorated PLA on MSC Behavior in
+Vitro and Verification with Osteogenicity at Ectopic Sites in Vivo.
+P Osteoinductive activity of the implant in bone healing and regeneration is still
+a challenging research topic. Therapeutic application of recombinant human bone
+morphogenetic protein 2  BMP 2  is a promising approach to enhance osteogenesis.
+However, high dose and uncontrolled burst release of BMP 2 may introduce edema,
+bone overgrowth, cystlike bone formation, and inflammation. In this study,
+low dose BMP 2 of 1 mug was used to design PLA PD BMP for functionalization of
+polylactic acid  PLA  implants via mussel inspired polydopamine  PD  assist. For
+the first time, the binding property and efficiency of the PD coating with BMP 2
+were directly demonstrated and analyzed using an antigen antibody reaction. The
+obtained PLA PD BMP surface immobilized with this low BMP 2 dose can endow the
+implants with abilities of introducing strong stem cell adhesion and enhanced
+osteogenicity. Furthermore, in vivo osteoinduction of the PLA PD BMP 2 scaffolds
+was confirmed by a rat ectopic bone model, which is marked as the "gold standard"
+for the evidence of osteoinductive activity. The microcomputed tomography,
+Young's modulus, and histology analyses were also employed to demonstrate that
+PLA PD BMP grafted with 1 mug of BMP 2 can induce bone formation. Therefore, the
+method in this study can be used as a model system to immobilize other growth
+factors onto various different types of polymer substrates. The highly biomimetic
+mussel derived strategy can therefore improve the clinical outcome of
+polymer based medical implants in a facile, safe, and effective way.

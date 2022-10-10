@@ -1,0 +1,27 @@
+2018 Mar
+Extracellular matrix protein production in human adipose derived mesenchymal stem
+cells on three dimensional polycaprolactone  PCL  scaffolds responds to GDF5 or
+FGF2.
+P Purpose: The poor healing potential of intra articular ligament injuries drives a
+need for the development of novel, viable 'neo ligament' alternatives. Ex vivo
+approaches combining stem cell engineering, 3 dimensional biocompatible scaffold
+design and enhancement of biological and biomechanical functionality via the
+introduction of key growth factors and morphogens, represent a promising solution
+to ligament regeneration. Methods: We investigated growth, differentiation and
+extracellular matrix  ECM  protein production of human adipose derived
+mesenchymal stem/stromal cells  MSCs , cultured in 5% human platelet lysate  PL
+and seeded on three dimensional polycaprolactone  PCL  scaffolds, in response to
+the connective tissue related ligands fibroblast growth factor 2  basic   FGF2
+and growth and differentiation factor 5  GDF5 . Phenotypic alterations of MSCs
+under different biological conditions were examined using cell viability assays,
+real time qPCR analysis of total RNA, as well as immunofluorescence microscopy.
+Results: Phenotypic conversion of MSCs into ECM producing fibroblastic cells
+proceeds spontaneously in the presence of human platelet lysate. Administration
+of FGF2 and/or GDF5 enhances production of mRNAs for several ECM proteins
+including Collagen types I and III, as well as Tenomodulin  e.g., COL1A1, TNMD ,
+but not Tenascin C  TNC . Differences in the in situ deposition of ECM proteins
+Collagen type III and Tenascin C were validated by immunofluorescence microscopy.
+Summary: Treatment of MSCs with FGF2 and GDF5 was not synergistic and
+occasionally antagonistic for ECM production. Our results suggest that GDF5 alone
+enhances the conversion of MSCs to fibroblastic cells possessing a phenotype
+consistent with that of connective tissue fibroblasts.

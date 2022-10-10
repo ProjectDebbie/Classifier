@@ -9,7 +9,27 @@ Since the goal of DEBBIE is to annotate biomaterial-specific research, a classif
 - [gold standard biomaterials clinical collection](https://github.com/ProjectDebbie/gold_standard_set/blob/master/clinical_gs_1092.txt)
 - [background set](https://github.com/ProjectDebbie/background_set). 
 
+The folder classifier-dataset contains the actual training and test set that was used for the development of the classifier.
+
+The DEBBIE SGDClassifier model achieved an accuracy of 0.89, a recall of 0.86 and an F1-score of 0.87. 
+
+
+The performance results can be reproducible throught the file multiclass_classifier_development.ypinb
+
 The components of the trained classifier are available for download as .pkl files. The classifer returns the relevant abstracts in a designated folder.    
+
+
+
+## Docker
+projectdebbie/classifier:2.1.0
+
+## Execution 
+
+	python3 debbie_trained_classifier.py -i /in -o /out 
+	
+	or in with docker
+
+	docker run --rm -u $UID -v ${PWD}/input_output:/in:ro -v ${PWD}/nlp_preprocessing_output:/out:rw projectdebbie/classifier:2.1.0 python3 /usr/src/app/debbie_trained_classifier.py -i /in -o /out -w /usr/src/app
 
 Parameters:
 
@@ -17,7 +37,9 @@ Parameters:
 
 -o output folder with relevant biomaterials abstracts in plain text 
 
-## Actual Version: 1.2.0, 2022-09-05
+-w work folder
+
+## Actual Version: 2.1.0, 2022-09-05
 ## [Changelog](https://github.com/ProjectDebbie/Classifier/blob/master/CHANGELOG)
 
 ## Built With
@@ -27,7 +49,7 @@ Parameters:
 
 ## Authors
 
-* **Osnat Hakimi** - **Austin McKitrick** - **Javier Corvi** 
+* **Osnat Hakimi** - **Javier Corvi**  - **Austin McKitrick** 
 
 
 ## License

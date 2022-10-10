@@ -1,0 +1,22 @@
+2011 May
+Initial cell pre cultivation can maximize ECM mineralization by human mesenchymal
+stem cells on silk fibroin scaffolds.
+P Fast remineralization of bone defects by means of tissue engineering is one of
+many targets in orthopedic regeneration. This study investigated the influence of
+a range of pre culture durations for human bone marrow derived mesenchymal stem
+cells  hMSC  before inducing differentiation into osteoblast like cells. The aim
+was to find the conditions that lead to maximal extracellular matrix  ECM
+mineralization, in terms of both amount and best distribution. Additionally, the
+influence of silk fibroin scaffold pore size on mineralization was assessed. The
+formation of mineralized ECM by hMSCs cultured in osteogenic medium on silk
+fibroin scaffolds was monitored and quantified for up to 72 days in culture using
+non invasive time lapse micro computed tomography  micro CT . ECM mineralization
+increased linearly 3 weeks after the beginning of the experiment with addition of
+differentiation medium. Biochemical end point assays measured the amount of DNA,
+calcium deposits, alkaline phosphatase activity and cell metabolic activity to
+corroborate the hypothesis that an initial pre culture period of hMSCs on silk
+fibroin scaffolds can accelerate mineralized ECM formation. According to the
+micro CT analysis mineralization on silk fibroin scaffolds with pores of 112 224
+mum diameter was most efficient with an initial cell pre culture period of 9
+days, showing 6.87+/ 0.81x higher mineralization values during the whole
+cultivation period than without an initial cell pre culture period.

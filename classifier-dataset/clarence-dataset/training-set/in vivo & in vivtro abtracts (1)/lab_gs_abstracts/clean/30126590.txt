@@ -1,0 +1,39 @@
+2018 Sep 1
+Fractionated human adipose tissue as a native biomaterial for the generation of a
+bone organ by endochondral ossification.
+P Many steps are required to generate bone through endochondral ossification with
+adipose mesenchymal stromal cells  ASC , from cell isolation to in vitro
+monolayer expansion, seeding into scaffolds, cartilaginous differentiation and in
+vivo remodeling. Moreover, monolayer expansion and passaging of ASC strongly
+decreases their differentiation potential. Here, we propose that adipose tissue
+itself can be used as scaffold for ASC expansion and endochondral ossification.
+Human liposuctions were fractionated and cultured for 3weeks with proliferative
+medium in suspension. The resulting constructs, named Adiscaf, were compared to
+constructs generated with a previously developed, control approach, i.e. collagen
+sponges seeded with monolayer expanded ASC. After 4weeks of chondrogenic
+differentiation, Adiscaf contained cartilage tissue, characterized by
+glycosaminoglycans and collagen type II. After 2 additional weeks of hypertrophic
+differentiation, Adiscaf showed upregulation of hypertrophic markers at the gene
+expression and protein levels. After 8weeks of in vivo implantation, Adiscaf
+resulted in ectopic bone tissue formation, including bone marrow elements.
+Adiscaf showed superior in vitro differentiation and in vivo performance as
+compared to the control paradigm involving isolation and monolayer expansion of
+ASC. This new paradigm exploits the physiological niche of adipose tissue and
+strongly suggests a higher functionality of cells inside adipose tissue after in
+vitro expansion. This study demonstrates that adult human adipose tissue used as
+a native construct can generate a bone organ by endochondral ossification. The
+concept could be exploited for the generation of osteogenic grafts for bone
+repair. STATEMENT OF SIGNIFICANCE: In this study we used adult human adipose
+tissue as scaffolding materials  called Adiscaf  to generate a bone organ by
+endochondral ossification. Adiscaf concept is based on the culture of adipose
+tissue cells inside their native microenvironment for the generation of
+osteogenic grafts for bone repair. This simplified approach overcomes several
+limitations linked to the current techniques in bone tissue engineering, such as
+isolation of cells and inadequate properties of the biomaterials used as
+scaffolds. In addition, the present paradigm proposes to exploit physiological
+niches in order to better maintain the functionality of cells during their in
+vitro expansion. This project not only has a scientific impact by evaluating the
+impact of native physiological niches on the functionality and chondrogenic
+differentiation of mesenchymal progenitors but also a clinical impact to generate
+osteogenic grafts and/or osteoinductive materials for bone regeneration and
+repair.

@@ -1,0 +1,2 @@
+Diketopyrrolopyrrole-Based Semiconducting Polymer Nanoparticles for In Vivo Photoacoustic Imaging.
+Diketopyrrolopyrrole-based semiconducting polymer nanoparticles with high photostability and strong photoacoustic brightness are designed and synthesized, which results in 5.3-fold photoacoustic signal enhancement in tumor xenografts after systemic administration. 

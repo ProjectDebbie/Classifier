@@ -1,0 +1,14 @@
+2011 Jan Mar
+Effects of electromagnetic stimulation on osteogenic differentiation of human
+mesenchymal stromal cells seeded onto gelatin cryogel.
+P Bone tissue engineering typically uses biomaterial scaffolds, osteoblasts or
+cells that can become osteoblasts, and biophysical stimulations to promote cell
+attachment and differentiation. In this study, we investigated the effects of an
+electromagnetic wave on mesenchymal stromal cells isolated from the bone marrow
+and seeded upon gelatin cryogel disks. In comparison with control conditions
+without electromagnetic stimulus, the electromagnetic treatment  magnetic field,
+2 mT; frequency, 75 Hz  increased the cell proliferation and differentiation and
+enhanced the biomaterial surface coating with bone extracellular matrix proteins.
+Using this tissue engineering approach, the gelatin biomaterial, coated with
+differentiated cells and their extracellular matrix proteins, may be used in
+clinical applications as an implant for bone defect repair.

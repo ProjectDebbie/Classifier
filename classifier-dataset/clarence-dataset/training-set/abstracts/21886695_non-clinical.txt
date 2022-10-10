@@ -1,0 +1,25 @@
+2011
+Tissue engineering for bone production  stem cells, gene therapy and scaffolds.
+P A bone graft has been the gold standard treatment for repairing bone defects.
+However, due to bone grafts associated donor site morbidity several alternative
+bone substitutes options have been made available but with their added expense
+and limited osteoinductive properties they are not ideal. Therefore, research has
+begun in tissue engineering to investigate stem cells, which are one of the
+body's own mechanisms used to repair bone. Stem cells are clonogenic
+undifferentiated cells capable of self renewal. Readily available from numerous
+of sources stem cells have the potential to differentiate in osteoblasts and
+chrondrocytes showing capability to repair both bone and cartilage. The known
+immunologic properties of stem cells further enhance their therapeutic appeal.
+Stem cells have shown to be excellent carriers for gene transfer having the
+capability to be transduced. Gene transfer could enable growth factors and bone
+morphogentic proteins to enhance bone repair. Stem cells are implanted onto
+scaffolds, which are structures capable of supporting tissue formation by
+allowing cell migration, proliferation and differentiation. Research aims to
+produce scaffolds that deliver and retain cells, allow for cell attachment has
+adequate biodegradability, biocompatibility and non immunogenicity. However,
+having tried and testing numerous materials including synthetic and natural
+products research into the perfect scaffold product continues. This review aims
+to explain how stem cells were discovered, the techniques used to isolate stem
+cells, identify and manipulate them down different cell lineages and discuss the
+research into using stem cells to reconstruct bone using genetic modification and
+scaffolds.

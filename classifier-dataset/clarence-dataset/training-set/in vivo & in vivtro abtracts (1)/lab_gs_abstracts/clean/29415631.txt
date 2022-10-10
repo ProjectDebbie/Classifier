@@ -1,0 +1,25 @@
+2019 Jan
+Silk Biomaterials Mediated miRNA Functionalized Orthopedic Devices.
+P Silk based bioresorbable medical devices, such as screws, plates, and rods, have
+been under investigation due to their promising properties for orthopedic
+repairs. Options to functionalize these new devices for enhanced control of bone
+regeneration would also exploit the compatible processing methods used to
+generate the devices. MicroRNAs are important regulators of bone maintenance and
+formation, and miRNA based therapeutics have the potential to aid bone repair,
+utilizing a transient therapeutic approach with local bioactivity. We
+hypothesized that silk based orthopedic devices could be used for the local
+delivery of miRNAs, using anti sense miR 214  AS miR 214 , to inhibit endogenous
+expression of osteoinductive antagonist and thereby supporting the upregulation
+of osteoinductive target molecules activating transcription factor 4  ATF4  and
+Osterix  Osx . AS miR 214 silk devices, prepared using surface coating,
+demonstrated continuous release of miRNA inhibitors up to 7 days in vitro.
+Additionally, human mesenchymal stem cells seeded on AS miR 214 silk films
+expressed higher levels of osteogenic genes ATF4, Osx, Runx2, and Osteocalcin.
+Interestingly, these cells exhibited lower cell viability and DNA content over 21
+days. Conversely, the cells demonstrated significantly higher levels of alkaline
+phosphatase expression and calcium deposition compared with cells seeded on silk
+films with nontargeting miRNA controls. The study demonstrated that the
+silk based orthopedic devices, in conjunction with bioactive miRNA based
+therapeutics, may serve as a novel system for localized bone tissue engineering,
+enhancing osteogenesis at the implant interface while avoiding detrimental
+systematic side effects.

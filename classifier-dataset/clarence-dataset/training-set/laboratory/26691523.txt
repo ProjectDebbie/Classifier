@@ -1,0 +1,44 @@
+2016 Feb
+Increased acellular and cellular surface mineralization induced by nanogrooves in
+combination with a calcium phosphate coating.
+P UNLABELLED: The current work evaluated the influence of nanoscale
+surface topographies in combination with a calcium phosphate  CaP  coating on
+acellular and cellular surface mineralization. Four groups of substrates were
+produced, including smooth, grooved  940nm pitch, 430nm groove width, 185nm
+depth , smooth coated, and grooved coated. The substrates were characterized by
+scanning/transmission electron microscopy and atomic force microscopy.
+Osteoblast like MC3T3 cells were cultured on the substrates for a period up to
+35days under osteogenic conditions. Differentiation was observed by alkaline
+phosphatase assay and PCR of collagen I  COLI , osteopontin  OPN , osteocalcin
+OC , bone morphogenic protein 2  BMP2 , and bone sialoprotein  BSP .
+Mineralization was quantified by a calcium assay and Alizarin Red staining. In
+addition, acellular mineralization was determined after incubation of substrates
+in just cell culture medium without cells. Results showed that a reproducible
+nano metric   approximately 50nm  CaP layer could be applied on the substrates,
+without losing the integrity of the topographical features. While no relevant
+differences were found for cell viability, cells on smooth surfaces proliferated
+for a longer period than cells on grooved substrates. In addition,
+differentiation was affected by topographies, as indicated by an increased
+expression of OC, OPN and ALP activity. Deposition of a CaP coating significantly
+increased the acellular mineralization of smooth as well grooved
+substrate surfaces. However, this mineralizing effect was strongly reduced in the
+presence of cells. In the cell seeded situation, mineralization was significantly
+increased by the substrate topography, while only a minor additive effect of the
+coating was observed. In conclusion, the model presented herein can be exploited
+for experimental evaluation of cell surface interaction processes and
+optimization of bone anchoring capability of implants. The model showed that
+substrates modified with CaP coated coated nanogrooves display enhanced in vitro
+mineralization as compared to unmodified controls or substrates modified with
+either nanogrooves or CaP coatings. However, our results also indicated that
+acellular mineralization assays are not necessarily predictive for biological
+performance. STATEMENT OF SIGNIFICANCE: The manuscript describes the possibility
+to combine the mechanical properties of nanosized topographies with the
+biochemical properties of a calcium phosphate based coating for improvement of
+surface mineralization. Interestingly, our results demonstrate that further
+incubation of our surfaces in SBF type media allowed all surfaces to mineralize
+rapidly to a high extent. Moreover we prove that nanotexture be used to can
+stimulate and organize mineralization and that the combination surface of a CaP
+coating and a nanotexture has the potential to be effective as a bone implant
+surface. Such experiments will be of considerable interest to those in the
+research community and industry, who are focusing on bio mineralization processes
+and optimization of modern bone implants.

@@ -1,0 +1,34 @@
+2011 Feb 21
+Fibroblasts derived from human embryonic stem cells direct development and repair
+of 3D human skin equivalents.
+P INTRODUCTION: Pluripotent, human stem cells hold tremendous promise as a source
+of progenitor and terminally differentiated cells for application in future
+regenerative therapies. However, such therapies will be dependent upon the
+development of novel approaches that can best assess tissue outcomes of
+pluripotent stem cell derived cells and will be essential to better predict their
+safety and stability following in vivo transplantation. METHODS: In this study we
+used engineered, human skin equivalents  HSEs  as a platform to characterize
+fibroblasts that have been derived from human embryonic stem  hES  cell. We
+characterized the phenotype and the secretion profile of two distinct hES derived
+cell lines with properties of mesenchymal cells  EDK and H9 MSC  and compared
+their biological potential upon induction of differentiation to bone and fat and
+following their incorporation into the stromal compartment of engineered, HSEs.
+RESULTS: While both EDK and H9 MSC cell lines exhibited similar morphology and
+mesenchymal cell marker expression, they demonstrated distinct functional
+properties when incorporated into the stromal compartment of HSEs. EDK cells
+displayed characteristics of dermal fibroblasts that could support epithelial
+tissue development and enable re epithelialization of wounds generated using a 3D
+tissue model of cutaneous wound healing, which was linked to elevated production
+of hepatocyte growth factor  HGF . Lentiviral shRNA mediated knockdown of HGF
+resulted in a dramatic decrease of HGF secretion from EDK cells that led to a
+marked reduction in their ability to promote keratinocyte proliferation and
+re epithelialization of cutaneous wounds. In contrast, H9 MSCs demonstrated
+features of mesenchymal stem cells  MSC  but not those of dermal fibroblasts, as
+they underwent multilineage differentiation in monolayer culture, but were unable
+to support epithelial tissue development and repair and produced significantly
+lower levels of HGF. CONCLUSIONS: Our findings demonstrate that hES derived cells
+could be directed to specified and alternative mesenchymal cell fates whose
+function could be distinguished in engineered HSEs. Characterization of
+hES derived mesenchymal cells in 3D, engineered HSEs demonstrates the utility of
+this tissue platform to predict the functional properties of hES derived
+fibroblasts before their therapeutic transplantation.

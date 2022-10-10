@@ -1,0 +1,21 @@
+2014 Jan
+Effects of extracellular matrices and lectin Dolichos biflorus agglutinin on cell
+adhesion and self renewal of bovine gonocytes cultured in vitro.
+P Surface molecules of primitive male germ cells, gonocytes, are essential
+components for regulating cell adhesion and maintaining self renewal in mammalian
+species. In domestic animals, the stage specific glycan epitope
+alpha N acetylgalactosamine  GalNAc  is recognised by the lectin Dolichos
+biflorus agglutinin  DBA  and is found on the surface of gonocytes and
+spermatogonia. Gonocytes from bovine testis formed mouse embryonic stem like cell
+colonies on plates that had been coated with DBA or extracellular matrix  ECM
+components, such as gelatin  GN , laminin  LN  and poly L lysine  PLL . The
+number of colonies on the DBA coated plate was significantly higher than that on
+the GN , LN  and PLL coated plates. Pretreating gonocytes with DBA to neutralise
+the terminal GalNAc residues strongly suppressed colony formation. Furthermore,
+expression of a germ cell specific gene and pluripotency related transcription
+factors was increased considerably on the DBA coated plates. These results
+suggest that the GalNAc residues on gonocytes can recognise precoated DBA on
+plates and the resulting GalNAc DBA complexes support germ cell and stem cell
+potentials of gonocytes in vitro. These glycan complexes, through the GalNAc
+epitope, may provide a suitable microenvironment for the adhesion and cell
+proliferation of gonocytes in culture.

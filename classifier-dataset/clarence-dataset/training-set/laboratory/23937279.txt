@@ -1,0 +1,35 @@
+2014 Jan
+Adsorbed fibrinogen enhances production of bone  and angiogenic related factors
+by monocytes/macrophages.
+P Macrophages are phagocytic cells with great importance in guiding multiple stages
+of inflammation and tissue repair. By producing a large number of biologically
+active molecules, they can affect the behavior of other cells and events, such as
+the foreign body response and angiogenesis. Since protein adsorption to
+biomaterials is crucial for the inflammatory process, we addressed the ability of
+the pro inflammatory molecule fibrinogen  Fg  to modulate macrophage behavior
+toward tissue repair/regeneration. For this purpose, we used chitosan  Ch  as a
+substrate for Fg adsorption. Freshly isolated human monocytes were seeded on Ch
+substrates alone or previously adsorbed with Fg, and allowed to differentiate
+into macrophages for 10 days. Cell adhesion and morphology, formation of foreign
+body giant cells  FBGC , and secretion of a total of 80 cytokines and growth
+factors were evaluated. Both substrates showed similar numbers of adherent
+macrophages along differentiation as compared with RGD coated surfaces, which
+were used as positive controls. Fg did not potentiate FBGC formation. In
+addition, actin cytoskeleton staining revealed the presence of punctuate F actin
+with more elongated and interconnecting cells on Ch substrates. Antibody array
+screening and quantification of inflammation  and wound healing related factors
+indicated an overall reduction in Ch based substrates versus RGD coated surfaces.
+At late times, most inflammatory agents were down regulated in the presence of
+Fg, in contrast to growth factor production, which was stimulated by Fg.
+Importantly, on Ch+Fg substrates, fully differentiated macrophages produced
+significant amounts of macrophage inflammatory protein 1delta  MIP 1delta ,
+platelet derived growth factor BB, bone morphogenetic protein  BMP  5, and BMP 7
+compared with Ch alone. In addition, other important factors involved in bone
+homeostasis and wound healing, such as growth hormone, transforming growth
+factor beta3, and insulin like growth factor binding proteins, as well as several
+angiogenic mediators, including endocrine gland derived vascular endothelial
+factor, fibroblast growth factor 7, and placental growth factor, were
+significantly promoted by Fg. This work provides a new perspective on the
+inflammatory response in the context of bone repair/regeneration mediated by a
+pro inflammatory protein  Fg  adsorbed onto a biomaterial  Ch  that does not
+otherwise exhibit osteogenic properties.

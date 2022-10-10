@@ -1,0 +1,25 @@
+2009 Jan
+Novel nanofiber based scaffold for rotator cuff repair and augmentation.
+P The debilitating effects of rotator cuff tears and the high incidence of failure
+associated with current grafts underscore the clinical demand for functional
+solutions for tendon repair and augmentation. To address this challenge, we have
+designed a poly lactide co glycolide   PLGA  nanofiber based scaffold for rotator
+cuff tendon tissue engineering. In addition to scaffold design and
+characterization, the objective of this study was to evaluate the attachment,
+alignment, gene expression, and matrix elaboration of human rotator cuff
+fibroblasts on aligned and unaligned PLGA nanofiber scaffolds. Additionally, the
+effects of in vitro culture on scaffold mechanical properties were determined
+over time. It has been hypothesized that nanofiber organization regulates
+cellular response and scaffold properties. It was observed that rotator cuff
+fibroblasts cultured on the aligned scaffolds attached along the nanofiber long
+axis, whereas the cells on the unaligned scaffold were polygonal and randomly
+oriented. Moreover, distinct integrin expression profiles on these two substrates
+were observed. Quantitative analysis revealed that cell alignment, distribution,
+and matrix deposition conformed to nanofiber organization and that the observed
+differences were maintained over time. Mechanical properties of the aligned
+nanofiber scaffolds were significantly higher than those of the unaligned, and
+although the scaffolds degraded in vitro, physiologically relevant mechanical
+properties were maintained. These observations demonstrate the potential of the
+PLGA nanofiber based scaffold system for functional rotator cuff repair.
+Moreover, nanofiber organization has a profound effect on cellular response and
+matrix properties, and it is a critical parameter for scaffold design.

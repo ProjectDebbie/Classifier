@@ -1,0 +1,29 @@
+2009 Mar
+Layer by layer films as a biomimetic reservoir for rhBMP 2 delivery: controlled
+differentiation of myoblasts to osteoblasts.
+P Efficient delivery of growth or survival factors to cells is one of the most
+important long term challenges of current cell based tissue engineering
+strategies. The extracellular matrix acts as a reservoir for a number of growth
+factors through interactions with its components. In the matrix, growth factors
+are protected against circulating proteases and locally concentrated. Thus, the
+localized and long lasting delivery of a matrix bound recombinant human bone
+morphogenetic protein 2  rhBMP 2  from a biomaterial surface would mimic in vivo
+conditions and increase BMP 2 efficiency by limiting its degradation. Herein, it
+is shown that crosslinked poly L lysine /hyaluronan  HA  layer by layer films can
+serve as a reservoir for rhBMP 2 delivery to myoblasts and induce their
+differentiation into osteoblasts in a dose dependent manner. The amount of
+rhBMP 2 loaded in the films is controlled by varying the deposition conditions
+and the film thickness. Its local concentration in the film is increased up to
+approximately 500 fold when compared to its initial solution concentration. Its
+adsorption on the films, as well as its diffusion within the films, is evidenced
+by microfluorimetry and confocal microscopy observations. A direct interaction of
+rhBMP 2 with HA is demonstrated by size exclusion chromatography, which could be
+at the origin of the rhBMP 2 "trapping" in the film and of its low release from
+the films. The bioactivity of rhBMP 2 loaded films is due neither to film
+degradation nor to rhBMP 2 release. The rhBMP 2 containing films are extremely
+resistant and could sustain three successive culture sequences while remaining
+bioactive, thus confirming the important and protective effect of rhBMP 2
+immobilization. These films may find applications in the local delivery of
+immobilized growth factors for tissue engineered constructs and for metallic
+biomaterial surfaces, as they can be deposited on a wide range of substrates with
+different shapes, sizes, and composition.

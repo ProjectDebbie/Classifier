@@ -1,0 +1,24 @@
+2016 Aug
+Blood clot formed on rough titanium surface induces early cell recruitment.
+P OBJECTIVES: The initial contact of blood with biomaterials and subsequent
+recruitment of inflammatory and marrow derived stromal cells are among the first
+phases of bone regeneration. The aim of this study was to investigate the
+migratory potential of mesenchymal stem cells by treating rat bone marrow
+mesenchymal stromal cells  rBMSCs  with the extract of the blood clot formed on
+implant surfaces. MATERIALS AND METHODS: Cell attachment and morphology on the
+blood clot was observed using scanning electron microscopy. The cell metabolism
+was reflected by the 3  4, 5 dimethylthiazol 2 yl  2, 5 diphenyltetrazolium
+bromide  MTT  assay, and the cell proliferation was assessed by the CyQuant  R
+assay based on DNA content. Cytokine profiles in the incubation medium derived
+from different blood titanium surface were detected using the rat cytokine
+antibody array. Scratch wound assay and transwell migration assay were performed
+to determine the effect of blood implant conditioned medium on cell migration and
+movement. RESULTS: No significant difference was found in cell attachment and
+morphology on the blood clot formed on smooth and rough surfaces. Increased rBMSC
+proliferation was induced by the blood clot on rough surfaces. Comparison of
+cytokine secretion showed a significant increase of CINC 2alpha, IL 2,
+L selectin, MCP 1, prolactin AA and VEGF levels in the elution of blood clot
+formed on rough titanium surfaces, which led to significantly improved mobility
+and wound healing ability of rBMSCs. CONCLUSIONS: Rough titanium surfaces could
+influence the blood clot formation and properties, which will induce cell
+recruitment and stimulate wound healing.

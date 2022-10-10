@@ -1,0 +1,32 @@
+2010 Oct
+In situ collagen polymerization of layered cell seeded electrospun scaffolds for
+bone tissue engineering applications.
+P Electrospun scaffolds have been studied extensively for their potential use in
+bone tissue engineering applications. However, inherent issues with the
+electrospinning approach limit the thickness of these scaffolds and constrain
+their use for repair of critical sized bone defects. One method to increase
+overall scaffold thickness is to bond multiple electrospun scaffolds together
+with a biocompatible gel. The objective of this study was to determine whether
+multiple human adipose derived stem cell  hASC seeded electrospun, nanofibrous
+scaffolds could be layered via in situ collagen assembly and whether the addition
+of laser ablated micron sized pores within the electrospun scaffold layers was
+beneficial to the bonding process. Pores were created by a laser ablation
+technique. We hypothesized that the addition of micron sized pores within the
+electrospun scaffolds would encourage collagen integration between scaffold
+layers, and promote osteogenic differentiation of hASCs seeded within the layered
+electrospun scaffolds. To evaluate the benefit of assembled scaffolds with and
+without engineered pores, hASCs were seeded on individual electrospun scaffolds,
+hASC seeded scaffolds were bonded with type I collagen, and the assembled
+approximately 3 mm thick constructs were cultured for 3 weeks to examine their
+potential as bone tissue engineering scaffolds. Assembled electrospun
+scaffolds/collagen gel constructs using electrospun scaffolds with pores resulted
+in enhanced hASC viability, proliferation, and mineralization of the scaffolds
+after 3 weeks in vitro compared to constructs using electrospun scaffolds without
+pores. Scanning electron microscopy and histological examination revealed that
+the assembled constructs that included laser ablated electrospun scaffolds were
+able to maintain a contracted structure and were not delaminated, unlike
+assembled constructs containing nonablated electrospun scaffolds. This is the
+first study to show that the introduction of engineered pores in electrospun
+scaffolds assists with multilayered scaffold integration, resulting in thick
+constructs potentially suitable for use as scaffolds for bone tissue engineering
+or repair of critical bone defects.

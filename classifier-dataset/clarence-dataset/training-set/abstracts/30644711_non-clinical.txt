@@ -1,0 +1,27 @@
+2019 Feb 13
+PEG Detachable Polymeric Micelles Self Assembled from Amphiphilic Copolymers for
+Tumor Acidity Triggered Drug Delivery and Controlled Release.
+P The development of an intelligent biomaterial system that can efficiently
+accumulate at the tumor site and release a drug in a controlled way is very
+important for cancer chemotherapy. PEG is widely selected as a hydrophilic shell
+to acquire prolonged circulation time and enhanced accumulation at the tumor
+site, but it also restrains the cellular transport and uptake and leads to
+insufficient therapeutic efficacy. In this work, a PEG detachable pH responsive
+polymer that forms micelles from copolymer cholesterol grafted poly ethylene
+glycol  methyl ether  Dlabile poly beta amino ester   Dlabile poly ethylene
+glycol  methyl ether  MPEG  Dlabile PAE  g Chol  is developed to overcome the
+aforementioned challenges based on pH value changes among normal physiological,
+extracellular  pHe , and intracellular  pHi  environments. PEGylated doxorubicin
+DOX  loaded polymeric micelles  DOX PMs  can accumulate at the tumor site via an
+enhanced permeability and retention effect, and the PEG shell is detachable
+induced by cleavage of the pHe labile linker between the PEG segment and the main
+chain. Meanwhile, the pHi sensitive poly beta amino ester  segment is protonated
+and has a high positive charge. The detachment of PEG and protonation of PAE
+facilitate cellular uptake of DOX PMs by negatively charged tumor cells, along
+with the escape from endo /lysosome due to the "proton sponge" effect. The DOX
+molecules are controlled release from the carriers at specific pH values. The
+results demonstrate that DOX PMs have the capability of showing high therapeutic
+efficacy and negligible cytotoxicity compared with free DOX in vitro and in vivo.
+Overall, we anticipate that this PEG detachable and tumor acidity responsive
+polymeric micelle can mediate effective and biocompatible drug delivery "on
+demand" with clinical application potential.

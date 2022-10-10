@@ -1,0 +1,28 @@
+2010 Sep
+Biodegradable, photocrosslinked alginate hydrogels with independently tailorable
+physical properties and cell adhesivity.
+P Biocompatible polymers capable of photopolymerization are of immense interest for
+tissue engineering applications as they can be injected in a minimally invasive
+manner into a defect site and, then upon application of ultraviolet light,
+rapidly form hydrogels in situ. Cell adhesion interactions with a biomaterial are
+known to be important in regulating cell behaviors such as proliferation and
+differentiation. Therefore, we have covalently modified photocrosslinkable
+alginate with cell adhesion ligands containing the Arg Gly Asp amino acid
+sequence to form biodegradable, photocrosslinked alginate hydrogels with
+controlled cell adhesivity. This unique polymer system allows for independent
+modulation of the physical and biochemical signaling environment presented to
+cells. The physical properties of the hydrogels such as elastic moduli, swelling
+ratios, and degradation profiles were similar at the same crosslinking density
+regardless of the presence of adhesion ligands. Chondrocytes seeded on the
+surface of the adhesion ligand modified hydrogels were able to attach and spread,
+whereas those seeded on unmodified hydrogels exhibited minimal adherence.
+Importantly, the adhesion ligand modified hydrogels enhanced the proliferation
+and chondrogenic differentiated function of encapsulated chondrocytes as
+demonstrated by increased DNA content and production of glycosaminoglycans
+compared to unmodified control hydrogels. This new photocrosslinkable,
+biodegradable biomaterial system in which the soluble  e.g., growth factors  and
+insoluble  e.g., cell adhesion ligands  biochemical signaling environment and the
+biomaterial physical properties  e.g., the elastic moduli  can be independently
+controlled may be a powerful tool for elucidating the individual and combined
+effects of these parameters on cell function for cartilage tissue engineering and
+other regenerative medicine applications.

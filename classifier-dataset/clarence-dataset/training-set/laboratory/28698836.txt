@@ -1,0 +1,27 @@
+2017 Jun 24
+Copper as an alternative antimicrobial coating for implants   An in vitro study.
+P AIM: To investigate osteoconductive and antimicrobial properties of a
+titanium copper nitride  TiCuN  film and an additional BONIT  R   coating on
+titanium substrates. METHODS: For micro structuring, the surface of titanium test
+samples was modified by titanium plasma spray  TPS . On the TPS coated samples,
+the TiCuN layer was deposited by physical vapor deposition. The BONIT  R   layer
+was coated electrochemically. The concentration of copper ions released from
+TiCuN films was measured by atomic absorption spectrometry. MG 63 osteoblasts on
+TiCuN and BONIT  R   were analyzed for cell adhesion, viability and spreading. In
+parallel, Staphylococcus epidermidis  S. epidermidis  were cultivated on the
+samples and planktonic and biofilm bound bacteria were quantified by counting of
+the colony forming units. RESULTS: Field emission scanning electron microscopy
+FESEM  revealed rough surfaces for TPS and TiCuN and a special crystalline
+surface structure on TiCuN + BONIT  R  . TiCuN released high amounts of copper
+quickly within 24 h. These release dynamics were accompanied by complete growth
+inhibition of bacteria and after 2 d, no planktonic or adherent S. epidermidis
+were found on these samples. On the other hand viability of MG 63 cells was
+impaired during direct cultivation on the samples within 24 h. However, high cell
+colonization could be found after a 24 h pre incubation step in cell culture
+medium simulating the in vivo dynamics closer. On pre incubated TiCuN, the
+osteoblasts span the ridges and demonstrate a flattened, well spread phenotype.
+The additional BONIT  R  coating reduced the copper release of the TiCuN layer
+significantly and showed a positive effect on the initial cell adhesion.
+CONCLUSION: The TiCuNcoating inhibits the formation of bacterial biofilms on
+orthopedic implants by influencing the "race for the surface" to the advantage of
+osteoblasts.

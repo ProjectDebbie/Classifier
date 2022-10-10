@@ -1,0 +1,36 @@
+2012 Jun
+Rotator cuff regeneration using a bioabsorbable material with bone marrow derived
+mesenchymal stem cells in a rabbit model.
+P BACKGROUND: Rotator cuff regeneration using tissue engineering techniques is a
+challenging treatment in elderly patients with irreparable rotator cuff tears.
+HYPOTHESIS: A polyglycolic acid sheet scaffold with seeded mesenchymal stem cells
+MSCs  may enhance the expression of type I collagen products and increase the
+mechanical strength of the regenerated tendon in vivo. STUDY DESIGN: Controlled
+laboratory study. METHODS: A surgically created defect of infraspinatus tendons
+of rabbits was reconstructed with 2 different materials, a polyglycolic acid
+PGA  sheet alone  PGA group   n = 34  and a PGA sheet seeded with autologously
+cultured MSCs  MSC group   n = 34 . The authors created a tendon defect model
+without embedding any graft as the control model  control group   n = 34 . The
+rabbits were sacrificed at 4, 8, and 16 weeks after the operation and then were
+histologically evaluated. The rabbits were also biomechanically evaluated by
+measuring the ultimate failure loads and Young's modulus at 4 and 16 weeks
+following implantation. RESULTS: In the MSC group, the fibrocartilage layers and
+Sharpey fibers were found regularly in the insertion site at 8 weeks compared
+with the PGA group. In control group, thin membranes with many fibroblasts
+arranged in an irregular pattern linked the end of the torn cuff to the bone
+without any Sharpey fibers and type I collagen. A large volume of type I collagen
+was found in comparison with type III collagen at 16 weeks in the MSC group,
+whereas type III collagen was more prevalent than type I in the PGA group. The
+tendon maturing score in the MSC group had higher values than the PGA and control
+groups at 8 and 16 weeks  mean values were 21.0 +/  0.89, 24.0 +/  2.53 in the
+MSC group; 16.7 +/  2.25, 21.3 +/  2.42 in the PGA group; and 10.2 +/  0.98, 12.2
++/  1.72 in the control group, respectively   P < .05 . The results of the
+mechanical analysis revealed that the regenerated tendons in the MSC group had
+better tensile strength than in the PGA and control groups at 16 weeks  mean
+values were 3.04 +/  0.54 in the MSC group, 2.38 +/  0.63 in the PGA group, and
+1.58 +/  0.13 in the control group   P < .05 . CONCLUSION: Bone marrow derived
+MSCs were able to regenerate tendon bone insertions and the tendon belly,
+including the production of type I collagen, and increased the mechanical
+strength of the regenerated rotator cuff tendon. CLINICAL RELEVANCE: Rotator cuff
+regeneration using MSCs is a promising treatment for massive rotator cuff
+defects.

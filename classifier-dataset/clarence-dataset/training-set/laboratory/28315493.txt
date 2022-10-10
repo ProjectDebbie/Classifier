@@ -1,0 +1,41 @@
+2017 May
+An osteogenesis/angiogenesis stimulation artificial ligament for anterior
+cruciate ligament reconstruction.
+P To solve the poor healing of polyethylene terephthalate  PET  artificial ligament
+in bone tunnel, copper containing bioactive glass  Cu BG  nanocoatings on PET
+artificial ligaments were successfully prepared by pulsed laser deposition  PLD .
+It was hypothesized that Cu BG coated PET  Cu BG/PET  grafts could enhance the in
+vitro osteogenic and angiogenic differentiation of rat bone marrow mesenchymal
+stem cells  rBMSCs  and in vivo graft bone healing after anterior cruciate
+ligament  ACL  reconstruction in a goat model. Scanning electron microscope and
+EDS mapping analysis revealed that the prepared nanocoatings had uniform element
+distribution  Cu, Ca, Si and P  and nanostructure. The surface hydrophilicity of
+PET grafts was significantly improved after depositing Cu BG nanocoatings. The in
+vitro study displayed that the Cu BG/PET grafts supported the attachment and
+proliferation of rBMSCs, and significantly promoted the expression of HIF 1alpha
+gene, which up regulated the osteogenesis related genes  S100A10, BMP2, OCN  and
+angiogenesis related genes  VEGF  in comparison with PET or BG coated PET
+BG/PET  grafts which do not contain Cu element. Meanwhile, Cu BG/PET grafts
+promoted the bone regeneration at the graft host bone interface and decreased
+graft bone interface width, thus enhancing the bonding strength as well as
+angiogenesis  as indicated by CD31 expression  in the goat model as compared with
+BG/PET and pure PET grafts. The study demonstrates that the Cu containing
+biomaterials significantly promote osteogenesis and angiogenesis in the repair of
+bone defects of large animals and thus offering a promising method for ACL
+reconstruction by using Cu containing nanobioglass modified PET grafts. STATEMENT
+OF SIGNIFICANCE: It remains a significant challenge to develop an artificial
+graft with distinct osteogenetic/angiogenetic activity to enhance graft bone
+healing for ligament reconstruction. To solve these problems, copper containing
+bioactive glass  Cu BG  nanocoatings on PET artificial ligaments were
+successfully prepared by pulsed laser deposition  PLD . It was found that the
+prepared Cu BG/PET grafts significantly stimulated the proliferation and
+osteogenic/angiogenic differentiation of bone marrow stromal cells  BMSCs
+through activating HIF 1alpha/S100A10/Ca 2+  signal pathway. The most important
+is that the in vivo bone forming ability of Cu containing biomaterials was, for
+the first time, elucidated in a large animal model, revealing the enhanced
+capacity of osteogenesis and angiogenesis with incorporation of bioactive Cu
+element. It is suggested that the copper containing biomaterials significantly
+promote osteogenesis and angiogenesis in large animal defects and thus offering a
+promising method for ACL reconstruction by using Cu containing nanobioglass
+modification of PET grafts, paving the way to apply Cu containing biomaterials
+for tissue engineering and regenerative medicine.

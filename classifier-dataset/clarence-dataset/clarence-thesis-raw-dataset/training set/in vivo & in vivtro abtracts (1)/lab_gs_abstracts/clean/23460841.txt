@@ -1,0 +1,30 @@
+2013
+Collagen osteoid like model allows kinetic gene expression studies of
+non collagenous proteins in relation with mineral development to understand bone
+biomineralization.
+P Among persisting questions on bone calcification, a major one is the link between
+protein expression and mineral deposition. A cell culture system is here proposed
+opening new integrative studies on biomineralization, improving our knowledge on
+the role played by non collagenous proteins in bone. This experimental in vitro
+model consisted in human primary osteoblasts cultured for 60 days at the surface
+of a 3D collagen scaffold mimicking an osteoid matrix. Various techniques were
+used to analyze the results at the cellular and molecular level  adhesion and
+viability tests, histology and electron microscopy, RT  and qPCR  and to
+characterize the mineral phase  histological staining, EDX, ATG, SAED and RMN .
+On long term cultures human bone cells seeded on the osteoid like matrix
+displayed a clear osteoblast phenotype as revealed by the osteoblast like
+morphology, expression of specific protein such as alkaline phosphatase and
+expression of eight genes classically considered as osteoblast markers, including
+BGLAP, COL1A1, and BMP2. Von Kossa and alizarine red allowed us to identify
+divalent calcium ions at the surface of the matrix, EDX revealed the correct Ca/P
+ratio, and SAED showed the apatite crystal diffraction pattern. In addition RMN
+led to the conclusion that contaminant phases were absent and that the hydration
+state of the mineral was similar to fresh bone. A temporal correlation was
+established between quantified gene expression of DMP1 and IBSP, and the presence
+of hydroxyapatite, confirming the contribution of these proteins to the
+mineralization process. In parallel a difference was observed in the expression
+pattern of SPP1 and BGLAP, which questioned their attributed role in the
+literature. The present model opens new experimental possibilities to study
+spatio temporal relations between bone cells, dense collagen scaffolds, NCPs and
+hydroxyapatite mineral deposition. It also emphasizes the importance of high
+collagen density environment in bone cell physiology.

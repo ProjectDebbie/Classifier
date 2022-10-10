@@ -1,0 +1,2 @@
+Room Temperature Oxide Deposition Approach to Fully Transparent, All-Oxide Thin-Film Transistors.
+A room temperature cathodic arc deposition technique is used to produce high-mobility ZnO thin films for low voltage thin-film transistors (TFTs) and digital logic inverters. All-oxide, fully transparent devices are fabricated on alkali-free glass and flexible polyimide foil, exhibiting high performance. This provides a practical materials platform for the low-temperature fabrication of all-oxide TFTs on virtually any substrate. 

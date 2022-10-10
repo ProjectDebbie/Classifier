@@ -1,0 +1,25 @@
+2015 Jul
+Enhanced osseointegration of endosseous implants by predictable sustained release
+properties of strontium.
+P UNLABELLED: Studies have shown that strontium  Sr  incorporated into surfaces may
+enhance osseointegration. Thus, we suggested that a sustained Sr release from
+implant surfaces could improve bone healing. This study verifies and further
+investigates the effect of a novel Ti Sr O functionalized implant surface
+prepared from a magnetron co sputtering platform with a continuous release of Sr.
+MATERIALS AND METHODS: Four experimental Ti Sr O groups, which differed from each
+other in Sr contents and pre wash procedures, were tested. Implants were prepared
+with a Ti Sr O coating by means of magnetron co sputtering and compared to Grade
+4 titanium. Composition, morphology and mechanical stability were analyzed;
+Sr release data were gained from in vitro washout experiments. In vivo
+investigations were carried out in a rat model and analyzed histologically
+regarding bone to implant contact and new bone formation 30 days after
+implantation. RESULTS: Structural differences were detected between the two basis
+Ti Sr O coatings with 6.7 at.% and 8.9 at.% Sr, respectively. Different release
+profiles were observed with 8.9 at.% Sr coating exhibiting the highest long term
+release of Sr. Median values of new bone formation and bone to implant contact
+was found to be 60.1% and 91.6%, respectively, for the best group compared to
+16.6% and 70.6% for the Grade 4 titanium reference. The increase in new bone
+formation was found to correlate with the amount of Sr released in vitro.
+CONCLUSION: The results show that sputtered Ti Sr O coatings with sustained
+release of Sr may improve osseointegration, and could thus have impact on
+practical applications for medical implants.

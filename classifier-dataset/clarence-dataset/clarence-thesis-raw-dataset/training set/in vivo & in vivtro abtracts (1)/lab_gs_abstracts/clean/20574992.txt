@@ -1,0 +1,27 @@
+2010 Nov Dec
+N isopropylacrylamide based thermoresponsive polyelectrolyte multilayer films for
+human mesenchymal stem cell expansion.
+P Human mesenchymal stem cells  hMSCs  are colony forming unit fibroblasts  CFU F
+derived from adult bone marrow and have significant potential for many cell based
+tissue engineering applications. Their therapeutic potential, however, is
+restricted by their diminishing plasticity as they are expanded in culture. In
+this study, we used N isopropylacrylamide  NIPAM  based thermoresponsive
+polyelectrolyte multilayer  N PEMU  films as culture substrates to support hMSC
+expansion and evaluated their effects on cell properties. The N PEMU films were
+made via layer by layer adsorption of thermoresponsive monomers copolymerized
+with charged monomers, positively charged allylamine hydrochloride  PAH , or
+negatively charged styrene sulfonic acid  PSS  and compared to fetal bovine serum
+FBS  coated surfaces. Surface charges were shown to alter the extracellular
+matrix  ECM  structure and subsequently regulate hMSC responses including
+adhesion, proliferation, integrin expression, detachment, and colony forming
+ability. The positively charged thermal responsive surfaces improved cell
+adhesion and growth in a range comparable to control surfaces while maintaining
+significantly higher CFU F forming ability. Immunostaining and Western blot
+results indicate that the improved cell adhesion and growth on the positively
+charged surfaces resulted from the elevated adhesion of ECM proteins such as
+fibronectin on the positively charge surfaces. These results demonstrate that the
+layer by layer approach is an efficient way to form PNIPAM based thermal
+responsive surfaces for hMSC growth and removal without enzymatic treatment. The
+results also show that surface charge regulates ECM adhesion, which in turn
+influences not only cell adhesion but also CFU forming ability and their
+multi lineage differentiation potential.
