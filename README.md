@@ -2,6 +2,8 @@
 
 This component performs binary classification of abstracts to determine if they are relevant or not relevant to the field of biomaterials.   
 
+Please, if you want to access the last version of the DEBBIE's multiclass classifier go to https://github.com/ProjectDebbie/Classifier/tree/multiclass.
+
 ## Description  of the project
 
 Since the goal of DEBBIE is to annotate biomaterial-specific research, a classifier is implemented into the pipeline to identify relevant abstracts. The SGD Classifier has been pre-trained on the [gold standard biomaterials collection](https://github.com/ProjectDebbie/gold_standard_set) against a [background set](https://github.com/ProjectDebbie/background_set). The components of the trained classifier are available for download as .pkl files. The classifer returns the relevant abstracts in a designated folder.    
