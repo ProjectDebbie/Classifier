@@ -8,9 +8,10 @@ The division was 70% Training 30% Testing.
 
 ###############
 
-7)The following files came from the project .
+7)The following files came from the projects https://github.com/ProjectDebbie/gold_standard_set/ and https://github.com/ProjectDebbie/background_set.
 	* laboratory_gs_1213.txt: is a list of PMIDS of the biomaterials relevant non-clinical abstracts.
 	* clinical_gs_1092.txt: is a list of PMIDS of the biomaterials relevant clinical abstracts.
 	* background.txt: is a list of PMIDS of the non-relevant abstract.
-For simplicity, the abstracts shoud be alread download in the correct format to reproduce the classifier resutls.
+For simplicity, the abstracts shoud be alread download in the correct format to reproduce the classifier resutls.  This files were used to retrieve the abstracts and generate 
+the dataset.
 	
