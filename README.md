@@ -1,24 +1,42 @@
-# DEBBIE Classifier
+# DEBBIE Abstract Classifier
 
 This component performs multiclass classification of abstracts to determine if they are relevant (either clinical or non-clinical studies) or not relevant to the field of biomaterials.   
 
 ## Description  of the project
 
-A logistic regression model with stochastic gradient descent optimization (SGDClassifier) using term frequency times inverse document frequency (TF-IDF) as the main feature extraction mechanism was developed and trained to detect abstracts that have relevance to the biomaterials area (either clinical or non-clinical studies).  
+A logistic regression model with stochastic gradient descent optimization (SGDClassifier) using term frequency times inverse document frequency (TF-IDF) as the main feature extraction mechanism was developed and trained to detect abstracts that have relevance to the biomaterials area (either clinical or non-clinical studies). Preprocessing and feature extraction includes: lowercase, removing punctuation, stop words, lemmatization and part-of-speech. 
+
+The DEBBIE SGDClassifier model achieved an accuracy of 0.89, a recall of 0.86 and an F1-score of 0.87.
+
+The components of the trained classifier are available for download as .pkl files. The classifer returns the relevant abstracts in a designated folder. 
+
+## Model development and performance
 
 The SGD Classifier has been pre-trained on 3 collections:
+
 - [gold standard biomaterials non-clinical collection](https://github.com/ProjectDebbie/gold_standard_set/blob/master/laboratory_gs_1213.txt)
 - [gold standard biomaterials clinical collection](https://github.com/ProjectDebbie/gold_standard_set/blob/master/clinical_gs_1092.txt)
 - [background set](https://github.com/ProjectDebbie/background_set). 
 
-The folder classifier-dataset contains the actual training and test set that was used for the development of the classifier.
+The folder classifier-dataset contains the test set that was used for validate the classifier.
 
-The DEBBIE SGDClassifier model achieved an accuracy of 0.89, a recall of 0.86 and an F1-score of 0.87. In a more detailed analysis on recall, of the 609 biomaterials-relevant abstracts that were part of the test set (248 clinical and 361 non-clinical), 31 (5%) were miss-classified as not relevant. The SGDClassifier was developed using the Python library sklearn.  The performance results can be reproducible through the file multiclass_classifier_development.ypinb (jypiter notebook).
+The best model was selected after a benchmarking on different vectorization approaches and models, including: Word2Vec and TF-IDF Vectorization; and the models Multinomial Naive Bayes, Logistic Regression, SVM and Linear classifiers (SVM and Logistic Regression) with stochastic gradient descent (SGD) training, also know as SGDClassifier. For the selection of the best model a 10 cross-validation using the training set was performed. 
 
-The components of the trained classifier are available for download as .pkl files. The classifer returns the relevant abstracts in a designated folder.    
+The best model is a logistic regression model with stochastic gradient descent optimization (SGDClassifier) using term frequency times inverse document frequency (TF-IDF).
+The DEBBIE SGDClassifier model achieved an accuracy of 0.89, a recall of 0.86 and an F1-score of 0.87. In a more detailed analysis on recall, of the 609 biomaterials-relevant abstracts that were part of the test set (248 clinical and 361 non-clinical), 31 (5%) were miss-classified as not relevant. The SGDClassifier was developed using the Python library sklearn.  
 
+### Classification report
+
+![Classification Report](classification_report.png)
+
+###Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
+The performance results can be reproducible through the file debbie_classifier_performance.ypinb (jypiter notebook).
+ 
 ## Docker
-projectdebbie/classifier:2.1.0
+projectdebbie/classifier:3.0.0
 
 ## Execution 
 
@@ -34,7 +52,7 @@ Parameters:
 
 -w work folder
 
-## Actual Version: 2.1.0, 2022-09-05
+## Actual Version: 3.0.0, 2022-11-10
 ## [Changelog](https://github.com/ProjectDebbie/Classifier/blob/master/CHANGELOG)
 
 ## Built With
@@ -44,7 +62,7 @@ Parameters:
 
 ## Authors
 
-* **Osnat Hakimi** - **Javier Corvi**  - **Austin McKitrick** 
+* **Javier Corvi**  - **Osnat Hakimi** - **Austin McKitrick** 
 
 
 ## License
