@@ -29,7 +29,7 @@ The DEBBIE SGDClassifier model achieved an accuracy of 0.89, a recall of 0.86 an
 
 ![Classification Report](classification_report.png)
 
-###Confusion Matrix
+### Confusion Matrix
 
 ![Confusion Matrix](confusion_matrix.png)
 
