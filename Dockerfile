@@ -8,9 +8,11 @@ COPY constraints.txt .
 
 RUN pip install -r requirements.txt -c constraints.txt
 
+RUN [ "python3", "-c", "import nltk; nltk.download('stopwords', download_dir='/usr/share/nltk_data'); nltk.download('punkt', download_dir='/usr/share/nltk_data'); nltk.download('averaged_perceptron_tagger', download_dir='/usr/share/nltk_data'); nltk.download('wordnet', download_dir='/usr/share/nltk_data'); nltk.download('omw-1.4', download_dir='/usr/share/nltk_data')" ]
+
 COPY debbie_trained_classifier.py .
-COPY	count_vect.pkl .
-COPY	svm_model.pkl .
-COPY	transformer.pkl .
+
+COPY	debbie_model.pkl .
+COPY	debbie_vectorizer.pkl .
 
 CMD [ "python", "debbie_trained_classifier.py" ]
