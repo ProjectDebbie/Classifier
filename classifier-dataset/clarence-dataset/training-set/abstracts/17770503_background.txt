@@ -1,2 +1,0 @@
-Gravitational compression of crystallized suspensions of polystyrene spheres.
-In a crystallized suspension of polystyrene spheres, the earth's gravitational field, acting on a vertical column of material several centimeters high, produces an elastic deformation that can be readily observed through its effect on the crystal lattice constant. This effect has been used to determine that Young's modulus for the crystalline material ranges from 1 to 3 dynes per square centimeter, depending on the concentration of spheres.

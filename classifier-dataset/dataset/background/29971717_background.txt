@@ -1,2 +1,0 @@
-Multicolor Tracking of Molecular Motors at Nanometer Resolution.
-Molecular motors move processively along cytoskeletal filaments through stepping of their catalytic head domains. Observation of the stepping movement of the heads reveals the mechanism of motor processivity and how they coordinate the cycles of the catalytic heads during processive motility. This chapter will discuss recent developments in simultaneous observation of the stepping motions of the two heads using multicolor single particle tracking microscopy.

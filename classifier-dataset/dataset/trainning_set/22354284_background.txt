@@ -1,2 +1,0 @@
-Direct synthesis of platelet graphitic-nanofibres as a highly porous counter-electrode in dye-sensitized solar cells.
-We synthesized platelet graphitic-nanofibres (GNFs) directly onto FTO glass and applied this forest of platelet GNFs as a highly porous structural counter-electrode in dye-sensitized solar cells (DSSCs). We investigated the electrochemical properties of counter-electrodes made from the highly porous structural GNFs and the photoconversion performance of the cells made with these electrodes.

@@ -1,2 +1,0 @@
-Complete Genome Sequence of Aggregatibacter actinomycetemcomitans Serotype g Strain NUM4039 (JCM 30399).
-Aggregatibacter actinomycetemcomitans is considered to be a major etiological agent of aggressive periodontitis and includes serotype a to g strains. We herein report the first complete genome sequence of A. actinomycetemcomitans serotype g strain NUM4039. The genome is 2,382,853 bp in length with a G+C content of 44.34%. 

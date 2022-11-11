@@ -1,2 +1,0 @@
-Production and characterization of Ti:sapphire thin films grown by reactive laser ablation with elemental precursors.
-Crystalline Ti:sapphire (Ti:Al(2)O(3)) thin films were grown at low temperatures upon Al(2)O(3) (0001) substrates by reactive crossed-beam laser ablation at 248 nm by use of a liquid Ti-Al alloy target and O(2) . The films were investigated ex situ by x-ray diffraction, x-ray photoelectron spectroscopy, and Rutherford backscattering spectrometry. Low-temperature luminescence was identical to that for Ti(3+) ions in bulk samples of Al(2)O(3) .

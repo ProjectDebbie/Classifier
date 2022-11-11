@@ -1,2 +1,0 @@
-Partial purification and properties of pectin lyase from Penicillium expansum.
-A pectin lyase, poly(methoxygalacturonide) lyase, EC 4.2.2.10, from a culture filtrate of Penicillium expansum was partially purified 33-fold with 7.3% yield. The enzyme was monomeric with a molecular mass of 36.5 kDa. The enzyme did not contain pectate lyase activity and degraded citrus and apple pectin best at pH 7.0 and 40 to 45°C. The K m for citrus pectin was 9 mg ml(-1). 

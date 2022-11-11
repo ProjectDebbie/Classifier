@@ -1,2 +1,0 @@
-Polarization mode dispersion induced pulse broadening in optical fibers.
-A simple and exact analytical expression is derived for the amount of broadening that a pulse suffers when it is subjected to the combined actions of polarization mode dispersion, chromatic dispersion, and chirping. The theory is then applied to various manifestations of second-order polarization mode dispersions.

@@ -1,2 +1,0 @@
-Erratum: 3D Printing Fiber Electrodes for an All-Fiber Integrated Electronic Device via Hybridization of an Asymmetric Supercapacitor and a Temperature Sensor.
-[This corrects the article DOI: 10.1002/advs.201801114.].

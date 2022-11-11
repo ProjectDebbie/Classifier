@@ -1,2 +1,0 @@
-Oral tolerance: is it all retinoic acid?
-Oral tolerance has been argued to depend on "special" presentation of antigen in the gut. New studies support this idea by showing that the catalysis of vitamin A into retinoic acid (RA) in gut-associated dendritic cells (DCs) enhances the transforming growth factor (TGF)-beta-dependent conversion of naive T cells into regulatory T (T reg) cells and also directs T reg cell homing to the gut. These results reveal new tolerance mechanisms that will aid the use of T reg cells in the clinic.

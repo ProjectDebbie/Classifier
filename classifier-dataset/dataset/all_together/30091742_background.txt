@@ -1,2 +1,0 @@
-Target discovery of ebselen with a biotinylated probe.
-Despite numerous studies on ebselen over the past decade, its cellular targets remain obscure. Here we synthesized a biotinylated ebselen probe (biotin-ebselen) and characterized ebselen-binding proteins via an efficient activity-based protein profiling (ABPP) method, which allowed for the robust identification of 462 targeted proteins in HeLa cells. This first work of global target profiling of ebselen will be helpful to re-design ebselen-based therapy appropriately in clinical trials.

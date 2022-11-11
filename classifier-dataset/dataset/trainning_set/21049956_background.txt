@@ -1,2 +1,0 @@
-Nanostructure-initiator mass spectrometry metabolite analysis and imaging.
-Nanostructure-Initiator Mass Spectrometry (NIMS) is a matrix-free desorption/ionization approach that is particularly well-suited for unbiased (untargeted) metabolomics. An overview of the NIMS technology and its application in the detection of biofluid and tissue metabolites are presented. (To listen to a podcast about this feature, please go to the Analytical Chemistry multimedia page at pubs.acs.org/page/ancham/audio/index.html .).
