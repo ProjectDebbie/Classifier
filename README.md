@@ -52,7 +52,7 @@ Parameters:
 
 -w work folder
 
-## Actual Version: 3.0.0, 2022-11-10
+## Actual Version: 3.0.0, 2022-11-11
 ## [Changelog](https://github.com/ProjectDebbie/Classifier/blob/master/CHANGELOG)
 
 ## Built With
