@@ -4,7 +4,7 @@ This component performs multiclass classification of abstracts to determine if t
 
 ## Description  of the project
 
-A logistic regression model with stochastic gradient descent optimization (SGDClassifier) using term frequency times inverse document frequency (TF-IDF) as the main feature extraction mechanism was developed and trained to detect abstracts that have relevance to the biomaterials area (either clinical or non-clinical studies). Preprocessing and feature extraction includes: lowercase, removing punctuation, stop words, lemmatization and part-of-speech. 
+A logistic regression model with stochastic gradient descent optimization (SGDClassifier) using term frequency times inverse document frequency (TF-IDF) as the main feature extraction mechanism was developed and trained to detect abstracts that have relevance to the biomaterials area (either clinical or non-clinical studies). Preprocessing and feature extraction includes: lowercase, removing punctuation, stop words, lemmatization and part-of-speech tagging. 
 
 The DEBBIE SGDClassifier model achieved an accuracy of 0.89, a recall of 0.86 and an F1-score of 0.87.
 
@@ -12,7 +12,7 @@ The components of the trained classifier are available for download as .pkl file
 
 ## Model development and performance
 
-The SGD Classifier has been pre-trained on 3 collections:
+The DEBBIE SGDClassifier has been pre-trained on 3 collections:
 
 - [gold standard biomaterials non-clinical collection](https://github.com/ProjectDebbie/gold_standard_set/blob/master/laboratory_gs_1213.txt)
 - [gold standard biomaterials clinical collection](https://github.com/ProjectDebbie/gold_standard_set/blob/master/clinical_gs_1092.txt)
@@ -20,10 +20,10 @@ The SGD Classifier has been pre-trained on 3 collections:
 
 The folder classifier-dataset contains the test set that was used for validate the classifier.
 
-The best model was selected after a benchmarking on different vectorization approaches and models, including: Word2Vec and TF-IDF Vectorization; and the models Multinomial Naive Bayes, Logistic Regression, SVM and Linear classifiers (SVM and Logistic Regression) with stochastic gradient descent (SGD) training, also know as SGDClassifier. For the selection of the best model a 10 cross-validation using the training set was performed. 
+The best model was selected after a benchmarking on different vectorization approaches and models, including: Bag of Words (BoW), Term Frequency-Inverse Document Frequency (TF-IDF) and Word2Vec Vectorization; and the models Multinomial Naive Bayes, Logistic Regression, SVM and Linear classifiers (SVM and Logistic Regression) with stochastic gradient descent (SGD) training, also know as SGDClassifier. For the selection of the best model a 10 cross-validation using the training set was performed. 
 
-The best model is a logistic regression model with stochastic gradient descent optimization (SGDClassifier) using term frequency times inverse document frequency (TF-IDF).
-The DEBBIE SGDClassifier model achieved an accuracy of 0.89, a recall of 0.86 and an F1-score of 0.87. In a more detailed analysis on recall, of the 609 biomaterials-relevant abstracts that were part of the test set (248 clinical and 361 non-clinical), 31 (5%) were miss-classified as not relevant. The SGDClassifier was developed using the Python library sklearn.  
+The best model is a logistic regression model with stochastic gradient descent optimization (SGDClassifier) using TF-IDF.
+The DEBBIE SGDClassifier model achieved an accuracy of 0.89, a recall of 0.86 and an F1-score of 0.87. In a more detailed analysis on recall, of the 609 biomaterials-relevant abstracts that were part of the test set (248 clinical and 361 non-clinical), 31 (5%) were miss-classified as not relevant. The DEBBIE SGDClassifier was developed using the Python library sklearn.  
 
 ### Classification report
 
