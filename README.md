@@ -23,7 +23,7 @@ The folder classifier-dataset contains the test set that was used for validate t
 The best model was selected after a benchmarking on different vectorization approaches and models, including: Bag of Words (BoW), Term Frequency-Inverse Document Frequency (TF-IDF) and Word2Vec Vectorization; and the models Multinomial Naive Bayes, Logistic Regression, SVM and Linear classifiers (SVM and Logistic Regression) with stochastic gradient descent (SGD) training, also know as SGDClassifier. For the selection of the best model a 10 cross-validation using the training set was performed. 
 
 The best model is a logistic regression model with stochastic gradient descent optimization (SGDClassifier) using TF-IDF.
-The DEBBIE SGDClassifier model achieved an accuracy of 0.89, a recall of 0.86 and an F1-score of 0.87. In a more detailed analysis on recall, of the 609 biomaterials-relevant abstracts that were part of the test set (248 clinical and 361 non-clinical), 31 (5%) were miss-classified as not relevant. The DEBBIE SGDClassifier was developed using the Python library sklearn.  
+The DEBBIE SGDClassifier model achieved a presicion of 0.90, a recall of 0.88 and an F1-score of 0.89. In a more detailed analysis on recall, of the 609 biomaterials-relevant abstracts that were part of the test set (248 clinical and 361 non-clinical), 31 (5%) were miss-classified as not relevant. The DEBBIE SGDClassifier was developed using the Python library sklearn.  
 
 ### Classification report
 
@@ -62,7 +62,7 @@ Parameters:
 
 ## Authors
 
-* **Javier Corvi**  - **Osnat Hakimi** - **Austin McKitrick** 
+* **Osnat Hakimi** - **Javier Corvi** - **Austin McKitrick** 
 
 
 ## License
