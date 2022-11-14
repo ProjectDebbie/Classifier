@@ -6,7 +6,7 @@ This component performs multiclass classification of abstracts to determine if t
 
 A logistic regression model with stochastic gradient descent optimization (SGDClassifier) using term frequency times inverse document frequency (TF-IDF) as the main feature extraction mechanism was developed and trained to detect abstracts that have relevance to the biomaterials area (either clinical or non-clinical studies). Preprocessing and feature extraction includes: lowercase, removing punctuation, stop words, lemmatization and part-of-speech tagging. 
 
-The DEBBIE SGDClassifier model achieved an accuracy of 0.89, a recall of 0.86 and an F1-score of 0.87.
+The DEBBIE SGDClassifier model achieved an presicion of 0.90, a recall of 0.88 and an F1-score of 0.89.
 
 The components of the trained classifier are available for download as .pkl files. The classifer returns the relevant abstracts in a designated folder. 
 
