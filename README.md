@@ -2,8 +2,6 @@
 
 This component performs multiclass classification of abstracts to determine if they are relevant (either clinical or non-clinical studies) or not relevant to the field of biomaterials.   
 
-Please, if you want to access the last version of the DEBBIE's multiclass classifier go to https://github.com/ProjectDebbie/Classifier/tree/multiclass.
-
 ## Description  of the project
 
 A logistic regression model with stochastic gradient descent optimization (SGDClassifier) using term frequency times inverse document frequency (TF-IDF) as the main feature extraction mechanism was developed and trained to detect abstracts that have relevance to the biomaterials area (either clinical or non-clinical studies). Preprocessing and feature extraction includes: lowercase, removing punctuation, stop words, lemmatization and part-of-speech tagging. 
