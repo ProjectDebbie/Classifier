@@ -1,5 +1,21 @@
 # Change Log
 
+## Version 3.0.0, 2022-11-11
+New version of the classifier.  A logistic regression model with stochastic gradient descent optimization (SGDClassifier) using TF-IDF.
+
+New Structure of the project, including the test data set, the debbie_classifier_performance to reproduce the performance metrics, and more.
+
+## Version 2.1.0, 2022-09-05
+Add requirements and constraints to dockerization
+
+## Version 1.1.0, 2022-02-03
+Add metadata file to process
+
+## Version 1.0.2, 2021-04-13
+
+SVM Classifier now multiclass, trained on 3 sets. 
+Removed label making during classification.  
+
 ## Version 1.0.1, 2020-06-22
 
 New feature for execution step folder by folder.  The input could include subfolders.  
