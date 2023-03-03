@@ -9,8 +9,6 @@ COPY constraints.txt .
 RUN pip install -r requirements.txt -c constraints.txt
 
 COPY debbie_trained_classifier.py .
-COPY	count_vect.pkl .
-COPY	svm_model.pkl .
-COPY	transformer.pkl .
+COPY debbie-abstract-classifier-model-transformers-1.0.0 debbie-abstract-classifier-model-transformers-1.0.0
 
 CMD [ "python", "debbie_trained_classifier.py" ]
