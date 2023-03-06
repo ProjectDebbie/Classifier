@@ -38,7 +38,6 @@ def run_classifier(input, output, checkpoint):
     
             for key, value in results.items():
                 if value['label'] == 'clinical':
-                    print(value)
                     relevant_abstracts.append(key)
                     filepathTokens = key.split('/')
                     lastToken = filepathTokens[len(filepathTokens) - 1]
@@ -62,7 +61,6 @@ def run_classifier(input, output, checkpoint):
                         content = f.read()
                         c.write( content +  'non-clinical' + '\n')
                 else:
-                    print(value) 
                     not_relevant_abstracts.append(key)
             print('total number of abstracts collected in folder', (len(relevant_abstracts)+len(not_relevant_abstracts)))
             print('number of relevant abstracts in folder:', len(relevant_abstracts))
