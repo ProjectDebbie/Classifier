@@ -99,7 +99,7 @@ if __name__ == '__main__':
         sys.exit(1)
     if (args.m == None):
         print("Default model will be used")
-        args.m = "./debbie-abstract-classifier-model-transformers-1.0.0"        
+        args.m = "javicorvi/DEBBIE_BioBERT"        
     print("Start classifier process")
     #create output folder if not exist
     if not os.path.exists(args.o):
