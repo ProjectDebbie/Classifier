@@ -1,5 +1,13 @@
 # Change Log
 
+## Version 4.0.0, 2023-03-10
+New version of the classifier using Transformers and the DEBBIE_BioBERT model.
+
+## Version 3.0.0, 2022-11-11
+New version of the classifier.  A logistic regression model with stochastic gradient descent optimization (SGDClassifier) using TF-IDF.
+
+New Structure of the project, including the test data set, the debbie_classifier_performance to reproduce the performance metrics, and more.
+
 ## Version 2.1.0, 2022-09-05
 Add requirements and constraints to dockerization
 
