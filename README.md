@@ -1,12 +1,10 @@
-# DEBBIE Abstract Classifier, DEBBIE_BioBERT model
+# DEBBIE Abstract Classifier
 
-This component performs multiclass classification of abstracts to determine if they are relevant (either clinical or non-clinical studies) or not relevant to the field of biomaterials. We used Transformers, the state-of-the-art of NLP, to train a model capable of detecting relevant biomaterials abstracts.  
+This component performs multiclass classification of abstracts to determine if they are relevant (either clinical or non-clinical studies) or not relevant to the field of biomaterials. We used the Transformers, the state-of-the-art of NLP, to train the DEBBIE_BioBERT model  capable of detecting relevant biomaterials abstracts.  
 
 ## Description  of the project
 
-The DEBBIE_BioBERT model achieved an presicion of 0.92, a recall of 0.91 and an F1-score of 0.91. To achieve this result, we performed benchmarking between different pretrained models on biomedical data. The fine-tuning of the BioBERT (Bidirectional Encoder Representations from Transformers for Biomedical Text Mining) pretrained model obtained the best result. 
-
-BioBERT is a domain-specific language representation model pre-trained on large-scale biomedical corpora. We made use of the BioBERT version pre-trained with PubMed.    
+The DEBBIE_BioBERT model text-classification obtains an presicion of 0.92, a recall of 0.91 and an F1-score of 0.91. To achieve this result, we performed benchmarking between different pretrained models on biomedical data. The fine-tuning of the BioBERT (Bidirectional Encoder Representations from Transformers for Biomedical Text Mining) pretrained model obtained the best result. BioBERT is a domain-specific language representation model pre-trained on large-scale biomedical corpora. We made use of the BioBERT version pre-trained with PubMed.    
 
 This component was developed in Python leveraging the HuggingFace ecosystem for the development of transformer models 
 [https://huggingface.co/](https://huggingface.co/). 
@@ -26,7 +24,7 @@ The folder classifier-dataset contains the test set that was used for validate t
 The best model was selected after a benchmarking on different pre-trained biomedical models: [BioBert](https://huggingface.co/dmis-lab/biobert-v1.1), [Bio_ClinicalBERT](https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT) and [BioDistilBERT-uncased](https://huggingface.co/nlpie/bio-distilbert-uncased).
 
 
-DEBBIE Abstract Classifier older version 3.00 was a logistic regression model with stochastic gradient descent optimization (SGDClassifier) using term frequency times inverse document frequency (TF-IDF). The old DEBBIE SGDClassifier model achieved an presicion of 0.90, a recall of 0.88 and an F1-score of 0.89. The new DEBBIE_BioBERT model achieved an presicion of 0.92, a recall of 0.91 and an F1-score of 0.91.
+The DEBBIE Abstract Classifier older version 3.00 was a logistic regression model with stochastic gradient descent optimization (SGDClassifier) using term frequency times inverse document frequency (TF-IDF). The old DEBBIE SGDClassifier model achieved an presicion of 0.90, a recall of 0.88 and an F1-score of 0.89. The new DEBBIE_BioBERT model achieved an presicion of 0.92, a recall of 0.91 and an F1-score of 0.91.
 
 
 ### Classification report
