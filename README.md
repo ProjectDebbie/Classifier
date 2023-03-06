@@ -35,7 +35,7 @@ The DEBBIE Abstract Classifier older version 3.00 was a logistic regression mode
 
 ![Confusion Matrix](confusion_matrix.png)
 
-The performance results can be reproducible through the file debbie_classifier_performance.ypinb (jypiter notebook).
+The performance results can be reproducible through the file debbie_abstract_classifier_performance.ypinb (jypiter notebook).
  
 ## Docker
 projectdebbie/classifier:4.0.0
