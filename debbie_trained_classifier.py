@@ -18,7 +18,6 @@ def run_classifier(input, output, checkpoint):
     total_non_relevant=0
     #iterate over folders and classify
     for f in folders:
-        print ('folder:' + f)
         test_set = glob(f + '/*.txt', recursive=True)
         if(len(test_set)>0):
             #extract features new abstracts
@@ -35,7 +34,6 @@ def run_classifier(input, output, checkpoint):
             print(results)
             relevant_abstracts = []
             not_relevant_abstracts = []
-    
             for key, value in results.items():
                 if value['label'] == 'clinical':
                     relevant_abstracts.append(key)
