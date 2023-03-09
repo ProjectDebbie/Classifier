@@ -12,7 +12,4 @@ RUN [ "python3", "-c", "import nltk; nltk.download('stopwords', download_dir='/u
 
 COPY debbie_trained_classifier.py .
 
-COPY	debbie_model.pkl .
-COPY	debbie_vectorizer.pkl .
-
 CMD [ "python", "debbie_trained_classifier.py" ]

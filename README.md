@@ -1,18 +1,19 @@
 # DEBBIE Abstract Classifier
 
-This component performs multiclass classification of abstracts to determine if they are relevant (either clinical or non-clinical studies) or not relevant to the field of biomaterials.   
+This component performs multiclass classification of abstracts to determine if they are relevant (either clinical or non-clinical studies) or not relevant to the field of biomaterials. We used the Transformers, the state-of-the-art of NLP, to train the DEBBIE_BioBERT model  capable of detecting relevant biomaterials abstracts.  
 
 ## Description  of the project
 
-A logistic regression model with stochastic gradient descent optimization (SGDClassifier) using term frequency times inverse document frequency (TF-IDF) as the main feature extraction mechanism was developed and trained to detect abstracts that have relevance to the biomaterials area (either clinical or non-clinical studies). Preprocessing and feature extraction includes: lowercase, removing punctuation, stop words, lemmatization and part-of-speech tagging. 
+The DEBBIE_BioBERT model text-classification obtains an presicion of 0.92, a recall of 0.91 and an F1-score of 0.91. To achieve this result, we performed benchmarking between different pretrained models on biomedical data. The fine-tuning of the BioBERT (Bidirectional Encoder Representations from Transformers for Biomedical Text Mining) pretrained model obtained the best result. BioBERT is a domain-specific language representation model pre-trained on large-scale biomedical corpora. We made use of the BioBERT version pre-trained with PubMed.    
 
-The DEBBIE SGDClassifier model achieved an presicion of 0.90, a recall of 0.88 and an F1-score of 0.89.
+This component was developed in Python leveraging the HuggingFace ecosystem for the development of transformer models 
+[https://huggingface.co/](https://huggingface.co/). 
 
-The components of the trained classifier are available for download as .pkl files. The classifer returns the relevant abstracts in a designated folder. 
+DEBBIE_BioBERT is available at [https://huggingface.co/javicorvi/DEBBIE_BioBERT/](https://huggingface.co/javicorvi/DEBBIE_BioBERT/)
 
 ## Model development and performance
 
-The DEBBIE SGDClassifier has been pre-trained on 3 collections:
+The DEBBIE_BioBERT has been fine-tuned with 3 collections:
 
 - [gold standard biomaterials non-clinical collection](https://github.com/ProjectDebbie/gold_standard_set/blob/master/laboratory_gs_1213.txt)
 - [gold standard biomaterials clinical collection](https://github.com/ProjectDebbie/gold_standard_set/blob/master/clinical_gs_1092.txt)
@@ -20,10 +21,9 @@ The DEBBIE SGDClassifier has been pre-trained on 3 collections:
 
 The folder classifier-dataset contains the test set that was used for validate the classifier.
 
-The best model was selected after a benchmarking on different vectorization approaches and models, including: Bag of Words (BoW), Term Frequency-Inverse Document Frequency (TF-IDF) and Word2Vec Vectorization; and the models Multinomial Naive Bayes, Logistic Regression, SVM and Linear classifiers (SVM and Logistic Regression) with stochastic gradient descent (SGD) training, also know as SGDClassifier. For the selection of the best model a 10 cross-validation using the training set was performed. 
+The best model was selected after a benchmarking on different pre-trained biomedical models: [BioBert](https://huggingface.co/dmis-lab/biobert-v1.1), [Bio_ClinicalBERT](https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT) and [BioDistilBERT-uncased](https://huggingface.co/nlpie/bio-distilbert-uncased).
 
-The best model is a logistic regression model with stochastic gradient descent optimization (SGDClassifier) using TF-IDF.
-The DEBBIE SGDClassifier model achieved a presicion of 0.90, a recall of 0.88 and an F1-score of 0.89. In a more detailed analysis on recall, of the 609 biomaterials-relevant abstracts that were part of the test set (248 clinical and 361 non-clinical), 31 (5%) were miss-classified as not relevant. The DEBBIE SGDClassifier was developed using the Python library sklearn.  
+The DEBBIE Abstract Classifier older version 3.00 was a logistic regression model with stochastic gradient descent optimization (SGDClassifier) using term frequency times inverse document frequency (TF-IDF). The old DEBBIE SGDClassifier model achieved an presicion of 0.90, a recall of 0.88 and an F1-score of 0.89. The new DEBBIE_BioBERT model achieved an presicion of 0.92, a recall of 0.91 and an F1-score of 0.91.
 
 ### Classification report
 
@@ -33,10 +33,10 @@ The DEBBIE SGDClassifier model achieved a presicion of 0.90, a recall of 0.88 an
 
 ![Confusion Matrix](confusion_matrix.png)
 
-The performance results can be reproducible through the file debbie_classifier_performance.ypinb (jypiter notebook).
+The performance results can be reproducible through the file debbie_abstract_classifier_performance.ypinb (jypiter notebook).
  
 ## Docker
-projectdebbie/classifier:3.0.0
+projectdebbie/classifier:4.0.0
 
 ## Execution 
 
@@ -52,7 +52,9 @@ Parameters:
 
 -w work folder
 
-## Actual Version: 3.0.0, 2022-11-11
+
+## Actual Version: 4.0.0, 2023-03-10
+
 ## [Changelog](https://github.com/ProjectDebbie/Classifier/blob/master/CHANGELOG)
 
 ## Built With
@@ -62,8 +64,7 @@ Parameters:
 
 ## Authors
 
-* **Osnat Hakimi** - **Javier Corvi** - **Austin McKitrick** 
-
+* **Javier Corvi** - **Osnat Hakimi** 
 
 ## License
 
@@ -72,4 +73,6 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3 - see th
 ## Funding
 <img align="left" width="75" height="50" src="eu_emblem.png"> This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 751277
 	
+		
+
 		

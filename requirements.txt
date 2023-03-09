@@ -1,6 +1,4 @@
-sklearn
-numpy
-pandas
-joblib
 argparse
-nltk
+transformers
+torch
+
