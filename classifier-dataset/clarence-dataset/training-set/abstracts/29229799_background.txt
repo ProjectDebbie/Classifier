@@ -1,2 +1,0 @@
-Shallow water equations for equatorial tsunami waves.
-We present derivations of shallow water model equations of Korteweg-de Vries and Boussinesq type for equatorial tsunami waves in the f-plane approximation and discuss their applicability.This article is part of the theme issue 'Nonlinear water waves'.

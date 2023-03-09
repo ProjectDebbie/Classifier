@@ -1,2 +1,0 @@
-Growing bacteria in liquid media.
-The procedure for inoculating overnight (starter) cultures of E. coli from a single colony is described along with considerations for growing larger cultures. Also included are two methods for monitoring cell growth using a spectrophotometer or a hemacytometer.

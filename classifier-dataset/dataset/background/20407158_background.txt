@@ -1,2 +1,0 @@
-Health information systems: requirements and characteristics.
-This chapter gives an educational overview of: * The purpose of health information systems (HIS). * The characteristics of health information systems for the future. * System interoperability as an essential feature in a modern HIS. * Why user requirements must be established before an HIS is designed. * How to transform a requirements specification into a request for tender.

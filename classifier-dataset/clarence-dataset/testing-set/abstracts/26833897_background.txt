@@ -1,2 +1,0 @@
-Graphene Oxide-Based Electrode Inks for 3D-Printed Lithium-Ion Batteries.
-All-component 3D-printed lithium-ion batteries are fabricated by printing graphene-oxide-based composite inks and solid-state gel polymer electrolyte. An entirely 3D-printed full cell features a high electrode mass loading of 18 mg cm(-2) , which is normalized to the overall area of the battery. This all-component printing can be extended to the fabrication of multidimensional/multiscale complex-structures of more energy-storage devices. 

@@ -1,2 +1,0 @@
-Propylene glycol is essential in the LCModel basis set for pediatric 1H-MRS.
-Propylene glycol (PG) is an organic solvent used in a variety of parenterally injected pharmaceutical preparations. In this current study, we analyzed neonatal brains following routine MRS evaluation at 1.5 T, using the LCModel software, with and without the addition of PG to the analysis basis-set. We suggest including PG in the LCModel basis-set for neonatal brain H-MRS to improve the discrimination and quantification of lactate and inositol.

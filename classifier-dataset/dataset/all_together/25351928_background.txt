@@ -1,2 +1,0 @@
-Pt/C trapped in activated graphitic carbon layers as a highly durable electrocatalyst for the oxygen reduction reaction.
-A thin nitrogen-doped graphitic carbon layer is elaborately introduced into the Pt/C surface to not only inhibit migration and dissolution of Pt nanoparticles, but also impart activity to the integral catalyst without blocking the inner Pt catalytic active sites. The corrosion of the carbon support can also be alleviated due to the outer graphitic coverage. 

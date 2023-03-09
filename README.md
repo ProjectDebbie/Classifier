@@ -23,9 +23,7 @@ The folder classifier-dataset contains the test set that was used for validate t
 
 The best model was selected after a benchmarking on different pre-trained biomedical models: [BioBert](https://huggingface.co/dmis-lab/biobert-v1.1), [Bio_ClinicalBERT](https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT) and [BioDistilBERT-uncased](https://huggingface.co/nlpie/bio-distilbert-uncased).
 
-
 The DEBBIE Abstract Classifier older version 3.00 was a logistic regression model with stochastic gradient descent optimization (SGDClassifier) using term frequency times inverse document frequency (TF-IDF). The old DEBBIE SGDClassifier model achieved an presicion of 0.90, a recall of 0.88 and an F1-score of 0.89. The new DEBBIE_BioBERT model achieved an presicion of 0.92, a recall of 0.91 and an F1-score of 0.91.
-
 
 ### Classification report
 
@@ -54,7 +52,9 @@ Parameters:
 
 -w work folder
 
+
 ## Actual Version: 4.0.0, 2023-03-10
+
 ## [Changelog](https://github.com/ProjectDebbie/Classifier/blob/master/CHANGELOG)
 
 ## Built With
@@ -65,7 +65,6 @@ Parameters:
 ## Authors
 
 * **Javier Corvi** - **Osnat Hakimi** 
-
 
 ## License
 

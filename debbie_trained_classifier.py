@@ -6,7 +6,6 @@ from glob import glob
 from pathlib import Path
 from shutil import copy2
 
-
 def run_classifier(input, output, checkpoint):
     pipe = pipeline("text-classification", model=checkpoint) 
     print("create pipeline done")

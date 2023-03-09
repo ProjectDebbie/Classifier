@@ -1,2 +1,0 @@
-Graphite/silicon hybrid electrodes using a 3D current collector for flexible batteries.
-A flexible hybrid anode from graphite and thin film silicon is realized by the concept of a 3D sandwich current collector by the combination of micro-contact printing and RF magnetron sputtering. Flexible lithium-ion batteries with a new hybrid anode demonstrate not only enhanced specific capacity but also improved rate capability compared to that of a conventional graphite anode under bending deformation. 

@@ -1,2 +1,0 @@
-Asymmetric Hydrogenation of Isoquinolines and Pyridines Using Hydrogen Halide Generated in Situ as Activator.
-By employing halogenide trichloroisocyanuric acid as a traceless activation reagent, a general iridium-catalyzed asymmetric hydrogenation of isoquinolines and pyridines is developed with up to 99% ee. This method avoids tedious steps of installation and removal of the activating groups. The mechanism studies indicated that hydrogen halide generated in situ acted as an activator of isoquinolines and pyridines.

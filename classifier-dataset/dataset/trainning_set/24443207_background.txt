@@ -1,2 +1,0 @@
-Structural aspects of vectorial electron transfer in photosynthetic reaction centers.
-Structural aspects of photosynthetic reaction centers in bacteria and plants are discussed in relation with the ability of these structures to perform a photoinduced electron transfer from one side of the membrane to the other. A comparison is made with recently synthesized artificial models. Functional similarities between the acceptor sides of bacterial and of Photosystem-II centers are utilized to hypothesize on their structure. 
