@@ -2,6 +2,8 @@
 
 This component performs multiclass classification of abstracts to determine if they are relevant (either clinical or non-clinical studies) or not relevant to the field of biomaterials. We used the Transformers, the state-of-the-art of NLP, to train the DEBBIE_BioBERT model  capable of detecting relevant biomaterials abstracts.  
 
+DEBBIE is available at https://debbie.bsc.es/search/. For more information about DEBBIE please visit the documantetion site at https://projectdebbie.github.io/.
+
 ## Description  of the project
 
 The DEBBIE_BioBERT model text-classification obtains an presicion of 0.92, a recall of 0.91 and an F1-score of 0.91. To achieve this result, we performed benchmarking between different pretrained models on biomedical data. The fine-tuning of the BioBERT (Bidirectional Encoder Representations from Transformers for Biomedical Text Mining) pretrained model obtained the best result. BioBERT is a domain-specific language representation model pre-trained on large-scale biomedical corpora. We made use of the BioBERT version pre-trained with PubMed.    
